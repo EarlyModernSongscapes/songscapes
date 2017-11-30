@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="../schema/songscapes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schema/songscapes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -16,7 +16,7 @@
                <title>Ayres and Dialogues, For One, Two, and Three Voyces</title>
                <author role="composer">Henry Lawes</author>
                <pubPlace>London</pubPlace>, <date type="publication" when="1653">1653</date>.
-               <idno type="Wing">L638</idno>
+               <idno type="wing">L638</idno>
                <idno type="call_number">Folger L638, copy 2</idno>
                <biblScope unit="leaf" from="I2v">leaf I2 verso</biblScope>,
                <biblScope unit="page" from="30">page 30</biblScope>
@@ -31,7 +31,9 @@
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <lg type="stanza" subtype="underlay">
+          <ab>
+            <supplied reason="underlay">
+          <lg type="stanza">
             <l>Tis Wine that inspires,</l>
             <l rend="indent1">and quencheth Lov's fires,</l>
             <l>teaches fools how to rule a State</l>
@@ -39,6 +41,7 @@
             <l rend="indent1">because those that love it</l>
             <l>dispise and laugh at their hate.</l>
           </lg>
+        </supplied>
           <lg type="stanza">
             <l>The Drinkers of Beer</l>
             <l rend="indent1">Did ne'r yet appear</l>
@@ -47,7 +50,7 @@
             <l rend="indent1">Is quickn'd by Wine</l>
             <l>That raises things to their height.</l>
           </lg>
-          <lg>
+          <lg type="stanza">
             <l>We then should it prize,</l>
             <l rend="indent1">For never black eyes</l>
             <l>Made wounds which this could not heale;</l>
@@ -55,6 +58,7 @@
             <l rend="indent1">To drink of this Juice,</l>
             <l>Is a Foe to the Common-weale.</l>
           </lg>
+        </ab>
         </div>
       </body>
   </text>

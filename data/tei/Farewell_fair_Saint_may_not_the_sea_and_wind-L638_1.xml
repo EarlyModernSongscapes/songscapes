@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="../schema/songscapes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schema/songscapes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -15,8 +15,9 @@
             <bibl>
               <title>Ayres and Dialogues, For One, Two, and Three Voyces</title>
               <author role="composer">Henry Lawes</author>
+              <author role="poet">Thomas Cary</author>
               <pubPlace>London</pubPlace>, <date type="publication" when="1653">1653</date>.
-              <idno type="Wing">L638</idno>
+              <idno type="wing">L638</idno>
               <idno type="call_number">Folger L638, copy 1</idno>
               <biblScope unit="leaf" from="D1v">leaf D1 verso</biblScope>,
               <biblScope unit="page" from="10" to="11">pages 10-11</biblScope>
@@ -31,7 +32,9 @@
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <lg type="stanza" subtype="underlay">
+          <ab>
+            <supplied reason="underlay">
+          <lg type="stanza">
             <l>Farewell fair Saint, may not the sea and wind</l>
             <l>swell like the hearts and eyes you leave behind,</l>
             <l>but calme and gentle as the looks you beare,</l>
@@ -51,7 +54,9 @@
             <l>and lose but in a noble way of wooing,</l>
             <l>whilst both contribute to your owne undoing</l>
           </lg>
-        </div>
+        </supplied>
+        </ab>
+      </div>
       </body>
   </text>
 </TEI>

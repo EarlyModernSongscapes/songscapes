@@ -15,9 +15,10 @@
             <bibl>
               <title>Ayres and Dialogues, For One, Two, and Three Voyces</title>
               <author role="composer">Henry Lawes</author>
+              <author role="poet">William Cartwright</author>
               <pubPlace>London</pubPlace>, <date type="publication" when="1653">1653</date>.
               <idno type="wing">L638</idno>
-              <idno type="call_number">Folger L638</idno>
+              <idno type="call_number">Folger L638, copy 2</idno>
               <biblScope unit="leaf" from="C2r">leaf C2 recto</biblScope>,
               <biblScope unit="page" from="7">page 7</biblScope>
             </bibl>
@@ -29,23 +30,24 @@
         <div>
           <head rend="italic">A Complaint against <hi rend="roman">Cupid.</hi></head>
             <notatedMusic>
-              <xi:include href="../mei/AComplaintAgainstCupid.xml"/>
-            </notatedMusic>
-            <ab>
-              <supplied reason="underlay">
-                <lg type="stanza">
-                  <l><hi rend="italic">Venus,</hi> redress a wrong thats done</l>
-                  <l>by that yong sprightful boy thy son;</l>
-                  <l>he wounds, and then laughs at the sore,</l>
-                  <l>hatred it self coudl do no more;</l>
-                  <l>if I pursue, he's smal &amp; light,</l>
-                  <l>both seen at once, and out of sight;</l>
-                  <l>if I do flye, he's wing'd, &amp; then</l>
-                  <l>Left one day thou thy selfe may'st suffer so,</l>
-                  <l>or clip the wantons wings, or break his Bow.</l>
-                </lg>
-              </supplied>
-            </ab>
+            <!-- MEI goes here -->
+          </notatedMusic>
+          <ab>
+            <supplied reason="underlay">
+          <lg type="stanza">
+            <l><hi rend="italic">Venus,</hi> redress a wrong thats done</l>
+            <l>by that yong sprightful boy thy son;</l>
+            <l>he wounds, and then laughs at the sore,</l>
+            <l>hatred it self could do no more;</l>
+            <l>if I pursue, he's smal &amp; light,</l>
+            <l>both seen at once, and out of sight;</l>
+            <l>if I do flye, he's wing'd, &amp; then</l>
+            <l>at the first step I'm caught again.</l>
+            <l>Left one day thou thy selfe may'st suffer so,</l>
+            <l>or clip the wantons wings, or break his Bow.</l>
+          </lg>
+          </supplied>
+          </ab>
         </div>
       </body>
   </text>

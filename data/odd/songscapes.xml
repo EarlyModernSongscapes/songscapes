@@ -51,7 +51,7 @@
                     <!-- required -->
                     <moduleRef key="core"/>
                     <!-- required -->
-                    <!--<moduleRef key="analysis"/>-->
+                    <moduleRef key="analysis" include="w"/>
                     <!--<moduleRef key="certainty"/>-->
                     <!--<moduleRef key="corpus"/>-->
                     <!--<moduleRef key="dictionaries"/>-->
@@ -61,12 +61,12 @@
                     <moduleRef key="header"/>
                     <!-- required -->
                     <!--<moduleRef key="iso-fs"/>-->
-                    <moduleRef key="linking" include="ab"/>
-                    <!--<moduleRef key="msdescription"/>-->
+                    <moduleRef key="linking" include="ab seg"/>
+                    <moduleRef key="msdescription"/>
                     <!--<moduleRef key="namesdates"/>-->
                     <!--<moduleRef key="nets"/>-->
                     <!--<moduleRef key="spoken"/>-->
-                    <!--<moduleRef key="textcrit"/>-->
+                    <moduleRef key="textcrit" include="app rdg rdgGrp lem listWit witness"/>
                     <moduleRef key="textstructure"/>
                     <!-- required -->
                     <moduleRef key="transcr" include="supplied"/>

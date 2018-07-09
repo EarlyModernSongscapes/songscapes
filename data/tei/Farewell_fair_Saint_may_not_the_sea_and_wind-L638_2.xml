@@ -19,7 +19,7 @@
               <pubPlace>London</pubPlace>, <date type="publication" when="1653">1653</date>.
               <idno type="wing">L638</idno>
               <idno type="call_number">Folger L638, copy 2</idno>
-              <biblScope unit="leaf" from="D1v">leaf D1 verso</biblScope>,
+              <biblScope unit="leaf" from="D1v" to="D2r">leaves D1 verso to D2 recto</biblScope>,
               <biblScope unit="page" from="10" to="11">pages 10-11</biblScope>
             </bibl>
          </sourceDesc>
@@ -35,7 +35,7 @@
           <ab>
             <supplied reason="underlay">
           <lg type="stanza">
-            <l>Farewell fair Saint, may not the sea and wind</l>
+            <l>FArewell fair Saint, may not the sea and wind</l>
             <l>swell like the hearts and eyes you leave behind,</l>
             <l>but calme and gentle as the looks you beare,</l>
             <l>smile in your face and whisper in your eare:</l>

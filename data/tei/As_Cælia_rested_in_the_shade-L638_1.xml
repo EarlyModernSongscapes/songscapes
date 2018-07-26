@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/songscapes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schema/songscapes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Pastorall Dialogue betwixt Cleon and Cælia</title>
+              <title type="first_line">As Cælia rested in the shade</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Early Modern Songscapes</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+              <title>Ayres and Dialogues, For One, Two, and Three Voyces</title>
+              <author role="composer">Henry Lawes</author>
+              <author role="poet">Thomas Carew</author>
+              <pubPlace>London</pubPlace>, <date type="publication" when="1653">1653</date>.
+              <idno type="wing">L638</idno>
+              <idno type="call_number">Folger L638, copy 1</idno>
+              <biblScope unit="leaf" from="2B1r" to="2B2v">leaves Bb1 recto to Bb2 verso</biblScope>,
+              <biblScope unit="page" from="5" to="8">pages 5-8</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+        <div>
+          <head rend="italic">A Pastorall Dialogue betwixt <hi rend="roman">Cleon</hi> and<hi rend="roman">Cælia</hi>.</head>
+            <notatedMusic>
+            <!-- MEI goes here -->
+          </notatedMusic>
+          <ab>
+            <supplied reason="underlay">
+              <stage><sp>
+                <lg type="stanza">
+            <head><choice><abbr>Cho</abbr><expan>Chorus</expan></choice>.</head>
+            <speaker rend="italic">Cælia. Cleon.</speaker>
+            <l>AS <hi rend="italic">Cælia</hi> rested in the shade</l>
+            <l rend="indent1">with <hi rend="italic">Cleon</hi> by her side,</l>
+            <l>the Swain thus courted the yong Mayd,</l>
+            <l rend="indent1">and thus the Nimph reply'd.</l>
+          </lg>
+        </sp></stage>
+        <stage><sp>
+          <lg type="stanza">
+            <speaker rend="italic">Cleon.</speaker>
+            <l>Sweet let thy captive fetters wear</l>
+            <l rend="indent1">made by thine arms &amp; hands,</l>
+            <l>'till such as thraldome scorn,</l>
+            <l rend="indent1">or fear, envy those happy bands.</l>
+          </sp></stage>
+          <stage><sp>
+            <speaker rend="italic">Cælia.</speaker>
+            <l>Then thus my willing arms I wind</l>
+            <l rend="indent1">about thee, and am so</l>
+            <l>thy pris'ner, for my selfe I bind</l>
+            <l rend="indent1">untill I let thee go.</l>
+          </sp></stage>
+          <stage><sp>
+            <speaker rend="italic"><choice><abbr>Cle</abbr><expan>Cleon</expan></choice>.</speaker>
+            <l>Happy that slave whom the fair foe</l>
+            <l rend="indent1">ties in so soft a chain.</l>
+          </sp></stage>
+          <stage><sp>
+            <speaker rend="italic"><choice><abbr>Cæl</abbr><expan>Cælia</expan></choice>.</speaker>
+            <l>Far happier I, but that I know</l>
+            <l rend="indent1">thou <pb n="2B1v"/>wilt break loose again.</l>
+          </sp></stage>
+          <stage><sp>
+            <speaker rend="italic"><choice><abbr>Cle</abbr><expan>Cleon</expan></choice>.</speaker>
+            <l>By thy immortal Beauties never.</l>
+          </sp></stage>
+          <stage><sp>
+            <speaker rend="italic"><choice><abbr>Cæl</abbr><expan>Cælia</expan></choice>.</speaker>
+            <l rend="indent1">Fraile as thy Love's thine Oath.</l>
+          </sp></stage>
+          <stage><sp>
+            <speaker rend="italic"><choice><abbr>Cle</abbr><expan>Cleon</expan></choice>.</speaker>
+            <l>Though beauty faile my faith lasts ever.</l>
+          </sp></stage>
+          <stage><sp>
+            <speaker rend="italic"><choice><abbr>Cæl</abbr><expan>Cælia</expan></choice>.</speaker>
+            <l rend="indent1">Time will destroy them both.</l>
+          </sp></stage>
+          <stage><sp>
+            <speaker rend="italic"><choice><abbr>Cle</abbr><expan>Cleon</expan></choice>.</speaker>
+            <l>I doat not on that snow-white skin.</l>
+          </sp></stage>
+          <stage><sp>
+            <speaker rend="italic"><choice><abbr>Cæl</abbr><expan>Cælia</expan></choice>.</speaker>
+            <l rend="indent1">What then?</l>
+          </sp></stage>
+            <stage><sp>
+            <speaker rend="italic"><choice><abbr>Cle</abbr><expan>Cleon</expan></choice>.</speaker>
+            <l rend="indent5">Thy purer mind.</l>
+          </sp></stage>
+          <stage><sp>
+            <speaker rend="italic"><choice><abbr>Cæl</abbr><expan>Cælia</expan></choice>.</speaker>
+            <l>It lov'd too soon.</l>
+          </sp></stage>
+            <stage><sp>
+            <speaker rend="italic"><choice><abbr>Cle</abbr><expan>Cleon</expan></choice>.</speaker>
+            <l rend="indent5">Thou hadst not been</l>
+            <l rend="indent1">so fair, if not so kind.</l>
+          </sp></stage>
+          <stage><sp>
+            <speaker rend="italic"><choice><abbr>Cæl</abbr><expan>Cælia</expan></choice>.</speaker>
+            <l>O strange vain fancy!/l>
+          </sp></stage>
+          <stage><sp>
+            <speaker rend="italic"><choice><abbr>Cle</abbr><expan>Cleon</expan></choice>.</speaker>
+            <l rend="indent6">But yet true.</l>
+          </sp></stage>
+          <stage><sp>
+            <speaker rend="italic"><choice><abbr>Cæl</abbr><expan>Cælia</expan></choice>.</speaker>
+            <l rend="indent1">Prove it.</l>
+          </sp></stage>
+            <stage><sp>
+            <speaker rend="italic"><choice><abbr>Cle</abbr><expan>Cleon</expan></choice>.</speaker>
+            <l rend="indent5">Then make a Brade</l>
+            <l>of those loose flames which circle you,</l>
+            <l rend="indent1">my Sun's &amp; yet your shade.</l>
+          </sp></stage>
+          <stage><sp>
+            <speaker rend="italic"><choice><abbr>Cæl</abbr><expan>Cælia</expan></choice>.</speaker>
+            <l>'Tis done.</l>
+          </sp></stage>
+            <stage><sp>
+            <speaker rend="italic"><choice><abbr>Cle</abbr><expan>Cleon</expan></choice>.</speaker>
+            <l rend="indent4">Now give it me.</l>
+          </sp></stage>
+          <stage><sp>
+            <speaker rend="italic"><choice><abbr>Cæl</abbr><expan>Cælia</expan></choice>.</speaker>
+            <l rend="indent8">Thus thou.</l>
+            <l rend="indent1">shalt thine own errour find;</l>
+            <l>if these were Beauties, I am now</l>
+            <l rend="indent1">lesse fair, because <pb n="2B2r"/>more kind.</l>
+          </sp></stage>
+          <stage><sp>
+          <speaker rend="italic"><choice><abbr>Cle</abbr><expan>Cleon</expan></choice>.</speaker>
+          <l>You shall confesse you erre, that hair,</l>
+          <l rend="indent1">shall it not change the hew,</l>
+          <l>or leave the golden Mountain bare?</l>
+        </sp></stage>
+        <stage><sp>
+          <speaker rend="italic"><choice><abbr>Cæl</abbr><expan>Cælia</expan></choice>.</speaker>
+          <l rend="italic1">Aye me, it is too true.</l>
+        </sp></stage>
+        <stage><sp>
+        <speaker rend="italic"><choice><abbr>Cle</abbr><expan>Cleon</expan></choice>.</speaker>
+        <l>But this small wreath shall ever stay</l>
+        <l rend="indent1">in the first native prime,</l>
+        <l>and smiling when the rest decay,</l>
+        <l rend="indent1">the Triumph sing of Time.</l>
+      </sp></stage>
+      <stage><sp>
+        <speaker rend="italic"><choice><abbr>Cæl</abbr><expan>Cælia</expan></choice>.</speaker>
+        <l>Then let me cut from thy fair Grove</l>
+        <l rend="indent1">one branch, and let that be</l>
+        <l>an Emblem of Eternall Love,</l>
+        <l rend="indent1">for such is mine to thee.</l>
+      </sp></stage>
+      <stage><sp>
+        <speaker rend="italic">Both together.</speaker>
+        <l>Thus are we both redeem'd from Time.</l>
+      </sp></stage>
+      <stage><sp>
+      <speaker rend="italic"><choice><abbr>Cle</abbr><expan>Cleon</expan></choice>.</speaker>
+      <l rend="indent1">I, by thy grace.</l>
+    </sp></stage>
+    <stage><sp>
+      <speaker rend="italic"><choice><abbr>Cæl</abbr><expan>Cælia</expan></choice>.</speaker>
+      <l rend="indent7">And I,</l>
+      <l>shall live in they immortall Rimes</l>
+      <l rend="indent1">untill the Muses dy.</l>
+    </sp></stage>
+    <stage><sp>
+    <speaker rend="italic"><choice><abbr>Cle</abbr><expan>Cleon</expan></choice>.</speaker>
+    <l>By Heav'n.</l>
+  </sp></stage>
+  <stage><sp>
+    <speaker rend="italic"><choice><abbr>Cæl</abbr><expan>Cælia</expan></choice>.</speaker>
+    <l rend="indent4">Swear not, if I must weep,</l>
+    <l rend="indent1"><hi rend="italic">Jove</hi> shall not laugh at <pb n="2B2v"/>me,</l>
+    <l>this kisse, my heart, and thy faith keep.</l>
+  </sp></stage>
+  <stage><sp>
+  <speaker rend="italic"><choice><abbr>Cle</abbr><expan>Cleon</expan></choice>.</speaker>
+  <l rend="indent1">This breath's my soule to thee.</l>
+</sp></stage>
+        </lg>
+        <stage><sp>
+        <lg type="stanza">
+    <head><choice><abbr>Cho</abbr><expan>Chorus</expan></choice>.</head>
+<l>Then forth the thicket <hi rend="italic">Thirsis</hi> rusht,</l>
+<l rend="indent1">where he saw all the play,</l>
+<l>the Swain stood still, and smil'd, and blush'd,</l>
+<l rend="indent1">the Nimph fled fast away.</l>
+</lg>
+</sp></stage>
+          </supplied>
+        </ab>
+        </div>
+      </body>
+  </text>
+</TEI>

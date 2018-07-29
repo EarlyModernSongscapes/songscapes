@@ -35,9 +35,9 @@
           <ab>
             <supplied reason="underlay">
                 <lg type="stanza">
+                    <head><choice><abbr>Cho</abbr><expan>Chorus</expan></choice>.</head>
                   <stage><sp>
-                    <speaker><choice><abbr>Cho</abbr><expan>Chorus</expan></choice>.
-            <hi rend="italic">Cælia. Cleon.</hi></speaker>
+                    <speaker rend="italic">Cælia. Cleon.</speaker>
             <l>AS <hi rend="italic">Cælia</hi> rested in the shade</l>
             <l rend="indent1">with <hi rend="italic">Cleon</hi> by her side,</l>
             <l>the Swain thus courted the yong Mayd,</l>
@@ -144,63 +144,63 @@
           <l>You shall confesse you erre, that hair,</l>
           <l rend="indent1">shall it not change the hew,</l>
           <l>or leave the golden Mountain bare?</l>
-        </sp></stage>
-        <stage><sp>
-          <speaker rend="italic"><choice><abbr>Cæl</abbr><expan>Cælia</expan></choice>.</speaker>
-          <l rend="indent1">Aye me, it is too true.</l>
-        </sp></stage>
-        <stage><sp>
-        <speaker rend="italic"><choice><abbr>Cle</abbr><expan>Cleon</expan></choice>.</speaker>
-        <l>But this small wreath shall ever stay</l>
-        <l rend="indent1">in the first native prime,</l>
-        <l>and smiling when the rest decay,</l>
-        <l rend="indent1">the Triumph sing of Time.</l>
-      </sp></stage>
-      <stage><sp>
-        <speaker rend="italic"><choice><abbr>Cæl</abbr><expan>Cælia</expan></choice>.</speaker>
-        <l>Then let me cut from thy fair Grove</l>
-        <l rend="indent1">one branch, and let that be</l>
-        <l>an Emblem of Eternall Love,</l>
-        <l rend="indent1">for such is mine to thee.</l>
-      </sp></stage>
-      <stage><sp>
-        <speaker rend="italic">Both together.</speaker>
-        <l>Thus are we both redeem'd from Time.</l>
-      </sp></stage>
-      <stage><sp>
-      <speaker rend="italic"><choice><abbr>Cle</abbr><expan>Cleon</expan></choice>.</speaker>
-      <l rend="indent1">I, by thy grace.</l>
-    </sp></stage>
-    <stage><sp>
-      <speaker rend="italic"><choice><abbr>Cæl</abbr><expan>Cælia</expan></choice>.</speaker>
-      <l rend="indent7">And I,</l>
-      <l>shall live in they immortall Rimes</l>
-      <l rend="indent1">untill the Muses dy.</l>
-    </sp></stage>
-    <stage><sp>
-    <speaker rend="italic"><choice><abbr>Cle</abbr><expan>Cleon</expan></choice>.</speaker>
-    <l>By Heav'n.</l>
-  </sp></stage>
-  <stage><sp>
-    <speaker rend="italic"><choice><abbr>Cæl</abbr><expan>Cælia</expan></choice>.</speaker>
-    <l rend="indent4">Swear not, if I must weep,</l>
-    <l rend="indent1"><hi rend="italic">Jove</hi> shall not laugh at <pb n="2B2v"/>me,</l>
-    <l>this kisse, my heart, and thy faith keep.</l>
-  </sp></stage>
-  <stage><sp>
-  <speaker rend="italic"><choice><abbr>Cle</abbr><expan>Cleon</expan></choice>.</speaker>
-  <l rend="indent1">This breath's my soule to thee.</l>
-</sp></stage>
+         </sp></stage>
+         <stage><sp>
+           <speaker rend="italic"><choice><abbr>Cæl</abbr><expan>Cælia</expan></choice>.</speaker>
+           <l rend="indent1">Aye me, it is too true.</l>
+         </sp></stage>
+         <stage><sp>
+         <speaker rend="italic"><choice><abbr>Cle</abbr><expan>Cleon</expan></choice>.</speaker>
+           <l>But this small wreath shall ever stay</l>
+           <l rend="indent1">in the first native prime,</l>
+           <l>and smiling when the rest decay,</l>
+           <l rend="indent1">the Triumph sing of Time.</l>
+         </sp></stage>
+         <stage><sp>
+         <speaker rend="italic"><choice><abbr>Cæl</abbr><expan>Cælia</expan></choice>.</speaker>
+          <l>Then let me cut from thy fair Grove</l>
+          <l rend="indent1">one branch, and let that be</l>
+          <l>an Emblem of Eternall Love,</l>
+          <l rend="indent1">for such is mine to thee.</l>
+         </sp></stage>
+         <stage><sp>
+         <speaker rend="italic">Both together.</speaker>
+           <l>Thus are we both redeem'd from Time.</l>
+         </sp></stage>
+         <stage><sp>
+         <speaker rend="italic"><choice><abbr>Cle</abbr><expan>Cleon</expan></choice>.</speaker>
+           <l rend="indent1">I, by thy grace.</l>
+         </sp></stage>
+         <stage><sp>
+         <speaker rend="italic"><choice><abbr>Cæl</abbr><expan>Cælia</expan></choice>.</speaker>
+           <l rend="indent7">And I,</l>
+           <l>shall live in they immortall Rimes</l>
+           <l rend="indent1">untill the Muses dy.</l>
+         </sp></stage>
+         <stage><sp>
+         <speaker rend="italic"><choice><abbr>Cle</abbr><expan>Cleon</expan></choice>.</speaker>
+           <l>By Heav'n.</l>
+         </sp></stage>
+         <stage><sp>
+         <speaker rend="italic"><choice><abbr>Cæl</abbr><expan>Cælia</expan></choice>.</speaker>
+           <l rend="indent4">Swear not, if I must weep,</l>
+           <l rend="indent1"><hi rend="italic">Jove</hi> shall not laugh at <pb n="2B2v"/>me,</l>
+           <l>this kisse, my heart, and thy faith keep.</l>
+         </sp></stage>
+         <stage><sp>
+         <speaker rend="italic"><choice><abbr>Cle</abbr><expan>Cleon</expan></choice>.</speaker>
+           <l rend="indent1">This breath's my soule to thee.</l>
+         </sp></stage>
         </lg>
-        <stage><sp>
-        <lg type="stanza">
-    <head><choice><abbr>Cho</abbr><expan>Chorus</expan></choice>.</head>
-<l>Then forth the thicket <hi rend="italic">Thirsis</hi> rusht,</l>
-<l rend="indent1">where he saw all the play,</l>
-<l>the Swain stood still, and smil'd, and blush'd,</l>
-<l rend="indent1">the Nimph fled fast away.</l>
-</lg>
-</sp></stage>
+          <lg type="stanza">
+          <head><choice><abbr>Cho</abbr><expan>Chorus</expan></choice>.</head>
+            <stage><sp>
+              <l>Then forth the thicket <hi rend="italic">Thirsis</hi> rusht,</l>
+          <l rend="indent1">where he saw all the play,</l>
+          <l>the Swain stood still, and smil'd, and blush'd,</l>
+          <l rend="indent1">the Nimph fled fast away.</l>
+            </sp></stage>
+         </lg>
           </supplied>
         </ab>
         </div>

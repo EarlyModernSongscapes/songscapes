@@ -34,24 +34,24 @@
           </notatedMusic>
           <ab>
             <supplied reason="underlay">
-              <stage><sp>
                 <lg type="stanza">
-            <head><choice><abbr>Cho</abbr><expan>Chorus</expan></choice>.</head>
-            <speaker rend="italic">Cælia. Cleon.</speaker>
+                  <stage><sp>
+                    <speaker><choice><abbr>Cho</abbr><expan>Chorus</expan></choice>.
+            <hi rend="italic">Cælia. Cleon.</hi></speaker>
             <l>AS <hi rend="italic">Cælia</hi> rested in the shade</l>
             <l rend="indent1">with <hi rend="italic">Cleon</hi> by her side,</l>
             <l>the Swain thus courted the yong Mayd,</l>
             <l rend="indent1">and thus the Nimph reply'd.</l>
+                  </sp></stage>
           </lg>
-        </sp></stage>
-        <stage><sp>
           <lg type="stanza">
-            <speaker rend="italic">Cleon.</speaker>
+            <stage><sp>
+              <speaker rend="italic">Cleon.</speaker>
             <l>Sweet let thy captive fetters wear</l>
             <l rend="indent1">made by thine arms &amp; hands,</l>
             <l>'till such as thraldome scorn, or fear,</l>
             <l rend="indent1">envy those happy bands.</l>
-          </sp></stage>
+            </sp></stage>
           <stage><sp>
             <speaker rend="italic">Cælia.</speaker>
             <l>Then thus my willing arms I wind</l>
@@ -147,7 +147,7 @@
         </sp></stage>
         <stage><sp>
           <speaker rend="italic"><choice><abbr>Cæl</abbr><expan>Cælia</expan></choice>.</speaker>
-          <l rend="italic1">Aye me, it is too true.</l>
+          <l rend="indent1">Aye me, it is too true.</l>
         </sp></stage>
         <stage><sp>
         <speaker rend="italic"><choice><abbr>Cle</abbr><expan>Cleon</expan></choice>.</speaker>

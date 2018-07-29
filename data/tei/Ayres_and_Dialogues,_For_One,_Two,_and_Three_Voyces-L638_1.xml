@@ -117,8 +117,10 @@
             H.L.
           </signed>
         </div>
+        </div>
 <!--b1v-->
-        <div>
+    <div type="commendatory_verse">
+      <div type="commendatory">
           <salute>
             To Mr. HENRY LAWES, who had then newly set a Song of mine in the Year, 1635.
           </salute>
@@ -157,7 +159,7 @@
         </signed>
       </div>
 <!--b2r-->
-        <div>
+        <div type="commendatory">
           <salute>
           To his Honour'd F. Mr. <hi rend="italic">HENRY LAWES,</hi> on his <hi rend="italic">Ayres</hi> and <hi rend="italic">Dialogues.</hi>
           </salute>
@@ -228,7 +230,7 @@
           </signed>
         </div>
 <!--b2v-->
-        <div>
+        <div type="commendatory">
           <salute>
             To the much honour'd Mr. <hi rend="italic">HENRY LAWES</hi> on his Book of <hi rend="italic">Ayres.</hi>
           </salute>
@@ -248,7 +250,7 @@
             WILL. BARKER
           </signed>
         </div>
-        <div>
+        <div type="commendatory">
           <salute>
             To his much honour'd F. Mr. <hi rend="italic">HENRY LAWES,</hi> on his Book of <hi rend="italic">Ayres.</hi>
           </salute>
@@ -278,7 +280,7 @@
           </signed>
         </div>
 <!--A1r-->
-        <div>
+        <div type="commendatory">
           <salute>
             To my ever honour'd Friend &amp; Father, Mr. <hi rend="italic">HENRY LAWES,</hi> on his Book of <hi rend="italic">Ayres</hi> and <hi rend="italic">Dialogues.</hi>
           </salute>
@@ -347,7 +349,7 @@
         </signed>
       </div>
 <!--A1v-->
-      <ab>
+      <div type="commendatory">
         <salute>
           TO his Honour'd Friend, Mr. <hi rend="italic">Henry Lawes,</hi> upon his Book of <hi rend="italic">Ayres.</hi>
         </salute>
@@ -426,9 +428,9 @@
         <signed>
           EDWARD PHILLIPS.
         </signed>
-      </ab>
+      </div>
 <!--A2r-->
-      <ab>
+      <div type="commendatory">
         <salute>
           To my Honour'd Friend, Mr. <hi rend="italic">Henry Lawes,</hi> upon his Book of <hi rend="italic">Ayres.</hi>
         </salute>
@@ -459,8 +461,8 @@
         <signed>
           JOHN PHILLIPS.
         </signed>
-      </ab>
-      <ab>
+      </div>
+      <div type="commendatory">
         <salute rend="italic">
           To my Dear and Honour'd Friend, Mr. <hi rend="roman">HENRY LAWES,</hi> upon his Incomparable Book of Songs.
         </salute>
@@ -496,15 +498,15 @@
           <l>And in this Verse, (as I disclaim all Wit)</l>
           <l>So 'twas thy worth, oblig'd my fancy t'it.</l>
         </lg>
-        </signed rend="italic">
+        <signed rend="italic">
         JO. CARWARDEN
       </signed>
-    </ab>
+    </div>
 </div>
-<div>
+<div type="table">
   <head rend="italic">The <hi rend="roman">TABLE,</hi> With the Names of those who were Authors of the Verses.</head>
-    <ab>
-      <hi rend="italic">A.<hi> <hi rend="italic">ARiadne</hi> <hi rend="italic">Pag.</hi> 1 - Mr. <hi rend="italic">William Cartwright</hi> of <hi rend="italic">Christ-Church Oxford.</hi>
+     <ab>
+       <hi rend="italic">A.</hi> <hi rend="italic">ARiadne</hi> <hi rend="italic">Pag.</hi> 1 - Mr. <hi rend="italic">William Cartwright</hi> of <hi rend="italic">Christ-Church Oxford.</hi>
          Am I dispis'd because you say 19 - Mr. <hi rend="italic">Robert Herick.</hi>
          <hi rend="italic">Amarantha</hi> sweet and fair 15 - Col. <hi rend="italic">Richard Lovelace.</hi>
          Ask me why I send you here 24 - Mr. <hi rend="italic">Herick.</hi>
@@ -560,7 +562,7 @@
         Sing Fair <hi rend="italic">Clorinda</hi> 22 - Sr. <hi rend="italic">William Davenant.</hi>
         Grieve not Dear Love 24 - <hi rend="italic">John</hi> Earle of <hi rend="italic">Bristoll.</hi>
         Ladyes whose smooth and Dainty Skin. 26 - Mr. <hi rend="italic">Harington.</hi>
-    </ab>
+       </ab>
 </div>
 </front>
   <body>

@@ -28,16 +28,15 @@
   <text>
       <body>
         <div>
-          <head rend="italic">A Pastorall Dialogue betwixt <hi rend="roman">Cleon</hi> and<hi rend="roman">Cælia</hi>.</head>
+          <head rend="italic">A Pastorall Dialogue betwixt <hi rend="roman">Cleon</hi> and <hi rend="roman">Cælia</hi>.</head>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
           <ab>
             <supplied reason="underlay">
                 <lg type="stanza">
-                    <head><choice><abbr>Cho</abbr><expan>Chorus</expan></choice>.</head>
                   <stage><sp>
-                    <speaker rend="italic">Cælia. Cleon.</speaker>
+                    <speaker><choice><abbr>Cho</abbr><expan>Chorus</expan></choice>.</speaker>
             <l>AS <hi rend="italic">Cælia</hi> rested in the shade</l>
             <l rend="indent1">with <hi rend="italic">Cleon</hi> by her side,</l>
             <l>the Swain thus courted the yong Mayd,</l>
@@ -193,8 +192,8 @@
          </sp></stage>
         </lg>
           <lg type="stanza">
-          <head><choice><abbr>Cho</abbr><expan>Chorus</expan></choice>.</head>
             <stage><sp>
+            <speaker><choice><abbr>Cho</abbr><expan>Chorus</expan></choice>.</speaker>
               <l>Then forth the thicket <hi rend="italic">Thirsis</hi> rusht,</l>
           <l rend="indent1">where he saw all the play,</l>
           <l>the Swain stood still, and smil'd, and blush'd,</l>

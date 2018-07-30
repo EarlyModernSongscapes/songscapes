@@ -42,7 +42,7 @@
             <l rend="indent1">Whose Honour shall as lasting prove,</l>
             <l rend="indent1">as our Devotion or Their Love:</l>
           </lg>
-            <lg type="refrain" xml:id="L638.refrain">
+            <lg type="refrain" xml:id="first.refrain">
               <l>Then let's rejoyce, and by our Joy appear,</l>
               <l>In this one Day we offer all the Year.</l>
           </lg>
@@ -56,7 +56,7 @@
               <l rend="indent1">So His and Her's in sever'd parts</l>
               <l rend="indent1">Are but two Pulses, not two Hearts:</l>
             </lg>
-            <lg type="refrain" sameAs="#L638.refrain">
+            <lg type="refrain" sameAs="first.refrain">
               <l>Then Let's, &amp;c.</l>
             </lg>
             <lg type="stanza">
@@ -68,7 +68,7 @@
               <l rend="indent1">Let ev'ry Year fill up a score,</l>
               <l rend="indent1">Born to be One, but to Make more:</l>
             </lg>
-            <lg type="refrain" sameAs="#L638.refrain">
+            <lg type="refrain" sameAs="first.refrain">
               <l>Then let's, &amp;c.</l>
             </lg>
             <lg type="stanza">
@@ -80,7 +80,7 @@
               <l rend="indent1">'Tis of both Genders, Her's and His</l>
               <l rend="indent1">We stay'd twelve Months to welcome this.</l>
             </lg>
-            <lg type="refrain" sameAs="#L638.refrain">
+            <lg type="refrain" sameAs="first.refrain">
               <l>Then let's rejoyce, and by our Joy appear</l>
               <l>In this one Day we offer all the Year.</l>
             </lg>

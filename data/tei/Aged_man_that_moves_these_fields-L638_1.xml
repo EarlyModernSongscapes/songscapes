@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/songscapes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schema/songscapes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Dialogue betwixt Time and a Pilgrime</title>
+              <title type="first_line">Aged man that moves these fields</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Early Modern Songscapes</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+              <title>Ayres and Dialogues, For One, Two, and Three Voyces</title>
+              <author role="composer">Henry Lawes</author>
+              <author role="poet">Aurelian Townshend</author>
+              <pubPlace>London</pubPlace>, <date type="publication" when="1653">1653</date>.
+              <idno type="wing">L638</idno>
+              <idno type="call_number">Folger L638, copy 1</idno>
+              <biblScope unit="leaf" from="2A2r" to="2A2v">leaves Aa2 recto to Aa2 verso</biblScope>,
+              <biblScope unit="page" from="3" to="4">pages 3 to 4</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+        <div>
+          <head rend="italic">A Dialogue betwixt <hi rend="roman">Time</hi> and a <hi rend="roman">Pilgrime</hi>.</head>
+            <notatedMusic>
+            <!-- MEI goes here -->
+          </notatedMusic>
+          <ab>
+            <supplied reason="underlay">
+                <lg type="stanza">
+                  <stage><sp>
+                    <speaker rend="italic"><choice><abbr>Pilgr</abbr><expan>Pilgrime</expan></choice>.</speaker>
+            <l rend="indent1">AGed man that moves these fields.</l>
+                  </sp></stage>
+          </lg>
+          <lg type="stanza">
+            <stage><sp>
+              <speaker rend="italic">Time.</speaker>
+            <l rend="indent1">Pilgrime speak, what is thy will?</l>
+            </sp></stage>
+          <stage><sp>
+            <speaker rend="italic"><choice><abbr>Pilgr</abbr><expan>Pilgrime</expan></choice>.</speaker>
+            <l rend="indent1">Whose soile is this that such sweet Pasture yields?</l>
+            <l>or who art thou whose Foot stands never still?</l>
+            <l>or where am I?</l>
+          </sp></stage>
+          <stage><sp>
+            <speaker rend="italic">Time.</speaker>
+            <l rend="indent1">In love.</l>
+          </sp></stage>
+          <stage><sp>
+            <speaker rend="italic"><choice><abbr>Pilgr</abbr><expan>Pilgrime</expan></choice>.</speaker>
+            <l rend="indent1">His Lordship lies above.</l>
+          </sp></stage>
+          <stage><sp>
+            <speaker rend="italic">Time.</speaker>
+            <l rend="indent1">Yes and below, and round about</l>
+            <l>where<pb n="2A2v"/> in all sorts of flow'rs are growing</l>
+            <l>which as the early Spring puts out,</l>
+            <l>Time fals as fast a mowing.</l>
+          </sp></stage>
+          <stage><sp>
+            <speaker rend="italic"><choice><abbr>Pilgr</abbr><expan>Pilgrime</expan></choice>.</speaker>
+            <l rend="indent1">If thou art Time, these Flow'rs have Lives,</l>
+            <l>and then I fear,</l>
+            <l>under some Lilly she I love</l>
+            <l>may now be growing there.</l>
+          </sp></stage>
+          <stage><sp>
+            <speaker rend="italic">Time.</speaker>
+            <l rend="indent1">And in some Thistle or some spyre of grasse,</l>
+            <l>my syth thy stalk before hers come may passe.</l>
+          </sp></stage>
+          <stage><sp>
+            <speaker rend="italic"><choice><abbr>Pilgr</abbr><expan>Pilgrime</expan></choice>.</speaker>
+            <l rend="indent1">Wilt thou provide it may?</l>
+          </sp></stage>
+          <stage><sp>
+            <speaker rend="italic">Time.</speaker>
+            <l rend="indent1">No.</l>
+         </sp></stage>
+          <stage><sp>
+          <speaker rend="italic"><choice><abbr>Pilgr</abbr><expan>Pilgrime</expan></choice>.</speaker>
+            <l rend="indent1">Alleage the cause.</l>
+          </sp></stage>
+            <stage><sp>
+              <speaker rend="italic">Time.</speaker>
+            <l rend="indent1">Because Time cannot alter but obey Fates Laws.</l>
+          </sp></stage>
+        </lg>
+          <lg type="stanza">
+            <stage><sp>
+            <speaker><choice><abbr>Cho</abbr><expan>Chorus</expan></choice>.</speaker>
+              <l>Then happy those whom Fate that is the stronger,</l>
+              <l>together twist their threds, &amp; yet draws hers the longer.</l>
+            </sp></stage>
+         </lg>
+          </supplied>
+        </ab>
+        </div>
+      </body>
+  </text>
+</TEI>

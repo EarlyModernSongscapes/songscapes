@@ -34,7 +34,7 @@
           </notatedMusic>
           <ab>
             <supplied reason="underlay">
-              <term rend="italic">For one or two Voyces</term>
+              <stage type="voice" rend="italic">For one or two Voyces</stage>
               <lg type="refrain" xml:id="first.refrain">
                 <l><hi rend="italic">BAcchus, Iacchus</hi>, fill our Brains</l>
                 <l rend="indent1">as well as Bowls with sprightly strains:</l>

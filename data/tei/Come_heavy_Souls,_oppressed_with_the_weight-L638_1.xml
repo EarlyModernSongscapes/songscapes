@@ -28,13 +28,13 @@
   <text>
       <body>
         <div>
-          <head rend="italic"><hi rend="roman">Desperato's</hi> Banquet</head>
-          <head rend="italic">For a Basse alone.</head> <!-- variant: Desperato's Banquet For a Basse alone.] An Attendant sings in a base. S5983 -->
+          <head rend="italic"><hi rend="roman">Desperato's</hi> Banquet.</head> <!-- variant: Desperato's Banquet.] [] S5983 -->
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
           <ab>
             <supplied reason="underlay">
+            <stage type="voice" rend="italic">For a Basse alone.</stage> <!-- variant: For a Basse alone.] An Attendant sings in a base. S5983 -->
           <lg type="stanza">
             <l rend="indent2">COme heavy Souls, oppressed with the weight</l>
             <l rend="indent2">of crimes, or pangs, or want of your delight;</l>

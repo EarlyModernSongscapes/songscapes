@@ -34,8 +34,8 @@
           </notatedMusic>
           <ab>
             <supplied reason="underlay">
+              <stage type="voice">For two trebles.</stage>
                 <lg type="stanza">
-                    <head>For two trebles.</head>
                   <stage><sp>
                     <speaker rend="italic"><choice><abbr>Cord</abbr><expan>Cordanus</expan></choice>.</speaker>
             <l rend="indent1">DIstressed Pilgrim whose dark clouded eyes</l>

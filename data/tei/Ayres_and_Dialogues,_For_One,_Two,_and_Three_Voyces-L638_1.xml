@@ -568,14 +568,17 @@
   <body>
     <pb n="F1v"/>
     <div type="ayres">
-    <xi:include href="Dearest_do_not_now_delay_me-L638_1.xml" xpointer="#song8"/>
+    <xi:include href="Dearest_do_not_now_delay_me-L638_1.xml" xpointer="#song??"/>
 
 <xi:include href="Imbre_lachrymarum_largo_Genas_spargo-L638_1.xml" xpointer="#song???"/>
     <head rend="center">FINIS.</head>
-  </div type="ayres">
-  <div type="dialogues">
-    <head rend="center">PASTORALL DIALOGVES.</head>
-
+    </div type="ayres">
+    <div type="dialogues">
+      <head rend="center">PASTORALL DIALOGVES.</head>
+    </div>
+    <div type="short_Ayres">
+      <head rend="italic" rend="center">Heere beginneth short Ayres for one, two or three Voyces</head>
+    </div>
   </body>
 </text>
 </TEI>

@@ -26,15 +26,15 @@
       </fileDesc>
   </teiHeader>
   <text>
-      <body>
-        <div>
-          <head rend="italic">In praise of his Mistress.</head>
-            <notatedMusic>
+    <body>
+      <div>
+        <head rend="italic">In praise of his Mistress.</head>
+         <stage type="voice" rend="italic">For one, two or three voyces:</stage>
+          <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
         <ab>
           <supplied reason="underlay">
-           <stage type="voice" rend="italic">For one, two or three voyces:</stage>
             <lg type="stanza">
               <l>THou Shepheard whose intentive eye,</l>
               <l>on ev'ry Lamb is such a spy,</l>

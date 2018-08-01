@@ -29,12 +29,12 @@
       <body>
         <div>
           <head rend="italic"><hi rend="roman">Chloris</hi> taking the Ayre.</head>
+           <stage type="voice" rend="italic">for one, two or three Voyces.</stage> <!-- present in division heading, supplied again here for individual song -->
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
         <ab>
           <supplied reason="underlay">
-           <stage type="voice" rend="italic">for one, two or three Voyces.</stage> <!-- present in division heading, supplied again here for individual song -->
             <lg type="stanza">
             <l>COme <hi rend="italic">Chloris</hi> hie we to the Bowr</l>
             <l rend="indent1">to sport us e're the day be done;</l>

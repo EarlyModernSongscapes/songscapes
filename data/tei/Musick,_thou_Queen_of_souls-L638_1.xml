@@ -29,12 +29,12 @@
       <body>
         <div>
           <head rend="italic">The Power of Musick.</head>
+          <stage type="voice" rend="italic">A. 2. Voc. Basse &amp; Cant.</stage>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
         <ab>
           <supplied reason="underlay">
-            <stage type="voice" rend="italic">A. 2. Voc. Basse &amp; Cant.</stage>
             <lg type="stanza">
             <l>MUsick, thou Queen of souls, get up and string</l>
             <l>thy pow'rfull Lute, and some sad Requiem sing,</l>

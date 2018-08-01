@@ -5,8 +5,8 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>A Smile, or Frown</title>
-              <title type="first_line">Though my torment far exceeds</title>
+            <title>A caution to faire Ladies</title>
+              <title type="first_line">Ladies, you whose smooth and dainty Skin</title>
          </titleStmt>
          <publicationStmt>
             <p>Early Modern Songscapes</p>
@@ -15,12 +15,12 @@
             <bibl>
               <title>Ayres and Dialogues, For One, Two, and Three Voyces</title>
               <author role="composer">Henry Lawes</author>
-              <author role="poet">Henry Harrington</author>
+              <author role="poet">John Harington</author>
               <pubPlace>London</pubPlace>, <date type="publication" when="1653">1653</date>.
               <idno type="wing">L638</idno>
               <idno type="call_number">Folger L638, copy 1</idno>
-              <biblScope unit="leaf" from="2E1r">leaf Ee1 recto</biblScope>,
-              <biblScope unit="page" from="17">page 17</biblScope>
+              <biblScope unit="leaf" from="2G1v" to="2G2r">leaves Gg1 verso to Gg2 recto</biblScope>,
+              <biblScope unit="page" from="26" to="27">page 23</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -28,32 +28,27 @@
   <text>
       <body>
         <div>
-          <head rend="italic">A Smile, or Frown.</head>
-          <stage type="voice" rend="italic">For one, two or three voyces.</stage>
+          <head rend="italic">A caution to faire Ladies.</head>
+           <stage type="voice" rend="italic">a. 3. voc.</stage>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
         <ab>
           <supplied reason="underlay">
             <lg type="stanza">
-            <l>THough my torment far exceeds</l>
-            <l>his whole hart the Vulture feeds,</l>
-            <l>and my endless pains excell</l>
-            <l>his that rowls the stone in Hell;</l>
-            <l>If my <hi rend="italic">Julia</hi> do but smile,</l>
-            <l>I can laugh and sing the while.</l>
-          </lg>
+              <l>LAdies, you whose smooth and dainty Skin,</l>
+              <l>rosie Lips, or Cheeks, or Chin,</l>
+              <l>all that gaze upon you win,</l>
+            </lg>
+            <lg type="stanza">
+              <l>yet insult not, sparks within</l>
+              <l>slowly burn e're flames begin,</l>
+              <l>and presumption still hath been</l>
+              <l>held a most notorious sin.</l>
+            </lg>
          </supplied>
-           <lg type="stanza">
-             <l>Though my Fortunes greater were</l>
-             <l>Then the <hi rend="italic">Hacedonians</hi> Heire:</l>
-             <l>Could I boast of greater glory</l>
-             <l>Then the <hi rend="italic">Scithians</hi> Shepheards story?</l>
-             <l>If my <hi rend="italic">Julia</hi> do but frown,</l>
-             <l>All my Pompe were overthrown.</l>
-           </lg>
         </ab>
-        </div>
-      </body>
+      </div>
+    </body>
   </text>
 </TEI>

@@ -27,7 +27,7 @@
               <pubPlace>London</pubPlace>, <date type="publication" when="1653">1653</date>.
               <idno type="wing">L638</idno>
               <idno type="call_number">Folger L638, copy 1</idno>
-              <biblScope unit="leaf" from="a1r" to="A2r">leaves a1 recto to A2 recto</biblScope>,
+              <biblScope unit="leaf" from="a1r" to="A2v">leaves a1 recto to A2 verso</biblScope>,
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -60,7 +60,7 @@
             <l><hi rend="italic">HENRY LAWES.</hi></l>
           </signed>
         </div>
-<!--a2v-->
+  <pb n="a2v"/>
         <div type="epistle">
           <salute>
             <l>To all Undersatnders or Lovers of MUSICK.</l>
@@ -72,11 +72,15 @@
               the matter will not reach that value, let the <hi rend="roman">Stationer</hi> look to that, who
               himselfe hath undergone the Charge and Trouble of the whole Impression; who yet (by his favour)
               hath lately made bold to print, in one Book, above twenty of my Songs, whereof I had no knowledge
-              till his Book was in the Presse; and it seems he found those so acceptable that he is ready for more. Therefore now the Question is not, whether or no my <hi rend="roman">Compositions</hi> shall be Publick, but whether they shall come forth from me, or from some other hand; and which of the two is likeliest to afford the true correct Copies, I leave others to judge. In this Book I reprint none that were publish'd in the former, or ever in print before. I could tell ye also, I have often found many of mine that have walkt abroad in other mens names: how they came to lose their
-              Relations and be Anabaptiz'd, I think not worth examining. Only I shall say, that some who so
-              adopted and owned my Songs had greater kindnesse for the Children than for the Father; else sure
-              they had not bestow'd some other late Ayres (which themsleves could not own) upon Forrainers and
-              Strangers, because I <hi rend="roman">compos'd</hi> them to <hi rend="roman">Italian</hi> and
+              till his Book was in the Presse; and it seems he found those so acceptable that he is ready for more.
+              Therefore now the Question is not, whether or no my <hi rend="roman">Compositions</hi> shall be Publick,
+              but whether they shall come forth from me, or from some other hand; and which of the two is likeliest to
+              afford the true correct Copies, I leave others to judge. In this Book I reprint none that were publish'd
+              in the former, or ever in print before. I could tell ye also, I have often found many of mine that have
+              walkt abroad in other mens names: how they came to lose their Relations and be Anabaptiz'd, I think not
+              worth examining. Only I shall say, that some who so adopted and owned my Songs had greater kindnesse for the
+              Children than for the Father; else sure they had not bestow'd some other late Ayres (which themsleves could not own)
+              upon Forrainers and Strangers, because I <hi rend="roman">compos'd</hi> them to <hi rend="roman">Italian</hi> and
               <hi rend="roman">Spanish</hi> words. I should think such an Injury an unreasonable piece of
               Injustice, since now we live in so sullen an Age, that our Prefession it selfe hath lost its
               Incouragement. But Wise men have observ'd our Generation so giddy, that whatsoever is Native
@@ -112,13 +116,29 @@
                  better smooth'd and <hi rend="roman">vowell'd</hi> for Musick, which I found by many Songs which
                  I set to <hi rend="roman">Italian</hi> words: and our English seems a
 <pb n="b1r"/>
-            little over-clogg'd with <hi rend="roman">Consonants;</hi> but that's much the <hi rend="roman">Composer's</hi> fault, who by judicious setting and right tuning the words may make it smooth enough. And since our palates are so much after Novelties, I desir'd to try the <hi rend="roman">Greek,</hi> having never seen any thing <hi rend="roman">Set</hi> in that Language by our own Musicians or Strangers; and (by <hi rend="roman">Composing</hi> some of <hi rend="roman">Anacreon's</hi> Odes) I found the Greek Tongue full as good as any for Musick, and in some particulars sweeter than the <hi rend="roman">Latine,</hi> or those Moderne ones that descended from <hi rend="roman">Latine.</hi> I never lov'd to <hi rend="roman">Set</hi> or sing words which I do not understand; and where I cannot, I desir'd help of others who were able to interpret. But this present Generation is so sated with what's Native, that nothing takes their eare but what's sung in a Language which (commonly) they understand as little as they do the Musick. And to make them a little sensible of this ridiculous humour, I took a <hi rend="roman">Table</hi> or <hi rend="roman">Index</hi> of old <hi rend="roman">Italian</hi> Songs (for one, two, and three Voyces) and this <hi rend="roman">Index</hi> (which read together made a strange medley of Non-sense) I set to a varyed Ayre, and gave out that it came from <hi rend="roman">Italy,</hi> whereby it hath passed for a rare <hi rend="roman">Italian</hi> Song. This very Song I have now here printed. And if this First Book shall find acceptance, I intend yearly to publish the like; for I confess I have a sufficient Stock lying by me (and shall compose more) having had the Honour to <hi rend="roman">Set</hi> the Verses of the most and chiefest Poets of our Times. As for those Copies of Verses in this Book, I have rendred their Names who made them, from whose hands I received them. These Reasons (with some other not here mentioned) drew me forth to this Publication, which if receiv'd with the same heart that I offer it, with be further Encouragement for</ab>
+            little over-clogg'd with <hi rend="roman">Consonants;</hi> but that's much the <hi rend="roman">Composer's</hi>
+            fault, who by judicious setting and right tuning the words may make it smooth enough. And since our palates are
+            so much after Novelties, I desir'd to try the <hi rend="roman">Greek,</hi> having never seen any thing <hi rend="roman">Set</hi>
+             in that Language by our own Musicians or Strangers; and (by <hi rend="roman">Composing</hi> some of <hi rend="roman">Anacreon's</hi>
+              Odes) I found the Greek Tongue full as good as any for Musick, and in some particulars sweeter than the <hi rend="roman">Latine,</hi>
+              or those Moderne ones that descended from <hi rend="roman">Latine.</hi> I never lov'd to <hi rend="roman">Set</hi> or sing words
+              which I do not understand; and where I cannot, I desir'd help of others who were able to interpret. But this present Generation
+              is so sated with what's Native, that nothing takes their eare but what's sung in a Language which (commonly) they understand as
+              little as they do the Musick. And to make them a little sensible of this ridiculous humour, I took a <hi rend="roman">Table</hi>
+              or <hi rend="roman">Index</hi> of old <hi rend="roman">Italian</hi> Songs (for one, two, and three Voyces) and this
+              <hi rend="roman">Index</hi> (which read together made a strange medley of Non-sense) I set to a varyed Ayre, and gave out that
+              it came from <hi rend="roman">Italy,</hi> whereby it hath passed for a rare <hi rend="roman">Italian</hi> Song. This very Song
+              I have now here printed. And if this First Book shall find acceptance, I intend yearly to publish the like; for I confess I have
+              a sufficient Stock lying by me (and shall compose more) having had the Honour to <hi rend="roman">Set</hi> the Verses of the most
+              and chiefest Poets of our Times. As for those Copies of Verses in this Book, I have rendred their Names who made them, from whose
+              hands I received them. These Reasons (with some other not here mentioned) drew me forth to this Publication, which if receiv'd with
+              the same heart that I offer it, with be further Encouragement for</ab>
           <signed>
             H.L.
           </signed>
         </div>
         </div>
-<!--b1v-->
+    <pb n="b1v"/>
     <div type="commendatory_verse">
       <div type="commendatory">
           <salute>
@@ -158,7 +178,7 @@
           ED. WALLER, <hi rend="italic">Esquire.</hi>
         </signed>
       </div>
-<!--b2r-->
+      <pb n="b2r"/>
         <div type="commendatory">
           <salute>
           To his Honour'd F. Mr. <hi rend="italic">HENRY LAWES,</hi> on his <hi rend="italic">Ayres</hi> and <hi rend="italic">Dialogues.</hi>
@@ -229,7 +249,7 @@
             FRANCIS FINCH, <hi rend="italic">Esquire.</hi>
           </signed>
         </div>
-<!--b2v-->
+      <pb n="b2v"/>
         <div type="commendatory">
           <salute>
             To the much honour'd Mr. <hi rend="italic">HENRY LAWES</hi> on his Book of <hi rend="italic">Ayres.</hi>
@@ -279,7 +299,7 @@
             T. NORTON.
           </signed>
         </div>
-<!--A1r-->
+      <pb n="A1r"/>
         <div type="commendatory">
           <salute>
             To my ever honour'd Friend &amp; Father, Mr. <hi rend="italic">HENRY LAWES,</hi> on his Book of <hi rend="italic">Ayres</hi> and <hi rend="italic">Dialogues.</hi>
@@ -348,7 +368,7 @@
         JOHN COBB.
         </signed>
       </div>
-<!--A1v-->
+      <pb n="A1v"/>
       <div type="commendatory">
         <salute>
           TO his Honour'd Friend, Mr. <hi rend="italic">Henry Lawes,</hi> upon his Book of <hi rend="italic">Ayres.</hi>
@@ -429,7 +449,7 @@
           EDWARD PHILLIPS.
         </signed>
       </div>
-<!--A2r-->
+      <pb n="A2r"/>
       <div type="commendatory">
         <salute>
           To my Honour'd Friend, Mr. <hi rend="italic">Henry Lawes,</hi> upon his Book of <hi rend="italic">Ayres.</hi>
@@ -504,6 +524,7 @@
     </div>
 </div>
 <div type="table">
+  <pb n="A2v"/>
   <head rend="italic">The <hi rend="roman">TABLE,</hi> With the Names of those who were Authors of the Verses.</head>
      <ab>
        <hi rend="italic">A.</hi> <hi rend="italic">ARiadne</hi> <hi rend="italic">Pag.</hi> 1 - Mr. <hi rend="italic">William Cartwright</hi> of <hi rend="italic">Christ-Church Oxford.</hi>
@@ -566,18 +587,128 @@
 </div>
 </front>
   <body>
+   <div type="ayres">
+     <pb n="B1r"/>
+        <xi:include href="Theseus,_O_Theseus,_hark!-L638_1.xml" xpointer="#song01"/>
+        <xi:include href="Venus,_redress_a_wrong_that's_done-L638_1.xml" xpointer="#song02"/>
+     <pb n="C2v"/>
+        <xi:include href="When_thou,_poor_Excommunicate-L638_1.xml" xpointer="#song03"/>
+     <pb n="D1v"/>
+        <xi:include href="When_on_the_Altar_of_my_hand-L638_1.xml" xpointer="#song04"/>
+     <pb n="D1r"/>
+        <xi:include href="Farewell_fair_Saint_may_not_the_sea_and_wind-L638_1.xml" xpointer="#song05"/>
+        <xi:include href="Careless_of_Love_&_free_from_Fears-L638_1.xml" xpointer="#song06"/>
+    <pb n="D2v"/>
+        <xi:include href="He_that_love's_a_rosie_cheek-L638_1.xml" xpointer="#song07"/>
+    <pb n="E1r"/>
+        <xi:include href="While_I_listen_to_thy_voyce-L638_1.xml" xpointer="#song08"/>
+    <pb n="E1v"/>
+        <xi:include href="Cloris_your_selfe_you_so_excell-L638_1.xml" xpointer="#song09"/>
+    <pb n="E2r"/>
+        <xi:include href="Gaze_not_on_Swanns_in_whose_soft_brest-L638_1.xml" xpointer="#song10"/>
+        <xi:include href="Amarantha_sweet_and_fair-L638_1.xml" xpointer="#song11"/>
+    <pb n="E2v"/>
+        <xi:include href="Till_now_I_never_did_believe-L638_1.xml" xpointer="#song12"/>
+    <pb n="F1r"/>
+        <xi:include href="Cælia,_thy_bright_Angel's_face-L638_1.xml" xpointer="#song13"/>
     <pb n="F1v"/>
-    <div type="ayres">
-    <xi:include href="Dearest_do_not_now_delay_me-L638_1.xml" xpointer="#song??"/>
-
-<xi:include href="Imbre_lachrymarum_largo_Genas_spargo-L638_1.xml" xpointer="#song???"/>
-    <head rend="center">FINIS.</head>
-    </div type="ayres">
-    <div type="dialogues">
+        <xi:include href="If_when_the_Sun_at_Noon_displays-L638_1.xml" xpointer="#song14"/>
+    <pb n="F2r"/>
+        <xi:include href="Am_I_dispis'd_because_you_say-L638_1.xml" xpointer="#song15"/>
+    <pb n="F2v"/>
+        <xi:include href="Dearest_do_not_now_delay_me-L638_1.xml" xpointer="#song16"/>
+        <xi:include href="Lovely_Chloris_through_thine_eyes-L638_1.xml" xpointer="#song17"/>
+    <pb n="G1r"/>
+        <xi:include href="Give-me-more-Love,-or-more-Disdain-L638_1.xml" xpointer="#song18"/>
+    <pb n="G1v"/>
+        <xi:include href="It_is_not_that_I_love_you lesse-L638_1.xml" xpointer="#song19"/>
+    <pb n="G2r"/>
+        <xi:include href="Canst_thou_love_me_and_yet_doubt-L638_1.xml" xpointer="#song20"/>
+    <pb n="G2v"/>
+        <xi:include href="Lately_on_yonder_swelling_Bush-L638_1.xml" xpointer="#song21"/>
+        <xi:include href="Aske_me_why_I_send_you_here-L638_1.xml" xpointer="#song22"/>
+    <pb n="H1r"/>
+        <xi:include href="Till_I_beheld_fair_Calia's_face-L638_1.xml" xpointer="#song23"/>
+        <xi:include href="Come_my_Lucasta_heer's_the_Grove-L638_1.xml" xpointer="#song24"/>
+    <pb n="H1v"/>
+     <!-- placeholder for <xi:include href="Θέλω_λέγειν_Ἀτρείδας-L638_1.xml" xpointer="#song25"/> -->
+    <pb n="H2r"/>
+       <xi:include href="I_long_to_sing_the_seidge_of_Troy-L638_1.xml" xpointer="#song26"/>
+    <pb n="H2v"/>
+       <xi:include href="Come_heavy_Souls,_oppressed_with_the_weight-L638_1.xml" xpointer="#song27"/>
+    <pb n="I1r"/>
+        <xi:include href="Tis_true_(Fair_Celia)_that_by_thee_I_live-L638_1.xml" xpointer="#song28"/>
+    <pb n="I1v"/>
+        <xi:include href="Come,_come,_thou_glorious_object_of_my_sight-L638_1.xml" xpointer="#song29"/>
+        <xi:include href="Thou_art_so_fair,_and_yong_withall-L638_1.xml" xpointer="#song30"/>
+    <pb n="I2v"/>
+        <xi:include href="Come_my_Sweet,_whilst_ev'ry_strain-L638_1.xml" xpointer="#song31"/>
+    <pb n="K1r"/>
+        <xi:include href="The_Day's_return'd,_and_so_are_we,_to_pay-L638_1.xml" xpointer="#song32"/>
+    <pb n="K1v"/>
+        <xi:include href="Two_hundred_minutes_are_run_down-L638_1.xml" xpointer="#song33"/>
+    <pb n="K2r"/>
+        <xi:include href="Be_gone,_be_gone,_thou_perjur'd_man-L638_1.xml" xpointer="#song34"/>
+        <xi:include href="Ladies_who_gild_the_glitt'ring_Noon-L638_1.xml" xpointer="#song35"/>
+    <pb n="K2v"/>
+        <xi:include href="Imbre_lachrymarum_largo_Genas_spargo-L638_1.xml" xpointer="#song36"/>
+      <head rend="center">FINIS.</head>
+     </div>
+     <div type="dialogues">
       <head rend="center">PASTORALL DIALOGVES.</head>
-    </div>
-    <div type="short_Ayres">
-      <head rend="italic" rend="center">Heere beginneth short Ayres for one, two or three Voyces</head>
+    <pb n="2A1r"/>
+        <xi:include href="Distressed_Pilgrim_whose_dark_clouded_eyes-L638_1.xml" xpointer="#song37"/>
+        <xi:include href="Aged_man_that_moves_these_fields-L638_1.xml" xpointer="#song38"/>
+    <pb n="2B1r"/>
+        <xi:include href="As_Cælia_rested_in_the_shade-L638_1.xml" xpointer="#song39"/>
+    <pb n="2C1r"/>
+        <xi:include href="Bacchus,_Iacchus,_fill_our_Brains-L638_1.xml" xpointer="#song40"/>
+    <pb n="2C1v"/>
+        <xi:include href="Go_thou_Emblem_of_my_heart-L638_1.xml" xpointer="#song41"/>
+    <pb n="2C2v"/>
+        <xi:include href="O_the_fickle_state_of_lovers-L638_1.xml" xpointer="#song42"/>
+    <pb n="2D1v"/>
+        <xi:include href="Musick,_thou_Queen_of_souls-L638_1.xml" xpointer="#song43"/>
+      </div>
+      <div type="short_Ayres">
+        <head rend="italic" rend="center">Heere beginneth short Ayres for one, two or three Voyces</head>
+    <pb n="2D2v"/>
+        <xi:include href="Come_Chloris_hie_we_to_the_Bow'r-L638_1.xml" xpointer="#song44"/>
+    <pb n="2E1r"/>
+        <xi:include href="Though_my_torment_far_exceeds-L638_1.xml" xpointer="#song45"/>
+    <pb n="2E1v"/>
+        <xi:include href="If_my_Mistress_fix_her_eye-L638_1.xml" xpointer="#song46"/>
+    <pb n="2E2r"/>
+        <xi:include href="Keep_on_your_veile_and_hide_your_eye<-L638_1.xml" xpointer="#song47"/>
+    <pb n="2E2v"/>
+        <xi:include href="Thou_Shepheard_whose_intentive_eye-L638_1.xml" xpointer="#song48"/>
+    <pb n="2F1r"/>
+        <xi:include href="O_now_the_certain_cause_I_know-L638_1.xml" xpointer="#song49"/>
+    <pb n="2F1v"/>
+        <xi:include href="Sing_fair_Clorinda_whilst_you_move-L638_1.xml" xpointer="#song50"/>
+    <pb n="2F2v"/>
+        <xi:include href="Grieve_not,_dear_Love,_although_we_often_part-L638_1.xml" xpointer="#song51"/>
+    <pb n="2F2v"/>
+        <xi:include href="Ladies,_you_whose_smooth_and_dainty_Skin-L638_1.xml" xpointer="#song52"/>
+    <pb n="2G2v"/>
+        <xi:include href="Inquel_gelato_core-L638_1.xml" xpointer="#song53"/>
+      </div>
+      <div type="end_matter">
+       <ab>
+        <docImprint>Musick Books Printed for <hi rend="italic">John Playford</hi>, and are to be sold at his Shop in the Inner Temple near the Church Doore.<docImprint>
+        <hi rend="italic">The first Set of Psalms for three Voyces</hi>, with a Thorough Basse for the <hi rend="italic">Organ</hi>, or <hi rend="italic">Theorbo Lute</hi>, Composed by Mr. <hi rend="italic">William Child</hi>, late <hi rend="italic">Organist</hi> of <hi rend="italic">Windsor</hi>, the which are Engraven upon <hi rend="italic">Copper</hi>.
+        <hi rend="italic">Select Musicall Ayres and Dialogues in fol. for</hi> 1. 2. <hi rend="italic">and</hi> 3. Voyces, Composed by Dr. <hi rend="italic">John Wilson</hi>, Dr. <hi rend="italic">Charles Colman</hi>, Mr. <hi rend="italic">Henry Lawes</hi>, Mr. <hi rend="italic">Nich. Lanear</hi>, Mr. <hi rend="italic">William Cæser</hi>, and others, newly re-printed with Large Additions.
+        <hi rend="italic">Musicks Recreation</hi>, or a choice Collection of Excellent Lessons for the <hi rend="italic">Lyra Violl</hi>, containing 117. Lessons, Composed to severall new Tunings, by the most Eminent Masters now living.
+        Also Dr <hi rend="italic">Campian's</hi> Book of Ayres, for 2. 3 and 4 Voyces.
+        <hi rend="italic">The first Book of Ayres and Dialogues in fol.</hi> for 1. 2. and 3, Voyces, by Mr. <hi rend="italic">Henry Lawes</hi>.
+        <hi rend="italic">Catch that Catch can</hi>, or an new Collection of <hi rend="italic">Catches, Rounds</hi>, and <hi rend="italic">Cannons</hi>, containing 150. Published by Mr. <hi rend="italic">John Hilton</hi> Batchelor in Musick.
+        <hi rend="italic">Orlando Gibbons</hi> 3. Part Fantazies, for 2. Trebles and a Basse engraven uppon Copper.
+        Mr. <hi rend="italic">Michael Easts</hi> 7. <hi rend="italic">Set of Fantazes</hi> for the <hi rend="italic">Violls</hi> of 2. 3. and 4. Parts.
+        <hi rend="italic">The Dancing Master</hi>, or plain and easie Rules for the Dancing of <hi rend="italic">Country Dances</hi>, with the <hi rend="italic">Tunes</hi> before each Dance to play on the <hi rend="italic">Treble Violin</hi>, containing 112 Dances.
+        A New Book of Lessons with Instructions for the <hi rend="italic">Cithern</hi> and <hi rend="italic">Gittern</hi>.
+        Also all sortes of Rul'd Paper and Ruled Books ready bound up, are sold at his Shop.
+        <head>FINIS.</head>
+      </ab>
     </div>
   </body>
 </text>

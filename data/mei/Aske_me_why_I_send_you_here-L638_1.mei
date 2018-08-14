@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <mei xml:id="m-1" meiversion="3.0.0" xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink">
 <meiHead xml:id="m-2">
     <fileDesc xml:id="m-3">
@@ -154,7 +154,7 @@
                                 <note xml:id="m-100" dur="2" dur.ges="512p" oct="3" pname="d" pnum="50" stem.dir="down"/>
                             </layer>
                         </staff>
-                        <slur xml:id="m-83" layer="1" staff="1" tstamp="2" tstamp2="0m+2.5"/>
+                        <slur xml:id="m-83" layer="1" staff="1" tstamp="2" tstamp2="0m+2.5" startid="m-84" endid="m-87"/>
                     </measure>
                     <measure xml:id="m-101" n="4">
                         <staff xml:id="m-102" n="1">
@@ -327,7 +327,7 @@
                                 </beam>
                                 <note xml:id="m-203" dur="4" dur.ges="256p" oct="4" pname="a" pnum="69" stem.dir="up">
                                     <verse xml:id="m-212" n="1">
-                                        <syl xml:id="m-213" wordpos="t">pearl&apos;d</syl>
+                                        <syl xml:id="m-213" wordpos="t">pearl'd</syl>
                                     </verse>
                                 </note>
                                 <beam xml:id="m-206">
@@ -348,8 +348,8 @@
                                 <note xml:id="m-221" dur="4" dur.ges="256p" oct="3" pname="c" pnum="48" stem.dir="up"/>
                             </layer>
                         </staff>
-                        <slur xml:id="m-194" layer="1" staff="1" tstamp="1" tstamp2="0m+1.5"/>
-                        <slur xml:id="m-204" layer="1" staff="1" tstamp="2.5" tstamp2="0m+2.875"/>
+                        <slur xml:id="m-194" layer="1" staff="1" tstamp="1" tstamp2="0m+1.5" startid="m-195" endid="m-199"/>
+                        <slur xml:id="m-204" layer="1" staff="1" tstamp="2.5" tstamp2="0m+2.875" startid="m-205"/>
                     </measure>
                     <measure xml:id="m-222" n="10">
                         <staff xml:id="m-223" n="1">
@@ -492,7 +492,7 @@
                             <layer xml:id="m-310" n="1">
                                 <note xml:id="m-311" dots="1" dur="2" dur.ges="768p" oct="5" pname="f" pnum="77" stem.dir="down">
                                     <verse xml:id="m-314" n="1">
-                                        <syl xml:id="m-315" wordpos="i">wash&apos;d</syl>
+                                        <syl xml:id="m-315" wordpos="i">wash'd</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-312" dur="4" dur.ges="256p" oct="5" pname="c" pnum="73" stem.dir="down">

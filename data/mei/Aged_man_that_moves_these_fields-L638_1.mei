@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <mei xml:id="m-1" meiversion="3.0.0" xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink">
 <meiHead xml:id="m-2">
     <fileDesc xml:id="m-3">
@@ -668,7 +668,7 @@
                                 </beam>
                                 <note xml:id="m-404" dur="4" dur.ges="256p" oct="4" pname="d" pnum="62" stem.dir="down">
                                     <verse xml:id="m-414" n="1">
-                                        <syl xml:id="m-415" wordpos="i">flow&apos;rs</syl>
+                                        <syl xml:id="m-415" wordpos="i">flow'rs</syl>
                                     </verse>
                                 </note>
                             </layer>
@@ -876,7 +876,7 @@
                                 <note xml:id="m-538" dur="2" dur.ges="512p" oct="3" pname="d" pnum="50" stem.dir="down"/>
                             </layer>
                         </staff>
-                        <slur xml:id="m-528" layer="1" staff="2" tstamp="2" tstamp2="0m+2.75"/>
+                        <slur xml:id="m-528" layer="1" staff="2" tstamp="2" tstamp2="0m+2.75" startid="m-529" endid="m-530"/>
                     </measure>
                     <measure xml:id="m-539" n="22">
                         <staff xml:id="m-540" n="1">
@@ -939,7 +939,7 @@
                                 </note>
                                 <note xml:id="m-576" dots="1" dur="4" dur.ges="384p" oct="4" pname="a" pnum="69" stem.dir="up">
                                     <verse xml:id="m-582" n="1">
-                                        <syl xml:id="m-583" wordpos="i">Flow&apos;rs</syl>
+                                        <syl xml:id="m-583" wordpos="i">Flow'rs</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-577" dur="8" dur.ges="128p" oct="4" pname="a" pnum="69" stem.dir="up">
@@ -1574,7 +1574,7 @@
                                 <note xml:id="m-967" dur="2" dur.ges="512p" oct="3" pname="d" pnum="50" stem.dir="down"/>
                             </layer>
                         </staff>
-                        <slur xml:id="m-947" layer="1" staff="2" tstamp="2.5" tstamp2="0m+2.875"/>
+                        <slur xml:id="m-947" layer="1" staff="2" tstamp="2.5" tstamp2="0m+2.875" startid="m-948"/>
                     </measure>
                     <measure xml:id="m-968" n="38" right="dbl">
                         <staff xml:id="m-969" n="1">
@@ -1774,7 +1774,7 @@
                                 <note xml:id="m-1088" dur="2" dur.ges="512p" oct="2" pname="b" pnum="47" stem.dir="up"/>
                             </layer>
                         </staff>
-                        <slur xml:id="m-1065" layer="1" staff="1" tstamp="1" tstamp2="0m+1.75"/>
+                        <slur xml:id="m-1065" layer="1" staff="1" tstamp="1" tstamp2="0m+1.75" startid="m-1066" endid="m-1068"/>
                     </measure>
                     <measure xml:id="m-1089" n="42">
                         <staff xml:id="m-1090" n="1">
@@ -1900,8 +1900,8 @@
                                 <note xml:id="m-1169" dur="8" dur.ges="128p" oct="3" pname="c" pnum="48" stem.dir="up"/>
                             </layer>
                         </staff>
-                        <slur xml:id="m-1135" layer="1" staff="1" tstamp="1.5" tstamp2="0m+1.75"/>
-                        <slur xml:id="m-1151" layer="1" staff="2" tstamp="1.5" tstamp2="0m+1.75"/>
+                        <slur xml:id="m-1135" layer="1" staff="1" tstamp="1.5" tstamp2="0m+1.75" startid="m-1136" endid="m-1138"/>
+                        <slur xml:id="m-1151" layer="1" staff="2" tstamp="1.5" tstamp2="0m+1.75" startid="m-1152" endid="m-1154"/>
                     </measure>
                     <measure xml:id="m-1170" n="44">
                         <staff xml:id="m-1171" n="1">
@@ -1963,7 +1963,7 @@
                                 <note xml:id="m-1207" dur="2" dur.ges="512p" oct="3" pname="d" pnum="50" stem.dir="down"/>
                             </layer>
                         </staff>
-                        <slur xml:id="m-1189" layer="1" staff="2" tstamp="1.5" tstamp2="0m+1.75"/>
+                        <slur xml:id="m-1189" layer="1" staff="2" tstamp="1.5" tstamp2="0m+1.75" startid="m-1190" endid="m-1192"/>
                     </measure>
                     <measure xml:id="m-1208" n="45" right="end">
                         <staff xml:id="m-1209" n="1">
@@ -2002,7 +2002,7 @@
                             </layer>
                         </staff>
                         <fermata xml:id="m-1213" form="norm" layer="1" shape="curved" staff="1" startid="#m-1212" tstamp="2.5"/>
-                        <slur xml:id="m-1220" layer="1" staff="2" tstamp="1" tstamp2="0m+1.75"/>
+                        <slur xml:id="m-1220" layer="1" staff="2" tstamp="1" tstamp2="0m+1.75" startid="m-1221" endid="m-1222"/>
                         <fermata xml:id="m-1224" form="norm" layer="1" shape="curved" staff="2" startid="#m-1223" tstamp="2"/>
                         <fermata xml:id="m-1233" form="norm" layer="1" shape="curved" staff="3" startid="#m-1232" tstamp="2"/>
                     </measure>

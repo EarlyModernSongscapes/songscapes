@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <mei xml:id="m-1" meiversion="3.0.0" xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink">
 <meiHead xml:id="m-2">
     <fileDesc xml:id="m-3">
@@ -135,7 +135,7 @@
                                 </note>
                                 <note xml:id="m-86" dots="1" dur="4" dur.ges="384p" oct="4" pname="a" pnum="69" stem.dir="up">
                                     <verse xml:id="m-90" n="1">
-                                        <syl xml:id="m-91" wordpos="t">dew&apos;d</syl>
+                                        <syl xml:id="m-91" wordpos="t">dew'd</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-87" dur="8" dur.ges="128p" oct="4" pname="a" pnum="69" stem.dir="up">
@@ -281,7 +281,7 @@
                                 <note xml:id="m-178" dur="2" dur.ges="512p" oct="3" pname="d" pnum="50" stem.dir="down"/>
                             </layer>
                         </staff>
-                        <slur xml:id="m-167" layer="1" staff="1" tstamp="2.5" tstamp2="0m+2.875"/>
+                        <slur xml:id="m-167" layer="1" staff="1" tstamp="2.5" tstamp2="0m+2.875" startid="m-168"/>
                     </measure>
                     <measure xml:id="m-179" n="8">
                         <staff xml:id="m-180" n="1">
@@ -596,7 +596,7 @@
                                 <note xml:id="m-373" dur="2" dur.ges="512p" oct="2" pname="g" pnum="43" stem.dir="up"/>
                             </layer>
                         </staff>
-                        <slur xml:id="m-361" layer="1" staff="1" tstamp="1.5" tstamp2="0m+1.875"/>
+                        <slur xml:id="m-361" layer="1" staff="1" tstamp="1.5" tstamp2="0m+1.875" startid="m-362"/>
                     </measure>
                 </section>
             </score>

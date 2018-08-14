@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <mei xml:id="m-1" meiversion="3.0.0" xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink">
 <meiHead xml:id="m-2">
     <fileDesc xml:id="m-3">
@@ -112,7 +112,7 @@
                                 <note xml:id="m-74" dur="2" dur.ges="512p" oct="3" pname="g" pnum="55" stem.dir="down"/>
                             </layer>
                         </staff>
-                        <slur xml:id="m-62" layer="1" staff="1" tstamp="2.875" tstamp2="1m+1"/>
+                        <slur xml:id="m-62" layer="1" staff="1" tstamp="2.875" tstamp2="1m+1" endid="m-78"/>
                     </measure>
                     <measure xml:id="m-75" n="3">
                         <staff xml:id="m-76" n="1">
@@ -162,7 +162,7 @@
                                 </note>
                             </layer>
                         </staff>
-                        <slur xml:id="m-82" layer="1" staff="1" tstamp="1.875" tstamp2="0m+2"/>
+                        <slur xml:id="m-82" layer="1" staff="1" tstamp="1.875" tstamp2="0m+2" endid="m-84"/>
                     </measure>
                     <measure xml:id="m-106" metcon="false" n="4">
                         <staff xml:id="m-107" n="1">
@@ -395,7 +395,7 @@
                                 <rest xml:id="m-240" dur="8" dur.ges="128p"/>
                                 <note xml:id="m-241" dur="8" dur.ges="128p" oct="4" pname="g" pnum="67" stem.dir="up">
                                     <verse xml:id="m-250" n="1">
-                                        <syl xml:id="m-251" wordpos="i">he&apos;s</syl>
+                                        <syl xml:id="m-251" wordpos="i">he's</syl>
                                     </verse>
                                 </note>
                             </layer>
@@ -547,12 +547,12 @@
                                 <rest xml:id="m-339" dur="8" dur.ges="128p"/>
                                 <note xml:id="m-340" dur="8" dur.ges="128p" oct="5" pname="c" pnum="72" stem.dir="down">
                                     <verse xml:id="m-346" n="1">
-                                        <syl xml:id="m-347" wordpos="i">he&apos;s</syl>
+                                        <syl xml:id="m-347" wordpos="i">he's</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-341" dur="4" dur.ges="256p" oct="5" pname="f" pnum="77" stem.dir="down">
                                     <verse xml:id="m-348" n="1">
-                                        <syl xml:id="m-349" wordpos="i">wing&apos;d,</syl>
+                                        <syl xml:id="m-349" wordpos="i">wing'd,</syl>
                                     </verse>
                                 </note>
                                 <rest xml:id="m-342" dur="8" dur.ges="128p"/>
@@ -626,7 +626,7 @@
                                 <note xml:id="m-390" dur="8" dur.ges="128p" oct="4" pname="b" pnum="70" stem.dir="down">
                                     <accid xml:id="m-391" accid.ges="f"/>
                                     <verse xml:id="m-397" n="1">
-                                        <syl xml:id="m-398" wordpos="i">I&apos;m</syl>
+                                        <syl xml:id="m-398" wordpos="i">I'm</syl>
                                     </verse>
                                 </note>
                                 <beam xml:id="m-393">
@@ -723,7 +723,7 @@
                                 </note>
                                 <note xml:id="m-448" dur="4" dur.ges="256p" oct="5" pname="c" pnum="72" stem.dir="down">
                                     <verse xml:id="m-453" n="1">
-                                        <syl xml:id="m-454" wordpos="i">may&apos;st</syl>
+                                        <syl xml:id="m-454" wordpos="i">may'st</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-449" dur="4" dur.ges="256p" oct="5" pname="c" pnum="72" stem.dir="down">

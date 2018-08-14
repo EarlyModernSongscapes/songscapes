@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <mei xml:id="m-1" meiversion="3.0.0" xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink">
 <meiHead xml:id="m-2">
     <fileDesc xml:id="m-3">
@@ -239,7 +239,7 @@
                                 <beam xml:id="m-150">
                                     <note xml:id="m-149" dots="1" dur="8" dur.ges="192p" oct="5" pname="c" pnum="72" stem.dir="down">
                                         <verse xml:id="m-156" n="1">
-                                            <syl xml:id="m-157" con="d" wordpos="i">pow&apos;r</syl>
+                                            <syl xml:id="m-157" con="d" wordpos="i">pow'r</syl>
                                         </verse>
                                     </note>
                                     <note xml:id="m-151" dur="16" dur.ges="64p" oct="5" pname="d" pnum="74" stem.dir="down">
@@ -271,7 +271,7 @@
                             <layer xml:id="m-170" n="1">
                                 <note xml:id="m-171" dots="1" dur="4" dur.ges="384p" oct="5" pname="d" pnum="74" stem.dir="down">
                                     <verse xml:id="m-180" n="1">
-                                        <syl xml:id="m-181" wordpos="i">cal&apos;s</syl>
+                                        <syl xml:id="m-181" wordpos="i">cal's</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-172" dur="8" dur.ges="128p" oct="5" pname="c" pnum="72" stem.dir="down">
@@ -305,7 +305,7 @@
                                 <note xml:id="m-193" dur="2" dur.ges="512p" oct="3" pname="d" pnum="50" stem.dir="down"/>
                             </layer>
                         </staff>
-                        <slur xml:id="m-173" layer="1" staff="1" tstamp="2" tstamp2="0m+2.25"/>
+                        <slur xml:id="m-173" layer="1" staff="1" tstamp="2" tstamp2="0m+2.25" startid="m-174" endid="m-177"/>
                     </measure>
                     <measure xml:id="m-194" n="8">
                         <staff xml:id="m-195" n="1">
@@ -650,7 +650,7 @@
                                 <note xml:id="m-402" dots="1" dur="4" dur.ges="384p" oct="5" pname="e" pnum="75" stem.dir="down">
                                     <accid xml:id="m-403" accid.ges="f"/>
                                     <verse xml:id="m-409" n="1">
-                                        <syl xml:id="m-410" wordpos="i">heav&apos;n</syl>
+                                        <syl xml:id="m-410" wordpos="i">heav'n</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-404" dur="8" dur.ges="128p" oct="5" pname="d" pnum="74" stem.dir="down">

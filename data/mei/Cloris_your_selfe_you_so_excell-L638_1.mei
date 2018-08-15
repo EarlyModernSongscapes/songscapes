@@ -166,7 +166,7 @@
                             </layer>
                         </staff>
                         <tie xml:id="m-87" endid="#m-88" startid="#m-86"/>
-                        <slur xml:id="m-90" layer="1" staff="1" tstamp="2.625" tstamp2="0m+2.875"/>
+                        <slur xml:id="m-90" layer="1" staff="1" tstamp="2.625" tstamp2="0m+2.875" startid="m-91" endid="m-93"/>
                     </measure>
                     <measure xml:id="m-108" n="4">
                         <staff xml:id="m-109" n="1">
@@ -198,7 +198,7 @@
                                 <note xml:id="m-127" dur="2" dur.ges="512p" oct="2" pname="g" pnum="43" stem.dir="up"/>
                             </layer>
                         </staff>
-                        <slur xml:id="m-112" layer="1" staff="1" tstamp="1.5" tstamp2="0m+1.875" startid="m-113"/>
+                        <slur xml:id="m-112" layer="1" staff="1" tstamp="1.5" tstamp2="0m+1.875" startid="m-113" endid="m-115"/>
                     </measure>
                     <sb xml:id="m-129"/>
                     <measure xml:id="m-128" n="5">
@@ -449,7 +449,7 @@
                             </layer>
                         </staff>
                         <tie xml:id="m-259" endid="#m-260" startid="#m-258"/>
-                        <slur xml:id="m-262" layer="1" staff="1" tstamp="2.625" tstamp2="0m+2.875"/>
+                        <slur xml:id="m-262" layer="1" staff="1" tstamp="2.625" tstamp2="0m+2.875" startid="m-263" endid="m-265"/>
                     </measure>
                     <measure xml:id="m-282" n="11">
                         <staff xml:id="m-283" n="1">
@@ -481,7 +481,7 @@
                                 <note xml:id="m-301" dur="2" dur.ges="512p" oct="2" pname="g" pnum="43" stem.dir="up"/>
                             </layer>
                         </staff>
-                        <slur xml:id="m-286" layer="1" staff="1" tstamp="1.5" tstamp2="0m+1.875" startid="m-287"/>
+                        <slur xml:id="m-286" layer="1" staff="1" tstamp="1.5" tstamp2="0m+1.875" startid="m-287" endid="m-289"/>
                     </measure>
                     <measure xml:id="m-302" n="12">
                         <staff xml:id="m-303" n="1">

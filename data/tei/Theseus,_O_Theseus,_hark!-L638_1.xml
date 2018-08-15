@@ -36,8 +36,7 @@
           <notatedMusic>
           <!-- MEI goes here -->
         </notatedMusic>
-        <ab>
-          <supplied reason="underlay">
+        <div type="underlay">
         <lg type="stanza">
         <l><hi rend="italic">THeseus,</hi> O <hi rend="italic">Theseus,</hi> hark! but yet in vain;</l>
         <l rend="indent2">Alas deserted I complain;</l>
@@ -165,8 +164,7 @@
     <l>and green leaves cloath his waving Rod,</l>
     <l>'tis he; 'tis either <hi rend="italic">Theseus</hi>, or some God.</l>
   </lg>
-          </supplied>
-          </ab>
+</div>
         </div>
       </body>
   </text>

@@ -525,10 +525,21 @@
 </div>
 <div type="table">
   <pb n="A2v"/>
-  <head rend="italic">The <hi rend="roman">TABLE,</hi> With the Names of those who were Authors of the Verses.</head>
-     <ab>
-       <hi rend="italic">A.</hi> <hi rend="italic">ARiadne</hi> <hi rend="italic">Pag.</hi> 1 - Mr. <hi rend="italic">William Cartwright</hi> of <hi rend="italic">Christ-Church Oxford.</hi>
-         Am I dispis'd because you say 19 - Mr. <hi rend="italic">Robert Herick.</hi>
+  <table rows="55" cols="4">
+    <head rend="center"><hi rend="italic">The </hi>TABLE, <hi rend="italic">With the Names of those who were Authors of the Verses.</hi></head>
+      <row>
+        <cell><hi rend="italic">A.</hi></cell>
+        <cell><hi rend="italic">ARiadne</hi></cell>
+        <cell><hi rend="italic">Pag.</hi> 1</cell>
+        <cell>- Mr. <hi rend="italic">William Cartwright</hi> of <hi rend="italic">Christ-Church Oxford.</hi></cell>
+      </row>
+    <row>
+      <cell/>
+      <cell>Am I dispis'd because you say</cell>
+      <cell>19</cell>
+      <cell>- Mr. <hi rend="italic">Robert Herick.</hi></cell>
+    </row>
+
          <hi rend="italic">Amarantha</hi> sweet and fair 15 - Col. <hi rend="italic">Richard Lovelace.</hi>
          Ask me why I send you here 24 - Mr. <hi rend="italic">Herick.</hi>
       <hi rend="italic">B.</hi> Be gone, be gone thou perjur'd man 35 - <hi rend="italic">Henry Lawes.</hi>
@@ -583,7 +594,7 @@
         Sing Fair <hi rend="italic">Clorinda</hi> 22 - Sr. <hi rend="italic">William Davenant.</hi>
         Grieve not Dear Love 24 - <hi rend="italic">John</hi> Earle of <hi rend="italic">Bristoll.</hi>
         Ladyes whose smooth and Dainty Skin. 26 - Mr. <hi rend="italic">Harington.</hi>
-       </ab>
+        </table>
 </div>
 </front>
   <body>
@@ -693,7 +704,8 @@
     <pb n="2G2v"/>
         <xi:include href="Inquel_gelato_core-L638_1.xml" xpointer="#song53"/>
       </div>
-      <div type="end_matter">
+    </body>
+    <back>
        <ab>
         <docImprint>Musick Books Printed for <hi rend="italic">John Playford</hi>, and are to be sold at his Shop in the Inner Temple near the Church Doore.<docImprint>
         <hi rend="italic">The first Set of Psalms for three Voyces</hi>, with a Thorough Basse for the <hi rend="italic">Organ</hi>, or <hi rend="italic">Theorbo Lute</hi>, Composed by Mr. <hi rend="italic">William Child</hi>, late <hi rend="italic">Organist</hi> of <hi rend="italic">Windsor</hi>, the which are Engraven upon <hi rend="italic">Copper</hi>.
@@ -709,7 +721,6 @@
         Also all sortes of Rul'd Paper and Ruled Books ready bound up, are sold at his Shop.
         <head>FINIS.</head>
       </ab>
-    </div>
-  </body>
+    </back>
 </text>
 </TEI>

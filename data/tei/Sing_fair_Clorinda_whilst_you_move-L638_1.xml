@@ -26,13 +26,12 @@
   </teiHeader>
   <text>
       <body>
-        <stage type="voice" rend="italic">a. 3. voc.</stage>
+        <head type="voice" rend="italic">a. 3. voc.</head>
         <div>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-        <ab>
-          <supplied reason="underlay">
+        <div type="underlay">
             <lg type="stanza">
               <l>SIng fair <hi rend="italic">Clorinda</hi> whilst you move</l>
               <l rend="indent1">those that attend the Throne above,</l>
@@ -47,9 +46,8 @@
               <l>in all her works, and can provoke</l>
               <l rend="indent1">a Lilly to outlive an Oake,</l>
             </lg>
-         </supplied>
+         </div>
    <pb n="2F2r"/>
-        </ab>
       </div>
     </body>
   </text>

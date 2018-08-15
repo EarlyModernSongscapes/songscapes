@@ -32,12 +32,11 @@
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
-                <lg type="stanza">
-                  <stage><sp>
-                    <speaker rend="italic"><choice><abbr>Pilgr</abbr><expan>Pilgrime</expan></choice>.</speaker>
-            <l rend="indent1">AGed man that moves these fields.</l>
+          <div type="underlay">
+            <sp>
+             <speaker rend="italic"><choice><abbr>Pilgr</abbr><expan>Pilgrime</expan></choice>.</speaker>
+              <lg type="stanza">
+                <l rend="indent1">AGed man that moves these fields.</l>
                   </sp></stage>
           </lg>
           <lg type="stanza">
@@ -102,9 +101,8 @@
               <l>together twist their threds, &amp; yet draws hers the longer.</l>
             </sp></stage>
          </lg>
-          </supplied>
-        </ab>
-        </div>
-      </body>
+       </div>
+      </div>
+    </body>
   </text>
 </TEI>

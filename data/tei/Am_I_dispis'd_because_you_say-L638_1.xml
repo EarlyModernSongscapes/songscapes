@@ -32,8 +32,7 @@
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
           <lg type="stanza">
             <l>AM I dispis'd because you say,</l>
             <l>and I believe, that I am gray?</l>
@@ -50,8 +49,7 @@
             <l rend="indent3">that you are old,</l>
             <l>by those true tears y'are weeping</l>
           </lg>
-          </supplied>
-        </ab>
+        </div>
         </div>
       </body>
   </text>

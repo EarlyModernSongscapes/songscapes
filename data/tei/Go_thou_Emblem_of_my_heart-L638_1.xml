@@ -29,12 +29,11 @@
       <body>
         <div>
             <head rend="italic">Vpon a Crown'd Heart sent to a Cruell Mistress.</head>
-            <stage type="voice" rend="italic">A. 2. Voc. Basse. &amp; Cant.</stage>
+            <head type="voice" rend="italic">A. 2. Voc. Basse. &amp; Cant.</head>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
           <lg type="stanza">
             <l>GO thou Emblem of my heart,</l>
             <l rend="indent1">tell my Mistress whose thou art;</l>
@@ -51,9 +50,8 @@
             <l>yet I vow in thy defence,</l>
             <l rend="indent1">Love no more shall fire thee hence.</l>
           </lg>
-        </supplied>
+        </div>
     <pb n="2C2r"/>
-        </ab>
         </div>
       </body>
   </text>

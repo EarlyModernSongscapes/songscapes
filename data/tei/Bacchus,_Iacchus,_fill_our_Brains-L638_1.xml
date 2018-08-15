@@ -29,12 +29,11 @@
       <body>
         <div>
           <head rend="italic">A Bacchanall.</head>
-          <stage type="voice" rend="italic">For one or two Voyces</stage>
+          <head type="voice" rend="italic">For one or two Voyces</head>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+            <div type="underlay">
               <lg type="refrain" xml:id="first.refrain">
                 <l><hi rend="italic">BAcchus, Iacchus</hi>, fill our Brains</l>
                 <l rend="indent1">as well as Bowls with sprightly strains:</l>
@@ -52,7 +51,8 @@
               <lg type="refrain" sameAs="first.refrain">
                 <l><hi rend="italic">Bacchus, Iacchus</hi>, &amp;c.</l>
               </lg>
-          </supplied>
+          </div>
+          <div>
             <lg type="refrain" sameAs="first.refrain">
               <l><hi rend="italic">Bacchus, Iacchus, &amp;c.</hi></l>
             </lg>
@@ -113,7 +113,7 @@
             <lg type="refrain" sameAs="second.refrain">
               <l rend="indent3">'Tis Wine, pure Wine, &amp;c.</l>
             </lg>
-        </ab>
+        </div>
         </div>
       </body>
   </text>

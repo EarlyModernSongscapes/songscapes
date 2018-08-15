@@ -32,8 +32,7 @@
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
           <lg type="stanza">
             <l>WHen thou, poor Excommunicate</l>
             <l>from all the joyes of Love shalt see</l>
@@ -46,8 +45,7 @@
             <l>as mine were then, for thou shalt be</l>
             <l>damn'd for thy false Apostacy.</l>
           </lg>
-          </supplied>
-          </ab>
+        </div>
         </div>
       </body>
   </text>

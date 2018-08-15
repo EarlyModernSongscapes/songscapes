@@ -29,12 +29,11 @@
       <body>
         <div>
           <head rend="italic">A Smile, or Frown.</head>
-          <stage type="voice" rend="italic">For one, two or three voyces.</stage>
+          <head type="voice" rend="italic">For one, two or three voyces.</head>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-        <ab>
-          <supplied reason="underlay">
+        <div type="underlay">
             <lg type="stanza">
             <l>THough my torment far exceeds</l>
             <l>his whole hart the Vulture feeds,</l>
@@ -43,7 +42,8 @@
             <l>If my <hi rend="italic">Julia</hi> do but smile,</l>
             <l>I can laugh and sing the while.</l>
           </lg>
-         </supplied>
+        </div>
+        <div>
            <lg type="stanza">
              <l>Though my Fortunes greater were</l>
              <l>Then the <hi rend="italic">Hacedonians</hi> Heire:</l>
@@ -52,8 +52,8 @@
              <l>If my <hi rend="italic">Julia</hi> do but frown,</l>
              <l>All my Pompe were overthrown.</l>
            </lg>
-        </ab>
         </div>
-      </body>
+      </div>
+    </body>
   </text>
 </TEI>

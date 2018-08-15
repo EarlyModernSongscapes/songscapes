@@ -32,8 +32,7 @@
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
           <lg type="stanza">
             <l>LOvely <hi rend="italic">Chloris</hi> through thine eyes</l>
             <l>far out shine the jewels of the skies;</l>
@@ -43,7 +42,8 @@
             <l>might e're compared be</l>
             <l>to my fidelity.</l>
           </lg>
-          </supplied>
+        </div>
+        <div>
           <lg type="stanza">
             <l>Those alluring smiles that place</l>
             <l>An eternall April on thy face;</l>
@@ -53,7 +53,7 @@
             <l>Might e're compared be</l>
             <l>To my Fidelitie.</l>
           </lg>
-        </ab>
+        </div>
         </div>
       </body>
   </text>

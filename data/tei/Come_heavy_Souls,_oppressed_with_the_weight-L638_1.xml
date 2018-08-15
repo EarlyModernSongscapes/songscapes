@@ -33,8 +33,7 @@
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
           <lg type="stanza">
             <l rend="indent2">COme heavy Souls, oppressed with the weight</l>
             <l rend="indent2">of crimes, or pangs, or want of your delight;</l>
@@ -50,8 +49,7 @@
             <l rend="indent1">Lay down your loads before death's Iron door;</l>
             <l>sigh, and sigh out, groan once, and groan no more.</l>
           </lg>
-        </supplied>
-        </ab>
+        </div>
         </div>
       </body>
   </text>

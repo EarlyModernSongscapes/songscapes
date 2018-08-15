@@ -32,8 +32,7 @@
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
           <lg type="stanza">
             <l>CAnst thou love me and yet doubt</l>
             <l>so much Falshood in my heart,</l>
@@ -46,7 +45,8 @@
             <l>short Love liking may find Jarrs,</l>
             <l>the Love that lastesth knows no Warrs.</l>
           </lg>
-          </supplied>
+        </div>
+        <div>
           <lg type="stanza">
             <l>There, Reliefe begets Delight,</l>
             <l>And so satisfies Desire,</l>
@@ -59,7 +59,7 @@
             <l>Even to seem Two they are loath,</l>
             <l>Love being only Soul to both.</l>
           </lg>
-        </ab>
+        </div>
         </div>
       </body>
   </text>

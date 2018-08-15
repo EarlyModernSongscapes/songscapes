@@ -29,12 +29,11 @@
       <body>
         <div>
           <head rend="italic">To a Lady putting off her veile.</head>
-            <stage type="voice" rend="italic">For one, two or three voyces.</stage>
+            <head type="voice" rend="italic">For one, two or three voyces.</head>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-        <ab>
-          <supplied reason="underlay">
+        <div type="underlay">
             <lg type="stanza">
             <l>KEep on your veile &amp; hide your eye,</l>
             <l>for with beholding you I dye,</l>
@@ -43,7 +42,8 @@
             <l>your piercing eyes, if them I see,</l>
             <l>are worse then <hi rend="italic">Basilisks</hi> to me.</l>
           </lg>
-         </supplied>
+        </div>
+        <div>
            <lg type="stanza">
              <l>Hide from my sight those Hils of Snow,</l>
              <l>Their melting Vally do not show;</l>
@@ -60,7 +60,7 @@
              <l>Or if an Angell torture so!</l>
              <l>When li<corr>f</corr>e is done, where shall I go?</l>
          </lg>
-       </ab>
+       </div>
       </div>
     </body>
   </text>

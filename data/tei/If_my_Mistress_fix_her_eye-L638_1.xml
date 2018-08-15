@@ -29,12 +29,11 @@
       <body>
         <div>
           <head rend="italic">The Captive Lover.</head>
-           <stage type="voice" rend="italic">For one, two or three Voyces.</stage>
+           <head type="voice" rend="italic">For one, two or three Voyces.</head>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-        <ab>
-          <supplied reason="underlay">
+        <div type="underlay">
             <lg type="stanza">
             <l>IF my Mistress fix her eye</l>
             <l rend="indent1">on these ruder lines of mine,</l>
@@ -43,7 +42,8 @@
             <l>Tell her it is only she</l>
             <l>can release and set me free.</l>
           </lg>
-         </supplied>
+        </div>
+        <div>
             <lg type="stanza">
              <l>Tell her yet 'tis my desire</l>
              <l rend="indent1">To remain her Captive still;</l>
@@ -52,7 +52,7 @@
              <l>So she will my thraldome pay</l>
              <l>But with one good looke a day.</l>
            </lg>
-        </ab>
+        </div>
         </div>
       </body>
   </text>

@@ -32,8 +32,7 @@
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
           <lg type="stanza">
             <l>Till I beheld fair <hi rend="italic">Calia's</hi> face,</l>
             <l rend="indent1">where perfect Beauty keeps her Court,</l>
@@ -42,7 +41,8 @@
             <l>I thought the whole world could not move,</l>
             <l>a well resolved heart to love.</l>
           </lg>
-          </supplied>
+        </div>
+        <div>
           <lg type="stanza">
             <l>Wounded by her I now adore</l>
             <l rend="indent1">Those pow'rs of Love I have defi'd,</l>
@@ -59,7 +59,7 @@
               <l>Shoud he her voyce's musick heare,</l>
               <l>Soft Love would enter Love's own Eare.</l>
           </lg>
-        </ab>
+        </div>
         </div>
       </body>
   </text>

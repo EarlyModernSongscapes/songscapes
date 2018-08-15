@@ -32,8 +32,7 @@
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
           <lg type="stanza">
             <l><hi rend="italic">AMarantha</hi> sweet &amp; fair,</l>
             <l>forbear to brade that shining hair,</l>
@@ -44,7 +43,8 @@
             <l>who ha's left his Darling the East,</l>
             <l>to wanton o're this spicy Nest.</l>
           </lg>
-          </supplied>
+        </div>
+        <div>
           <lg type="stanza">
             <l>Ev'ry Tress must be confest,</l>
             <l>But neatly tangled at best,</l>
@@ -55,7 +55,7 @@
             <l>Like the Sun in's early Ray,</l>
             <l>But shake yor head and Scatter Day.</l>
           </lg>
-        </ab>
+        </div>
         </div>
       </body>
   </text>

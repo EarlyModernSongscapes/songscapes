@@ -33,8 +33,7 @@
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
           <lg type="stanza">
             <l>I Long to sing the seidge of <hi rend="italic">Troy;</hi></l>
             <l>or <hi rend="italic">Thebe's</hi> which <hi rend ="italic">Cadmus</hi> rear'd so high;</l>
@@ -53,8 +52,7 @@
             <l>Nor Godds nor men my Lute can move;</l>
             <l>'Tis dumb to all but <hi rend="italic">Love, Love, Love.</hi></l>
           </lg>
-        </supplied>
-        </ab>
+        </div>
         </div>
       </body>
   </text>

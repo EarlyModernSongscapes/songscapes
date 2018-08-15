@@ -27,13 +27,12 @@
   </teiHeader>
   <text>
       <body>
-        <div xml:id="song8">
+        <div xml:id="song34">
           <head rend="italic">No Constancy in Man.</head>
             <notatedMusic>
             <!-- MEI goes here -->
-          </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+            </notatedMusic>
+          <div type="underlay">
           <lg type="stanza">
             <l>BE gone, be gone thou perjur'd man,</l>
             <l rend="indent1">and never more return,</l>
@@ -42,7 +41,8 @@
             <l>Thou hast awak'd me, and I can</l>
             <l>see cleerly ther's no Truth in Man.</l>
           </lg>
-          </supplied>
+        </div>
+        <div>
           <lg type="stanza">
             <l>My Love to thee was chast and pure,</l>
             <l rend="indent1">As is the Morning dew,</l>
@@ -67,7 +67,7 @@
             <l>I'm now resolv'd, and know there can</l>
             <l>No constant Thought remain in Man.</l>
           </lg>
-        </ab>
+        </div>
         </div>
       </body>
   </text>

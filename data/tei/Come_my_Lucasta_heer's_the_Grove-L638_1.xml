@@ -27,13 +27,12 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song24">
           <head rend="italic">Love and Loyalty.</head>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
           <lg type="stanza">
             <l>COme my <hi rend="roman">Lucasta</hi> heer's the Grove,</l>
             <l rend="indent1">where Nightingales performe the Ayre;</l>
@@ -44,7 +43,8 @@
             <l>ther's none shal dare approach but I;</l>
             <l rend="indent1">the strongest Love is best defence.</l>
           </lg>
-        </supplied>
+        </div>
+        <div>
           <lg type="stanza">
             <l>Here we'l discourse, and think, and smile,</l>
             <l rend="indent1">Let guilty men seek how to scape;</l>
@@ -55,7 +55,7 @@
             <l>We'l meet again to morrow here,</l>
             <l rend="indent1">Would Kings and Queens might do so too.</l>
         </lg>
-        </ab>
+      </div>
         </div>
       </body>
   </text>

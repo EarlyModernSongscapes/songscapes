@@ -32,8 +32,7 @@
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
           <lg type="stanza">
             <l>TIs Wine that inspires,</l>
             <l rend="indent1">and quencheth Lov's fires,</l>
@@ -42,7 +41,8 @@
             <l rend="indent1">because those that love it</l>
             <l>dispise and laugh at their hate.</l>
           </lg>
-        </supplied>
+        </div>
+        <div>
           <lg type="stanza">
             <l>The Drinkers of Beer</l>
             <l rend="indent1">Did ne'r yet appear</l>
@@ -59,7 +59,7 @@
             <l rend="indent1">To drink of this Juice,</l>
             <l>Is a Foe to the Common-weale.</l>
           </lg>
-        </ab>
+        </div>
         </div>
       </body>
   </text>

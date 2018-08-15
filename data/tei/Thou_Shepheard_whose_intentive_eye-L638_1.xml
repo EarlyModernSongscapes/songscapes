@@ -29,19 +29,19 @@
     <body>
       <div>
         <head rend="italic">In praise of his Mistress.</head>
-         <stage type="voice" rend="italic">For one, two or three voyces:</stage>
+         <head type="voice" rend="italic">For one, two or three voyces:</head>
           <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-        <ab>
-          <supplied reason="underlay">
+        <div type="underlay">
             <lg type="stanza">
               <l>THou Shepheard whose intentive eye,</l>
               <l>on ev'ry Lamb is such a spy,</l>
               <l>no wily Fox can make them lesse,</l>
               <l>where may I find my Shepheardess?</l>
             </lg>
-         </supplied>
+         </div>
+         <div>
            <lg type="stanza">
              <l>A little pausing then sayd hee,</l>
              <l>How can that Jewell stray from thee</l>
@@ -90,7 +90,7 @@
              <l>And closing both mine eyes, forbid</l>
              <l>The World my sight since she was hid.</l>
            </lg>
-        </ab>
+        </div>
       </div>
     </body>
   </text>

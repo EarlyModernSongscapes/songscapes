@@ -27,13 +27,12 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song09">
           <head rend="italic">To the same Lady, singing the former Song.</head>
             <notatedMusic>
             <!-- MEI goes here -->
             </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
             <lg type="stanza">
               <l><hi rend="italic">CLoris</hi> your selfe you so excell,</l>
               <l>when you vouchsafe to breath my thought,</l>
@@ -50,8 +49,7 @@
               <l>not for reflection of his face,</l>
               <l>but of his voyce the boy had mourn'd.</l>
             </lg>
-          </supplied>
-        </ab>
+          </div>
         </div>
       </body>
   </text>

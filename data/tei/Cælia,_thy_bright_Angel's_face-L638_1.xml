@@ -27,13 +27,12 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song13">
           <head rend="italic">The Celestiall Mistress.</head>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
           <lg type="stanza">
             <l>CÆlia, thy bright Angels face</l>
             <l>may be cal'd a heav'nly place:</l>
@@ -48,8 +47,7 @@
             <l>happy were I, had I (like <hi rend="italic">Atlas</hi>) grace,</l>
             <l>so faire a heav'n within mine Arms t'imbrace.</l>
           </lg>
-          </supplied>
-        </ab>
+        </div>
         </div>
       </body>
   </text>

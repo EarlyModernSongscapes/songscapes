@@ -27,13 +27,12 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song36">
           <head rend="italic">An Eccho.</head>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
           <lg type="stanza">
             <l>IMbre lachrymarum largo Genas spargo, quavis aurorâ;</l>
             <l>Deus citò tu venito, nunc nunc sine morâ, Ora:</l>
@@ -44,8 +43,7 @@
             <l>vox pergrata satìs, jam cedam fatis; mortuus; vivam tamen:</l>
             <l>Hìc cum morior, cælo orior, magnum magnum hoc solamen. Amen</l>
           </lg>
-          </supplied>
-        </ab>
+        </div>
         </div>
       </body>
   </text>

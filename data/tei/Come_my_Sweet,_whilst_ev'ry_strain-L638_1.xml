@@ -27,13 +27,12 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song31">
           <head rend="italic">Love and Musick.</head>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
           <lg type="stanza">
             <l>COme my Sweet, whilst ev'ry strain</l>
             <l rend="indent1">cals our souls into the Eare,</l>
@@ -45,7 +44,8 @@
             <l rend="indent3">to harmony,</l>
             <l>let's kiss &amp; call them back again.</l>
           </lg>
-        </supplied>
+        </div>
+        <div>
         <lg type="stanza">
           <l>Now let's orderly convey</l>
           <l rend="indent1">Our Souls into each other's Brest,</l>
@@ -68,7 +68,7 @@
           <l rend="indent3">In gentle fire,</l>
           <l>Scorning the forgetfull Lake.</l>
         </lg>
-        </ab>
+      </div>
         </div>
       </body>
   </text>

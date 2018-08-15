@@ -27,13 +27,12 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song12">
           <head rend="italic">The Reform'd Lover.</head>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
           <lg type="stanza">
             <l>TIll now I never did believe</l>
             <l>a man could love for vertues sake;</l>
@@ -44,7 +43,8 @@
             <l>thine Innocence hath so my Love refin'd,</l>
             <l>I mourn thy body's absence for thy mind.</l>
           </lg>
-          </supplied>
+        </div>
+        <div>
           <lg type="stanza">
             <l>Tell now I never made an Oath</l>
             <l>But with a purpose to forswear,</l>
@@ -65,7 +65,7 @@
             <l>Upon thy selfe, thy Sex doth want that grace</l>
             <l>My truth to love more then a better face.</l>
           </lg>
-        </ab>
+        </div>
         </div>
       </body>
   </text>

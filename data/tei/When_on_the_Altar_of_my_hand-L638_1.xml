@@ -27,13 +27,12 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song04">
           <head rend="italic">In the Person of a Lady to her inconstant servant.</head>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
           <lg type="stanza">
             <l>WHen on the Altar of my hand</l>
             <l>(bedwe'd with many a kisse and teare,)</l>
@@ -43,7 +42,8 @@
             <l>By those bright glances of thine eye,</l>
             <l>unlesse thou pitty me I dye.</l>
           </lg>
-        </supplied>
+        </div>
+        <div>
           <lg type="stanza">
             <l>When first those perjur'd lips of thine,</l>
             <l>Bepal'd with blasting sighs, did seale</l>
@@ -62,7 +62,7 @@
             <l>If I implore the Godds, they'l find</l>
             <l>Thee too ingratefull, me too kind.</l>
           </lg>
-        </ab>
+        </div>
         </div>
       </body>
   </text>

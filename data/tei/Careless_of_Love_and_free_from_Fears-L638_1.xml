@@ -6,7 +6,7 @@
       <fileDesc>
          <titleStmt>
             <title>The Surprise</title>
-              <title type="first_line">Careless of Love &amp; free from Fears</title>
+              <title type="first_line">Careless of Love and free from Fears</title>
          </titleStmt>
          <publicationStmt>
              <p>Early Modern Songscapes</p>
@@ -27,20 +27,20 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song06">
           <head rend="italic">The Surprise.</head>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
           <lg type="stanza">
             <l>CAreless of Love &amp; free from Fears,</l>
             <l rend="indent1">I sate &amp; gaz'd on <hi rend="italic">Stella's</hi> eyes,</l>
             <l>thinking my Reason or my Years</l>
             <l rend="indent1">might keep me safe from all surprize.</l>
           </lg>
-        </supplied>
+        </div>
+        <div>
         <lg type="stanza">
           <l>But Love, that hath been long despis'd,</l>
           <l rend="indent1">And made the Baud to others trust,</l>
@@ -65,7 +65,7 @@
           <l>Were it not Atheisme to resist</l>
           <l rend="indent1">Where godds themselves conspire her flame.</l>
         </lg>
-        </ab>
+      </div>
         </div>
       </body>
   </text>

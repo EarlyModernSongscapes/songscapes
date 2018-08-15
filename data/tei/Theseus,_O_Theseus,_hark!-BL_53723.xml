@@ -42,8 +42,7 @@
           <notatedMusic>
           <!-- MEI goes here -->
         </notatedMusic>
-        <ab>
-          <supplied reason="underlay">
+        <div type="underlay">
         <lg type="stanza">
         <l>Theseous! ô theseus! heark! but yet in vaine,</l>
         <l rend="indent2">alas forsaken I Complaine;</l>
@@ -144,8 +143,7 @@
       <l>y<hi rend="superscript">t</hi> from A Monster freed, him selfe proou'ed One. /</l>
       <l>Thus then I f--- but look</l>
   </lg>
-          </supplied>
-          </ab>
+    </div>
         </div>
       </body>
   </text>

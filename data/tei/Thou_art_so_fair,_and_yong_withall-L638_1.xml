@@ -27,13 +27,12 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song30">
           <head rend="italic">Youth and Beauty.</head>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
           <lg type="stanza">
             <l>THou art so fair, and yong withall,</l>
             <l rend="indent1">thou kindl'st yong desires in me,</l>
@@ -41,7 +40,8 @@
             <l rend="indent1">and sight to Eyes that hardly see,</l>
             <l rend="indent1">halfe those fresh Beauties bloom in thee.</l>
           </lg>
-        </supplied>
+        </div>
+        <div>
             <lg type="stanza">
               <l>Those under sev'rall Hearbs and Flowr's,</l>
               <l rend="indent1">Disguis'd, were all <hi rend="italic">Medea</hi> gave,</l>
@@ -56,7 +56,7 @@
               <l rend="indent1">Not blaze, but ever constant burn,</l>
               <l rend="indent1">For fear my Cradle prove my Urn.</l>
             </lg>
-        </ab>
+        </div>
         </div>
       </body>
   </text>

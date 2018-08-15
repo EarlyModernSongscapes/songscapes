@@ -27,12 +27,11 @@
   <text>
       <body>
         <div>
-          <stage type="voice" rend="italic">a. 3. voc.</stage>
+          <head type="voice" rend="italic">a. 3. voc.</head>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-        <ab>
-          <supplied reason="underlay">
+        <div type="underlay">
             <lg type="stanza">
               <l>GRieve not, dear Love, although we often part,</l>
               <l rend="indent1">but know that nature gently doth us sever,</l>
@@ -45,9 +44,8 @@
               <l>doth keep us dayly school'd and exercised,</l>
               <l rend="indent1">lest that the fright thereof should over bear us.</l>
             </lg>
-         </supplied>
+         </div>
    <pb n="2G1r"/>
-        </ab>
       </div>
     </body>
   </text>

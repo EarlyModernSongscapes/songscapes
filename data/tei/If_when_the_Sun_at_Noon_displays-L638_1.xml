@@ -27,13 +27,12 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song14">
           <head rend="italic">Night and Day to his Mistress.</head>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
           <lg type="stanza">
             <l>IF when the Sun at Noon displays</l>
             <l rend="indent3">his brighter rayes</l>
@@ -51,8 +50,7 @@
             <l>so as alike thou driv'st away</l>
             <l>both light and darkness, night and day.</l>
           </lg>
-          </supplied>
-        </ab>
+        </div>
         </div>
       </body>
   </text>

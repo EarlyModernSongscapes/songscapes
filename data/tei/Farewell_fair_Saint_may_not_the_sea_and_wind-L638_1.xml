@@ -27,13 +27,12 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song05">
           <head rend="italic">To his Mistress going to Sea.</head>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
           <lg type="stanza">
             <l>FArewell fair Saint, may not the sea and wind</l>
             <l>swell like the hearts and eyes you leave behind,</l>
@@ -55,8 +54,7 @@
             <l>and lose but in a noble way of wooing,</l>
             <l>whilst both contribute to your owne undoing</l>
           </lg>
-        </supplied>
-        </ab>
+        </div>
       </div>
       </body>
   </text>

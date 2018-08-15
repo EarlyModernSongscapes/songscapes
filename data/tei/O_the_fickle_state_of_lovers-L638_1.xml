@@ -29,12 +29,11 @@
       <body>
         <div>
             <head rend="italic">The fickle state of Lovers.</head>
-            <stage type="voice" rend="italic">A. 2. Voc. Basse. &amp; Cant.</stage>
+            <head type="voice" rend="italic">A. 2. Voc. Basse. &amp; Cant.</head>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
           <lg type="stanza">
             <l>O The fickle state of Lovers,</l>
             <l rend="indent1">a heart perplext with hopes and fears;</l>
@@ -51,9 +50,8 @@
             <l>in a Lovers brest doth dwell</l>
             <l rend="indent1">very Heav'n, or very Hell.</l>
           </lg>
-        </supplied>
+        </div>
     <pb n="2D1r"/>
-        </ab>
         </div>
       </body>
   </text>

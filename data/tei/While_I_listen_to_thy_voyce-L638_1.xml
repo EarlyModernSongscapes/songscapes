@@ -27,13 +27,12 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song08">
           <head rend="italic">To a Lady singing.</head>
             <notatedMusic>
             <!-- MEI goes here -->
             </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
             <lg type="stanza">
               <l>WHile I listen to thy voyce,</l>
               <l rend="indent1"><hi rend="italic">Chloris,</hi> I feele my life decay,</l>
@@ -48,8 +47,7 @@
               <l rend="indent1">of what the bles<corr>s</corr>ed doe above,</l>
               <l>is that they sing, and that they love.</l>
             </lg>
-          </supplied>
-        </ab>
+          </div>
         </div>
       </body>
   </text>

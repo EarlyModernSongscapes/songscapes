@@ -38,8 +38,7 @@
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
           <lg type="stanza">
             <l>Venus Redres a wronge thats done</l>
             <l>by that younge sprightfull Boye thy sone;</l>
@@ -52,8 +51,7 @@
             <l>Least One daye thou thy selfe maiest Suffer Soe;</l>
             <l>Or Clip the wantons wings, or breake his Bow.</l>
           </lg>
-          </supplied>
-          </ab>
+        </div>
         </div>
       </body>
   </text>

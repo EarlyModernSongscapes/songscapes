@@ -27,13 +27,12 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song33">
           <head rend="italic">Staying in <hi rend="roman">London</hi> after the Act for Banishment, and going to meet a Friend who sail'd the hour appoynted.</head>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
           <lg type="stanza">
             <l>TWo hundred minutes are run down,</l>
             <l rend="indent1">since I and all my Grief sate here;</l>
@@ -42,7 +41,8 @@
             <l rend="indent3">Thus <hi rend="italic">Lucian's</hi> tortur'd Fool did cry,</l>
             <l rend="indent3">He could not live, and durst not dye.</l>
           </lg>
-          </supplied>
+        </div>
+        <div>
             <lg type="stanza">
               <l>How full of Mischief is this Coast!,</l>
               <l rend="indent1">Villains and Fooles peep every way;</l>
@@ -67,7 +67,7 @@
               <l rend="indent3">O tear me hence, for I am grow'n</l>
               <l rend="indent3">As empty-base as all this Town!</l>
             </lg>
-        </ab>
+        </div>
         </div>
       </body>
   </text>

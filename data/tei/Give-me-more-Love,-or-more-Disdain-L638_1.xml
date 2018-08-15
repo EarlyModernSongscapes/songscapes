@@ -27,13 +27,12 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song18">
           <head rend="italic">Mediocrity in Love rejected.</head>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
           <lg type="stanza">
             <l>GIve me more Love, or more Disdain,</l>
             <l rend="indent1">the Torrid or the Frozen Zone</l>
@@ -54,8 +53,7 @@
             <l rend="indent1">then Crown my joyes or Cure my pain,</l>
             <l>give me more Love or more Disdain.</l>
           </lg>
-          </supplied>
-        </ab>
+        </div>
         </div>
       </body>
   </text>

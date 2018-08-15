@@ -27,13 +27,12 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song28">
           <head rend="italic">To <hi rend="roman">Cælia</hi>, inviting her to Marriage.</head>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
           <lg type="stanza">
             <l>TIs true (Fair <hi rend="italic">Celia</hi>) that by thee I live,</l>
             <l rend="indent1">that every kisse, and every fond embrace</l>
@@ -45,7 +44,8 @@
             <l rend="indent2">and only then described is,</l>
             <l rend="indent3">when flame doth meet with flame.</l>
           </lg>
-            </supplied>
+        </div>
+        <div>
           <lg type="stanza">
             <l>Those favours which do blesse me every day,</l>
             <l rend="indent1">Are yet but Empty, and Platonicall.</l>
@@ -79,7 +79,7 @@
             <l rend="indent2">And only then described is,</l>
             <l rend="indent3">When flame doth meet with flame.</l>
           </lg>
-        </ab>
+        </div>
         </div>
       </body>
   </text>

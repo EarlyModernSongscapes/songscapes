@@ -29,12 +29,11 @@
       <body>
         <div>
           <head rend="italic">The Power of Musick.</head>
-          <stage type="voice" rend="italic">A. 2. Voc. Basse &amp; Cant.</stage>
+          <head type="voice" rend="italic">A. 2. Voc. Basse &amp; Cant.</head>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-        <ab>
-          <supplied reason="underlay">
+        <div type="underlay">
             <lg type="stanza">
             <l>MUsick, thou Queen of souls, get up and string</l>
             <l>thy pow'rfull Lute, and some sad Requiem sing,</l>
@@ -51,9 +50,8 @@
             <l>then in the <pb n="2D2r"/>midst of all their jolly train,</l>
             <l>strike a sad note, and fix them Trees again.</l>
           </lg>
-          </supplied>
+        </div>
     <pb n="2D2r"/>
-        </ab>
         </div>
       </body>
   </text>

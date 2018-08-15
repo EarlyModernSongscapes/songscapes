@@ -27,13 +27,12 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song19">
           <head rend="italic">The Selfe Banished.</head>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
           <lg type="stanza">
             <l>IT is not that I love you lesse,</l>
             <l rend="indent1">then when before your feet I lay,</l>
@@ -50,7 +49,8 @@
               <l rend="indent1">the vow he made to love you too.</l>
             </lg>
           </lg>
-          </supplied>
+        </div>
+        <div>
           <lg type="stanza">
             <l>Who in the Spring from the new Sun</l>
             <l rend="indent1">Already hath a Feaver got;</l>
@@ -64,7 +64,7 @@
               <l rend="indent3">But I have vow'd, &amp;c.</l>
             </lg>
           </lg>
-        </ab>
+        </div>
         </div>
       </body>
   </text>

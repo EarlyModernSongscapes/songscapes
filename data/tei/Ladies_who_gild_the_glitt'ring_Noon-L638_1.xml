@@ -27,21 +27,21 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song35">
           <head rend="italic">Beauties Eclyps'd.</head>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
-          <lg type="stanza">
-            <l>LAdies who gild the glitt'ring Noon,</l>
-            <l>and by reflection mend it's Ray,</l>
-            <l>whose lustre makes the sprightfull Sun</l>
-            <l>to dance as on an Easter Day:</l>
-            <l>What are ye now the Queen's away?</l>
-          </lg>
-          </supplied>
+            <div type="underlay">
+              <lg type="stanza">
+                <l>LAdies who gild the glitt'ring Noon,</l>
+                <l>and by reflection mend it's Ray,</l>
+                <l>whose lustre makes the sprightfull Sun</l>
+                <l>to dance as on an Easter Day:</l>
+                <l>What are ye now the Queen's away?</l>
+              </lg>
+          </div>
+          <div>
           <lg type="stanza">
             <l>Couragious Eagles which have whet</l>
             <l>Your Eyes upon Majestick light,</l>
@@ -56,7 +56,7 @@
               <l>Honour and Beauty are but Dreams,</l>
               <l>Since <hi rend="italic">Charles</hi> &amp; <hi rend="italic">Mary</hi> lost their Beams.</l>
             </lg>
-        </ab>
+        </div>
         </div>
       </body>
   </text>

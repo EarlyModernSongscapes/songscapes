@@ -26,7 +26,6 @@
       <body>
         <div>
           <head rend="italic">An Attendant sings in a base.</head>
-          <ab>
             <lg type="stanza">
             <l rend="indent2">Come heavy souls oppressed with the weight</l>
             <l rend="indent2">Of Crimes, or Pangs, or want of your delight,</l>
@@ -40,7 +39,6 @@
             <l rend="indent1">Lay down your loads before deaths iron dore;</l>
             <l>Sigh, and sigh out, groan once, and groan no more.</l>
           </lg>
-        </ab>
         </div>
       </body>
   </text>

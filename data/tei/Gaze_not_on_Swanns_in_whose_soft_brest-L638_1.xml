@@ -27,20 +27,20 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song10">
           <head rend="italic">Beauties Excellency.</head>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
           <lg type="stanza">
             <l>GAze not on Swanns in whose soft brest,</l>
             <l>a full hatcht beauty seems to nest</l>
             <l>nor show which falling from the skye,</l>
             <l>hovers in it's virginity.</l>
           </lg>
-          </supplied>
+        </div>
+        <div>
           <lg type="stanza">
             <l>Gaze not on Roses, though new blown,</l>
             <l>Grac'd with a fresh complexion,</l>
@@ -71,7 +71,7 @@
             <l>Which when <hi rend="italic">Sol's</hi> Rayes were once display'd,</l>
             <l>Sink in their Sockets, and decay'd</l>
           </lg>
-        </ab>
+        </div>
         </div>
       </body>
   </text>

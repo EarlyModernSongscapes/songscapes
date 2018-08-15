@@ -27,13 +27,12 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song22">
           <head rend="italic">The Primrose.</head>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
           <lg type="stanza">
             <l>ASke me why I send you here,</l>
             <l>this firstling of the Infant yeere;</l>
@@ -42,7 +41,8 @@
             <l rend="indent1">I must whisper to your Eares,</l>
             <l rend="indent1">the sweets of Love are wash'd with teares.</l>
           </lg>
-          </supplied>
+        </div>
+        <div>
           <lg type="stanza">
             <l>Aske me why this Rose doth show</l>
             <l>All yellow, green, and sickly too?</l>
@@ -51,7 +51,7 @@
             <l rend="indent1">I must tell you, these discover</l>
             <l rend="indent1">What doubts and fears, are in a Lover.</l>
           </lg>
-        </ab>
+        </div>
         </div>
       </body>
   </text>

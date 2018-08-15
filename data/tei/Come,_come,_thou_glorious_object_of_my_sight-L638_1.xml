@@ -27,13 +27,12 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song29">
           <head rend="italic">Beauty Paramont.</head>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
           <lg type="stanza">
             <l>COme, come, thou glorious object of my sight,</l>
             <l>O my Joy, my life, my only delight!</l>
@@ -66,8 +65,7 @@
             <l rend="indent2">to discend and remain</l>
             <l rend="indent2">among Mortals again.</l>
           </lg>
-        </supplied>
-        </ab>
+        </div>
         </div>
       </body>
   </text>

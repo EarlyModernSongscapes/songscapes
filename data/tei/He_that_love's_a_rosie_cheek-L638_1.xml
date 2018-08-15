@@ -27,13 +27,12 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song07">
           <head rend="italic">Disdaine returned.</head>
             <notatedMusic>
             <!-- MEI goes here -->
             </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
             <lg type="stanza">
               <l>HE that love's a rosie cheek,</l>
               <l rend="indent1">or a Corall lip admires;</l>
@@ -42,7 +41,8 @@
               <l>as old time makes these decay,</l>
               <l>so his flames must waste away.</l>
             </lg>
-          </supplied>
+          </div>
+          <div>
             <lg type="stanza">
               <l>But a smooth and steadfast minde,</l>
               <l rend="indent1">Gentle thoughts, and calme desires,</l>
@@ -59,18 +59,16 @@
               <l>I have learn'd those Arts, and now</l>
               <l>Can disdaine as much as thou.</l>
             </lg>
-        </ab>
+        </div>
           <notatedMusic>
           <!-- MEI goes here -->
           </notatedMusic>
-        <ab>
-          <supplied reason="underlay">
+        <div type="underlay">
             <lg type="stanza">
               <l>Some God in my revenge convey</l>
               <l>that Love to her I cast away.</l>
             </lg>
-          </supplied>
-        </ab>
+          </div>
         </div>
       </body>
   </text>

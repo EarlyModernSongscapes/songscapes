@@ -27,13 +27,12 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song32">
           <head rend="italic">An Anniversary on the Nuptials of <hi rend="roman">John</hi> Earle of <hi rend="roman">Bridgewater, July 12. 1652</hi>.</head>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
           <lg type="stanza">
             <l>THe Day's return'd, and so are we, to pay,</l>
             <l>our Offering on this great <hi rend="italic">Thanksgiving-day</hi>.</l>
@@ -46,7 +45,8 @@
               <l>Then let's rejoyce, and by our Joy appear,</l>
               <l>In this one Day we offer all the Year.</l>
           </lg>
-        </supplied>
+        </div>
+        <div>
             <lg type="stanza">
               <head rend="center">2</head>
               <l>See the bright Pair, how amiably kind,</l>
@@ -84,7 +84,7 @@
               <l>Then let's rejoyce, and by our Joy appear</l>
               <l>In this one Day we offer all the Year.</l>
             </lg>
-        </ab>
+        </div>
         </div>
       </body>
   </text>

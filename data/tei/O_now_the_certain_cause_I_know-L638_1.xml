@@ -29,26 +29,26 @@
     <body>
       <div>
         <head rend="italic">To a Lady weeping.</head>
-         <stage type="voice" rend="italic">For one, two or three Voyces.</stage>
+         <head type="voice" rend="italic">For one, two or three Voyces.</head>
           <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-        <ab>
-          <supplied reason="underlay">
+        <div type="underlay">
             <lg type="stanza">
               <l>O Now the certain cause I know,</l>
               <l>whence the Rose and Lilly grow</l>
               <l>in your fair cheeks, the often showr's,</l>
               <l>which you thus weep do breed those Flow'rs.</l>
             </lg>
-         </supplied>
+         </div>
+         <div>
            <lg type="stanza">
              <l>If that the flouds could <hi rend="italic">Venus</hi> bring,</l>
              <l>Or warlike <hi rend="italic">Mars</hi> from Flowers spring;</l>
              <l>Why may not hence two Gods arise?</l>
              <l>This from your Cheeks, that from your Eyes.</l>
            </lg>
-        </ab>
+        </div>
       </div>
     </body>
   </text>

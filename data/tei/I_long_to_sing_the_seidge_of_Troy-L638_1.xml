@@ -28,13 +28,12 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song26">
           <head rend="italic"><hi rend="roman">Anacreon's</hi> Ode, call'd, The <hi rend="roman">Lute,</hi> Englished and to be sung by a Basse alone.</head>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
           <lg type="stanza">
             <l>I Long to sing the seidge of <hi rend="italic">Troy;</hi></l>
             <l>or <hi rend="italic">Thebe's</hi> which <hi rend ="italic">Cadmus</hi> rear'd so high;</l>
@@ -53,8 +52,7 @@
             <l>Nor Godds nor men my Lute can move;</l>
             <l>'Tis dumb to all but <hi rend="italic">Love, Love, Love.</hi></l>
           </lg>
-        </supplied>
-        </ab>
+        </div>
         </div>
       </body>
   </text>

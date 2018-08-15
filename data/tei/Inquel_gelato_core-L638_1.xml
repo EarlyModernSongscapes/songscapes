@@ -32,8 +32,7 @@
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay" rend="italic">
+          <div type="underlay" rend="italic">
           <lg type="stanza">
             <l>INquel gelato core una voce;</l>
             <l>piagne madona se gl'occi vastri a due voce.</l>
@@ -45,9 +44,8 @@
             <l>macche squallido dalli pallida</l>
             <l>labra Cofimia vita a tre voce.</l>
           </lg>
-        </supplied>
-        </ab>
         </div>
-      </body>
+      </div>
+    </body>
   </text>
 </TEI>

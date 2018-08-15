@@ -27,13 +27,12 @@
   </teiHeader>
   <text>
       <body>
-        <div xml:id="song8">
+        <div xml:id="song16">
           <head rend="italic">To his Mistress upon his going to travell.</head>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <ab>
-            <supplied reason="underlay">
+          <div type="underlay">
           <lg type="stanza">
             <l>DEarest do not now delay me,</l>
             <l rend="indent1">since thou knowst I must be gone;</l>
@@ -42,7 +41,8 @@
             <l>from thy breath, whose native smell</l>
             <l>Indian Odours doth excell.</l>
           </lg>
-          </supplied>
+        </div>
+        <div>
           <lg type="stanza">
             <l>O then speak, my Dearest Fayre,</l>
             <l rend="indent1">Kill not him who vowes to serve thee,</l>
@@ -51,7 +51,7 @@
             <l>'Tis a word is quickly spoken,</l>
             <l>Which restrain'd, a heart is broken.</l>
           </lg>
-        </ab>
+        </div>
         </div>
       </body>
   </text>

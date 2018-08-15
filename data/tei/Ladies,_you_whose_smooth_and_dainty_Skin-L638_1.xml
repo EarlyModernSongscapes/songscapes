@@ -29,12 +29,11 @@
       <body>
         <div>
           <head rend="italic">A caution to faire Ladies.</head>
-           <stage type="voice" rend="italic">a. 3. voc.</stage>
+           <head type="voice" rend="italic">a. 3. voc.</head>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-        <ab>
-          <supplied reason="underlay">
+        <div type="underlay">
             <lg type="stanza">
               <l>LAdies, you whose smooth and dainty Skin,</l>
               <l>rosie Lips, or Cheeks, or Chin,</l>
@@ -46,9 +45,8 @@
               <l>and presumption still hath been</l>
               <l>held a most notorious sin.</l>
             </lg>
-         </supplied>
+         </div>
     <pb n="2G2r"/>
-       </ab>
       </div>
     </body>
   </text>

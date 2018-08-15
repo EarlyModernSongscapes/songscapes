@@ -27,7 +27,7 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song18">
           <head rend="italic">Mediocrity in Love rejected.</head>
             <notatedMusic>
             <!-- MEI goes here -->

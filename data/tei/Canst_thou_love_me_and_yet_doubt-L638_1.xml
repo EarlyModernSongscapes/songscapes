@@ -27,7 +27,7 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song20">
           <head rend="italic">The Heart entire.</head>
             <notatedMusic>
             <!-- MEI goes here -->

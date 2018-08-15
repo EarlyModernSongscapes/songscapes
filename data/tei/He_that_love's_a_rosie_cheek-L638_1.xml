@@ -27,7 +27,7 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song07">
           <head rend="italic">Disdaine returned.</head>
             <notatedMusic>
             <!-- MEI goes here -->

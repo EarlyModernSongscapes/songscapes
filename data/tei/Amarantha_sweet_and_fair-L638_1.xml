@@ -27,7 +27,7 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song11">
           <head rend="italic">To <hi rend="roman">Amarantha</hi>, To dishevell her haire.</head>
             <notatedMusic>
             <!-- MEI goes here -->

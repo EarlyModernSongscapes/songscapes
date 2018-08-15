@@ -27,7 +27,7 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song37">
           <head rend="italic">A Dialogue betwixt <hi rend="roman">Cordanus</hi> and <hi rend="roman">Amoret</hi>, on a Lost Heart.</head>
           <head type="voice">For two trebles.</head>
             <notatedMusic>

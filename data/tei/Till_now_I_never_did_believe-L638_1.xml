@@ -27,7 +27,7 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song12">
           <head rend="italic">The Reform'd Lover.</head>
             <notatedMusic>
             <!-- MEI goes here -->

@@ -27,7 +27,7 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song24">
           <head rend="italic">Love and Loyalty.</head>
             <notatedMusic>
             <!-- MEI goes here -->

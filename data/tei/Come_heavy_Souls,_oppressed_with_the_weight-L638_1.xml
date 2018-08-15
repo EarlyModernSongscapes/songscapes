@@ -27,7 +27,7 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song27">
           <head rend="italic"><hi rend="roman">Desperato's</hi> Banquet.</head> <!-- variant: Desperato's Banquet.] [] S5983 -->
           <stage type="voice" rend="italic">For a Basse alone.</stage> <!-- variant: For a Basse alone.] An Attendant sings in a base. S5983 -->
             <notatedMusic>

@@ -27,7 +27,7 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song35">
           <head rend="italic">Beauties Eclyps'd.</head>
             <notatedMusic>
             <!-- MEI goes here -->

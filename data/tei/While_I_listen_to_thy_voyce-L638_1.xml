@@ -27,7 +27,7 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song08">
           <head rend="italic">To a Lady singing.</head>
             <notatedMusic>
             <!-- MEI goes here -->

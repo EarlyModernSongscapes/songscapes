@@ -27,7 +27,7 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song32">
           <head rend="italic">An Anniversary on the Nuptials of <hi rend="roman">John</hi> Earle of <hi rend="roman">Bridgewater, July 12. 1652</hi>.</head>
             <notatedMusic>
             <!-- MEI goes here -->

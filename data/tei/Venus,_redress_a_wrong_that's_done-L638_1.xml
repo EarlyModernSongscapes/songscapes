@@ -27,7 +27,7 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song02">
           <head rend="italic">A Complaint against <hi rend="roman">Cupid.</hi></head>
             <notatedMusic>
             <!-- MEI goes here -->

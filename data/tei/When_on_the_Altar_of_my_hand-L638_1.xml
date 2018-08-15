@@ -27,7 +27,7 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song04">
           <head rend="italic">In the Person of a Lady to her inconstant servant.</head>
             <notatedMusic>
             <!-- MEI goes here -->

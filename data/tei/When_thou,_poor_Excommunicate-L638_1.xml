@@ -27,7 +27,7 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song03">
           <head rend="italic">To his Inconstant Mistress.</head>
             <notatedMusic>
             <!-- MEI goes here -->

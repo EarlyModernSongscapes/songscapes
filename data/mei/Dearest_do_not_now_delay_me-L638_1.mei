@@ -358,7 +358,7 @@
                                 </note>
                                 <note xml:id="m-220" dur="8" dur.ges="128p" oct="4" pname="g" pnum="67" stem.dir="up">
                                     <verse xml:id="m-227" n="1">
-                                        <syl xml:id="m-228" wordpos="i">tis'</syl>
+                                        <syl xml:id="m-228" wordpos="i">'tis</syl>
                                     </verse>
                                 </note>
                                 <beam xml:id="m-222">

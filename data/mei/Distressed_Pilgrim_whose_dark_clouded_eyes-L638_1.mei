@@ -984,7 +984,7 @@
                                 <note xml:id="m-610" dur="4" dur.ges="256p" oct="3" pname="g" pnum="55" stem.dir="down"/>
                             </layer>
                         </staff>
-                        <slur xml:id="m-587" layer="1" staff="1" tstamp="2.75" tstamp2="0m+2.875" startid="m-588"/>
+                        <slur xml:id="m-587" layer="1" staff="1" tstamp="2.75" tstamp2="0m+2.875" startid="m-588" endid="m-590"/>
                     </measure>
                     <measure xml:id="m-611" n="23">
                         <staff xml:id="m-612" n="1">

@@ -296,7 +296,7 @@
                                 <note xml:id="m-184" dur="2" dur.ges="512p" oct="3" pname="a" pnum="57" stem.dir="down"/>
                             </layer>
                         </staff>
-                        <slur xml:id="m-166" layer="1" staff="1" tstamp="1" tstamp2="0m+1.375" startid="m-167"/>
+                        <slur xml:id="m-166" layer="1" staff="1" tstamp="1" tstamp2="0m+1.375" startid="m-167" endid="m-170"/>
                     </measure>
                     <measure xml:id="m-185" n="8">
                         <staff xml:id="m-186" n="1">
@@ -576,7 +576,7 @@
                                 <note xml:id="m-356" dur="8" dur.ges="128p" oct="3" pname="c" pnum="48" stem.dir="up"/>
                             </layer>
                         </staff>
-                        <slur xml:id="m-336" layer="1" staff="1" tstamp="1.5" tstamp2="0m+1.625" startid="m-337"/>
+                        <slur xml:id="m-336" layer="1" staff="1" tstamp="1.5" tstamp2="0m+1.625" startid="m-337" endid="m-340"/>
                     </measure>
                     <sb xml:id="m-358"/>
                     <measure xml:id="m-357" n="16">

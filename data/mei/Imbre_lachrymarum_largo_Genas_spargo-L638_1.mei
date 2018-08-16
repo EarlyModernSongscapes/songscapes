@@ -601,7 +601,7 @@
                                 <note xml:id="m-369" dur="4" dur.ges="256p" oct="2" pname="a" pnum="45" stem.dir="up"/>
                             </layer>
                         </staff>
-                        <slur xml:id="m-354" layer="1" staff="1" tstamp="2.875" tstamp2="1m+1" endid="m-374"/>
+                        <slur xml:id="m-354" layer="1" staff="1" tstamp="2.875" tstamp2="1m+1" startid="m-355" endid="m-374"/>
                     </measure>
                     <sb xml:id="m-371"/>
                     <measure xml:id="m-370" n="17">

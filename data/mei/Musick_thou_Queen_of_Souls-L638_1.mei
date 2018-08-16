@@ -3,7 +3,7 @@
 <meiHead xml:id="m-2">
     <fileDesc xml:id="m-3">
         <titleStmt xml:id="m-4">
-            <title xml:id="m-10">Musick, Musick, thou Queen of Souls</title>
+            <title xml:id="m-10">Musick, thou Queen of Souls</title>
             <respStmt xml:id="m-11">
                 <persName xml:id="m-12"/>
             </respStmt>
@@ -479,8 +479,8 @@
                                 <note xml:id="m-304" dur="1" dur.ges="1024p" oct="3" pname="d" pnum="50" stem.dir="down"/>
                             </layer>
                         </staff>
-                        <slur xml:id="m-282" layer="1" staff="1" tstamp="2" tstamp2="0m+4" startid="m-281"/>
-                        <slur xml:id="m-294" layer="1" staff="2" tstamp="1" tstamp2="0m+3" startid="m-295"/>
+                        <slur xml:id="m-282" layer="1" staff="1" tstamp="2" tstamp2="0m+4" startid="m-283" endid="m-287"/>
+                        <slur xml:id="m-294" layer="1" staff="2" tstamp="1" tstamp2="0m+3" startid="m-295" endid="m-297"/>
                     </measure>
                     <measure xml:id="m-305" n="11">
                         <staff xml:id="m-306" n="1">

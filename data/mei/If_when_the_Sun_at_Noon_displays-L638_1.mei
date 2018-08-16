@@ -843,7 +843,7 @@
                                 <note xml:id="m-521" dur="2" dur.ges="512p" oct="3" pname="c" pnum="48" stem.dir="up"/>
                             </layer>
                         </staff>
-                        <slur xml:id="m-508" layer="1" staff="1" tstamp="2.5" tstamp2="0m+2.875" startid="m-509"/>
+                        <slur xml:id="m-508" layer="1" staff="1" tstamp="2.5" tstamp2="0m+2.875" startid="m-509" endid="m-511"/>
                     </measure>
                     <measure xml:id="m-522" n="23" right="end">
                         <staff xml:id="m-523" n="1">

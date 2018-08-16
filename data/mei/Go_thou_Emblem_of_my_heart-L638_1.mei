@@ -1751,7 +1751,7 @@
                             </layer>
                         </staff>
                         <tie xml:id="m-1055" endid="#m-1085" startid="#m-1053"/>
-                        <slur xml:id="m-1049" layer="1" staff="1" tstamp="1.5" tstamp2="0m+1.875" startid="m-1050"/>
+                        <slur xml:id="m-1049" layer="1" staff="1" tstamp="1.5" tstamp2="0m+1.875" startid="m-1050" endid="m-1052"/>
                     </measure>
                     <measure xml:id="m-1082" n="31">
                         <staff xml:id="m-1083" n="1">

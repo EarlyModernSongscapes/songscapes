@@ -123,7 +123,7 @@
                                 <note xml:id="m-79" dur="2" dur.ges="512p" oct="2" pname="a" pnum="45" stem.dir="up"/>
                             </layer>
                         </staff>
-                        <slur xml:id="m-61" layer="1" staff="1" tstamp="1" tstamp2="0m+1.875" startid="m-62"/>
+                        <slur xml:id="m-61" layer="1" staff="1" tstamp="1" tstamp2="0m+1.875" startid="m-62" endid="m-68"/>
                         <anchoredText xml:id="m-80">
                             <title xml:id="m-81">Lately on yonder swelling Bush</title>
                         </anchoredText>
@@ -490,7 +490,7 @@
                                 <note xml:id="m-305" dur="2" dur.ges="512p" oct="2" pname="a" pnum="45" stem.dir="up"/>
                             </layer>
                         </staff>
-                        <slur xml:id="m-289" layer="1" staff="1" tstamp="2" tstamp2="0m+2.5" startid="m-290" endid="m-294"/>
+                        <slur xml:id="m-289" layer="1" staff="1" tstamp="2" tstamp2="0m+2.5" startid="m-288" endid="m-294"/>
                     </measure>
                     <measure xml:id="m-306" n="13">
                         <staff xml:id="m-307" n="1">

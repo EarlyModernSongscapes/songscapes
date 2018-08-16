@@ -27,7 +27,7 @@
     <workDesc xml:id="m-5">
         <work xml:id="m-6">
             <titleStmt xml:id="m-7">
-                <title xml:id="m-8">Tavola</title>
+                <title xml:id="m-8">Inquel gelato core</title>
                 <respStmt xml:id="m-9"/>
             </titleStmt>
         </work>
@@ -1091,7 +1091,7 @@
                                 </note>
                             </layer>
                         </staff>
-                        <slur xml:id="m-644" layer="1" staff="1" tstamp="2.75" tstamp2="0m+2.875" startid="m-645"/>
+                        <slur xml:id="m-644" layer="1" staff="1" tstamp="2.75" tstamp2="0m+2.875" startid="m-645" endid="m-647"/>
                     </measure>
                     <measure xml:id="m-670" n="33">
                         <staff xml:id="m-671" n="1">
@@ -1139,7 +1139,7 @@
                                 <note xml:id="m-698" dur="2" dur.ges="512p" oct="3" pname="c" pnum="48" stem.dir="up"/>
                             </layer>
                         </staff>
-                        <slur xml:id="m-675" layer="1" staff="1" tstamp="1.25" tstamp2="0m+1.375" startid="m-676"/>
+                        <slur xml:id="m-675" layer="1" staff="1" tstamp="1.25" tstamp2="0m+1.375" startid="m-676" endid="m-677"/>
                         <slur xml:id="m-682" layer="1" staff="1" tstamp="2" tstamp2="0m+2.75" startid="m-683" endid="m-684"/>
                     </measure>
                     <measure xml:id="m-699" n="34" right="end">

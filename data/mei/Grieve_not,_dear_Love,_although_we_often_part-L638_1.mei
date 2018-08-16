@@ -2632,7 +2632,7 @@
                                 <note xml:id="m-1605" dur="1" dur.ges="1024p" oct="2" pname="g" pnum="43" stem.dir="up"/>
                             </layer>
                         </staff>
-                        <slur xml:id="m-1572" layer="1" staff="2" tstamp="1" tstamp2="0m+1.5" startid="m-1573"/>
+                        <slur xml:id="m-1572" layer="1" staff="2" tstamp="1" tstamp2="0m+1.5" startid="m-1573" endid="m-1575"/>
                     </measure>
                 </section>
             </score>

@@ -27,7 +27,7 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song47">
           <head rend="italic">To a Lady putting off her veile.</head>
             <head type="voice" rend="italic">For one, two or three voyces.</head>
             <notatedMusic>

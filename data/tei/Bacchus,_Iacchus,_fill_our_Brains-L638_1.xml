@@ -27,7 +27,7 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song40">
           <head rend="italic">A Bacchanall.</head>
           <head type="voice" rend="italic">For one or two Voyces</head>
             <notatedMusic>

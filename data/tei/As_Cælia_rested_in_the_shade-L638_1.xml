@@ -27,7 +27,7 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song39">
           <head rend="italic">A Pastorall Dialogue betwixt <hi rend="roman">Cleon</hi> and <hi rend="roman">Cælia</hi>.</head>
             <notatedMusic>
             <!-- MEI goes here -->
@@ -41,7 +41,7 @@
               <l>the Swain thus courted the yong Mayd,</l>
               <l rend="indent1">and thus the Nimph reply'd.</l>
             </lg>
-          </sp> 
+          </sp>
           <sp>
             <speaker rend="italic">Cleon.</speaker>
             <lg type="stanza" part="I">
@@ -218,7 +218,7 @@
          <speaker rend="italic"><choice><abbr>Cle</abbr><expan>Cleon</expan></choice>.</speaker>
            <lg type="stanza" part="M">
              <l rend="indent1" part="I">I, by thy grace.</l>
-           </lg> 
+           </lg>
          </sp>
          <sp>
          <speaker rend="italic"><choice><abbr>Cæl</abbr><expan>Cælia</expan></choice>.</speaker>

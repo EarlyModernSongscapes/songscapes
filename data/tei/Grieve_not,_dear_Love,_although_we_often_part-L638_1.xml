@@ -26,7 +26,7 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song51">
           <head type="voice" rend="italic">a. 3. voc.</head>
             <notatedMusic>
             <!-- MEI goes here -->

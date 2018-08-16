@@ -27,7 +27,7 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song46">
           <head rend="italic">The Captive Lover.</head>
            <head type="voice" rend="italic">For one, two or three Voyces.</head>
             <notatedMusic>

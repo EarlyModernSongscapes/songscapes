@@ -27,7 +27,7 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song42">
             <head rend="italic">The fickle state of Lovers.</head>
             <head type="voice" rend="italic">A. 2. Voc. Basse. &amp; Cant.</head>
             <notatedMusic>

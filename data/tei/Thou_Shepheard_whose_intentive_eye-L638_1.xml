@@ -27,7 +27,7 @@
   </teiHeader>
   <text>
     <body>
-      <div>
+      <div xml:id="song48">
         <head rend="italic">In praise of his Mistress.</head>
          <head type="voice" rend="italic">For one, two or three voyces:</head>
           <notatedMusic>

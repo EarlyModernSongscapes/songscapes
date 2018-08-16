@@ -27,7 +27,7 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song45">
           <head rend="italic">A Smile, or Frown.</head>
           <head type="voice" rend="italic">For one, two or three voyces.</head>
             <notatedMusic>

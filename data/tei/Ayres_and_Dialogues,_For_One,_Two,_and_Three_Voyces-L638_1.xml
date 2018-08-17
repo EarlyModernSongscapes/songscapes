@@ -642,7 +642,7 @@
         <xi:include href="Till_I_beheld_fair_Calia's_face-L638_1.xml" xpointer="#song23"/>
         <xi:include href="Come_my_Lucasta_heer's_the_Grove-L638_1.xml" xpointer="#song24"/>
     <pb n="H1v"/>
-     <!-- placeholder for <xi:include href="Θέλω_λέγειν_Ἀτρείδας-L638_1.xml" xpointer="#song25"/> -->
+        <xi:include href="Θέλω_λέγειν_Ἀτρείδας-L638_1.xml" xpointer="#song25"/>
     <pb n="H2r"/>
        <xi:include href="I_long_to_sing_the_seidge_of_Troy-L638_1.xml" xpointer="#song26"/>
     <pb n="H2v"/>

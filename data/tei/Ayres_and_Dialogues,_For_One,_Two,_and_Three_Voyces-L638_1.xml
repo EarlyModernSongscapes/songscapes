@@ -600,114 +600,114 @@
   <body>
    <div type="ayres">
      <pb n="B1r"/>
-        <xi:include href="Theseus,_O_Theseus,_hark!-L638_1.xml" xpointer="#song01"/>
-        <xi:include href="Venus,_redress_a_wrong_that's_done-L638_1.xml" xpointer="#song02"/>
+        <xi:include href="Theseus,_O_Theseus,_hark!-L638_1.xml" xpointer="song01"/>
+        <xi:include href="Venus,_redress_a_wrong_that's_done-L638_1.xml" xpointer="song02"/>
      <pb n="C2v"/>
-        <xi:include href="When_thou,_poor_Excommunicate-L638_1.xml" xpointer="#song03"/>
+        <xi:include href="When_thou,_poor_Excommunicate-L638_1.xml" xpointer="song03"/>
      <pb n="D1v"/>
-        <xi:include href="When_on_the_Altar_of_my_hand-L638_1.xml" xpointer="#song04"/>
+        <xi:include href="When_on_the_Altar_of_my_hand-L638_1.xml" xpointer="song04"/>
      <pb n="D1r"/>
-        <xi:include href="Farewell_fair_Saint_may_not_the_sea_and_wind-L638_1.xml" xpointer="#song05"/>
-        <xi:include href="Careless_of_Love_and_free_from_Fears-L638_1.xml" xpointer="#song06"/>
+        <xi:include href="Farewell_fair_Saint_may_not_the_sea_and_wind-L638_1.xml" xpointer="song05"/>
+        <xi:include href="Careless_of_Love_and_free_from_Fears-L638_1.xml" xpointer="song06"/>
     <pb n="D2v"/>
-        <xi:include href="He_that_love's_a_rosie_cheek-L638_1.xml" xpointer="#song07"/>
+        <xi:include href="He_that_love's_a_rosie_cheek-L638_1.xml" xpointer="song07"/>
     <pb n="E1r"/>
-        <xi:include href="While_I_listen_to_thy_voyce-L638_1.xml" xpointer="#song08"/>
+        <xi:include href="While_I_listen_to_thy_voyce-L638_1.xml" xpointer="song08"/>
     <pb n="E1v"/>
-        <xi:include href="Cloris_your_selfe_you_so_excell-L638_1.xml" xpointer="#song09"/>
+        <xi:include href="Cloris_your_selfe_you_so_excell-L638_1.xml" xpointer="song09"/>
     <pb n="E2r"/>
-        <xi:include href="Gaze_not_on_Swanns_in_whose_soft_brest-L638_1.xml" xpointer="#song10"/>
-        <xi:include href="Amarantha_sweet_and_fair-L638_1.xml" xpointer="#song11"/>
+        <xi:include href="Gaze_not_on_Swanns_in_whose_soft_brest-L638_1.xml" xpointer="song10"/>
+        <xi:include href="Amarantha_sweet_and_fair-L638_1.xml" xpointer="song11"/>
     <pb n="E2v"/>
-        <xi:include href="Till_now_I_never_did_believe-L638_1.xml" xpointer="#song12"/>
+        <xi:include href="Till_now_I_never_did_believe-L638_1.xml" xpointer="song12"/>
     <pb n="F1r"/>
-        <xi:include href="Cælia,_thy_bright_Angel's_face-L638_1.xml" xpointer="#song13"/>
+        <xi:include href="Cælia,_thy_bright_Angel's_face-L638_1.xml" xpointer="song13"/>
     <pb n="F1v"/>
-        <xi:include href="If_when_the_Sun_at_Noon_displays-L638_1.xml" xpointer="#song14"/>
+        <xi:include href="If_when_the_Sun_at_Noon_displays-L638_1.xml" xpointer="song14"/>
     <pb n="F2r"/>
-        <xi:include href="Am_I_dispis'd_because_you_say-L638_1.xml" xpointer="#song15"/>
+        <xi:include href="Am_I_dispis'd_because_you_say-L638_1.xml" xpointer="song15"/>
     <pb n="F2v"/>
-        <xi:include href="Dearest_do_not_now_delay_me-L638_1.xml" xpointer="#song16"/>
-        <xi:include href="Lovely_Chloris_through_thine_eyes-L638_1.xml" xpointer="#song17"/>
+        <xi:include href="Dearest_do_not_now_delay_me-L638_1.xml" xpointer="song16"/>
+        <xi:include href="Lovely_Chloris_through_thine_eyes-L638_1.xml" xpointer="song17"/>
     <pb n="G1r"/>
-        <xi:include href="Give-me-more-Love,-or-more-Disdain-L638_1.xml" xpointer="#song18"/>
+        <xi:include href="Give-me-more-Love,-or-more-Disdain-L638_1.xml" xpointer="song18"/>
     <pb n="G1v"/>
-        <xi:include href="It_is_not_that_I_love_you lesse-L638_1.xml" xpointer="#song19"/>
+        <xi:include href="It_is_not_that_I_love_you lesse-L638_1.xml" xpointer="song19"/>
     <pb n="G2r"/>
-        <xi:include href="Canst_thou_love_me_and_yet_doubt-L638_1.xml" xpointer="#song20"/>
+        <xi:include href="Canst_thou_love_me_and_yet_doubt-L638_1.xml" xpointer="song20"/>
     <pb n="G2v"/>
-        <xi:include href="Lately_on_yonder_swelling_Bush-L638_1.xml" xpointer="#song21"/>
-        <xi:include href="Aske_me_why_I_send_you_here-L638_1.xml" xpointer="#song22"/>
+        <xi:include href="Lately_on_yonder_swelling_Bush-L638_1.xml" xpointer="song21"/>
+        <xi:include href="Aske_me_why_I_send_you_here-L638_1.xml" xpointer="song22"/>
     <pb n="H1r"/>
-        <xi:include href="Till_I_beheld_fair_Calia's_face-L638_1.xml" xpointer="#song23"/>
-        <xi:include href="Come_my_Lucasta_heer's_the_Grove-L638_1.xml" xpointer="#song24"/>
+        <xi:include href="Till_I_beheld_fair_Calia's_face-L638_1.xml" xpointer="song23"/>
+        <xi:include href="Come_my_Lucasta_heer's_the_Grove-L638_1.xml" xpointer="song24"/>
     <pb n="H1v"/>
-        <xi:include href="Θέλω_λέγειν_Ἀτρείδας-L638_1.xml" xpointer="#song25"/>
+        <xi:include href="Θέλω_λέγειν_Ἀτρείδας-L638_1.xml" xpointer="song25"/>
     <pb n="H2r"/>
-       <xi:include href="I_long_to_sing_the_seidge_of_Troy-L638_1.xml" xpointer="#song26"/>
+       <xi:include href="I_long_to_sing_the_seidge_of_Troy-L638_1.xml" xpointer="song26"/>
     <pb n="H2v"/>
-       <xi:include href="Come_heavy_Souls,_oppressed_with_the_weight-L638_1.xml" xpointer="#song27"/>
+       <xi:include href="Come_heavy_Souls,_oppressed_with_the_weight-L638_1.xml" xpointer="song27"/>
     <pb n="I1r"/>
-        <xi:include href="Tis_true_(Fair_Celia)_that_by_thee_I_live-L638_1.xml" xpointer="#song28"/>
+        <xi:include href="Tis_true_(Fair_Celia)_that_by_thee_I_live-L638_1.xml" xpointer="song28"/>
     <pb n="I1v"/>
-        <xi:include href="Come,_come,_thou_glorious_object_of_my_sight-L638_1.xml" xpointer="#song29"/>
-        <xi:include href="Thou_art_so_fair,_and_yong_withall-L638_1.xml" xpointer="#song30"/>
+        <xi:include href="Come,_come,_thou_glorious_object_of_my_sight-L638_1.xml" xpointer="song29"/>
+        <xi:include href="Thou_art_so_fair,_and_yong_withall-L638_1.xml" xpointer="song30"/>
     <pb n="I2v"/>
-        <xi:include href="Come_my_Sweet,_whilst_ev'ry_strain-L638_1.xml" xpointer="#song31"/>
+        <xi:include href="Come_my_Sweet,_whilst_ev'ry_strain-L638_1.xml" xpointer="song31"/>
     <pb n="K1r"/>
-        <xi:include href="The_Day's_return'd,_and_so_are_we,_to_pay-L638_1.xml" xpointer="#song32"/>
+        <xi:include href="The_Day's_return'd,_and_so_are_we,_to_pay-L638_1.xml" xpointer="song32"/>
     <pb n="K1v"/>
-        <xi:include href="Two_hundred_minutes_are_run_down-L638_1.xml" xpointer="#song33"/>
+        <xi:include href="Two_hundred_minutes_are_run_down-L638_1.xml" xpointer="song33"/>
     <pb n="K2r"/>
-        <xi:include href="Be_gone,_be_gone,_thou_perjur'd_man-L638_1.xml" xpointer="#song34"/>
-        <xi:include href="Ladies_who_gild_the_glitt'ring_Noon-L638_1.xml" xpointer="#song35"/>
+        <xi:include href="Be_gone,_be_gone,_thou_perjur'd_man-L638_1.xml" xpointer="song34"/>
+        <xi:include href="Ladies_who_gild_the_glitt'ring_Noon-L638_1.xml" xpointer="song35"/>
     <pb n="K2v"/>
-        <xi:include href="Imbre_lachrymarum_largo_Genas_spargo-L638_1.xml" xpointer="#song36"/>
+        <xi:include href="Imbre_lachrymarum_largo_Genas_spargo-L638_1.xml" xpointer="song36"/>
       <head rend="center">FINIS.</head>
      </div>
      <div type="dialogues">
       <head rend="center">PASTORALL DIALOGVES.</head>
     <pb n="2A1r"/>
-        <xi:include href="Distressed_Pilgrim_whose_dark_clouded_eyes-L638_1.xml" xpointer="#song37"/>
-        <xi:include href="Aged_man_that_moves_these_fields-L638_1.xml" xpointer="#song38"/>
+        <xi:include href="Distressed_Pilgrim_whose_dark_clouded_eyes-L638_1.xml" xpointer="song37"/>
+        <xi:include href="Aged_man_that_moves_these_fields-L638_1.xml" xpointer="song38"/>
     <pb n="2B1r"/>
-        <xi:include href="As_Cælia_rested_in_the_shade-L638_1.xml" xpointer="#song39"/>
+        <xi:include href="As_Cælia_rested_in_the_shade-L638_1.xml" xpointer="song39"/>
     <pb n="2C1r"/>
-        <xi:include href="Bacchus,_Iacchus,_fill_our_Brains-L638_1.xml" xpointer="#song40"/>
+        <xi:include href="Bacchus,_Iacchus,_fill_our_Brains-L638_1.xml" xpointer="song40"/>
     <pb n="2C1v"/>
-        <xi:include href="Go_thou_Emblem_of_my_heart-L638_1.xml" xpointer="#song41"/>
+        <xi:include href="Go_thou_Emblem_of_my_heart-L638_1.xml" xpointer="song41"/>
     <pb n="2C2v"/>
-        <xi:include href="O_the_fickle_state_of_lovers-L638_1.xml" xpointer="#song42"/>
+        <xi:include href="O_the_fickle_state_of_lovers-L638_1.xml" xpointer="song42"/>
     <pb n="2D1v"/>
-        <xi:include href="Musick,_thou_Queen_of_souls-L638_1.xml" xpointer="#song43"/>
+        <xi:include href="Musick,_thou_Queen_of_souls-L638_1.xml" xpointer="song43"/>
       </div>
       <div type="short_Ayres">
-        <head rend="italic" rend="center">Heere beginneth short Ayres for one, two or three Voyces</head>
+        <head rend="italic center">Heere beginneth short Ayres for one, two or three Voyces</head>
     <pb n="2D2v"/>
-        <xi:include href="Come_Chloris_hie_we_to_the_Bow'r-L638_1.xml" xpointer="#song44"/>
+        <xi:include href="Come_Chloris_hie_we_to_the_Bow'r-L638_1.xml" xpointer="song44"/>
     <pb n="2E1r"/>
-        <xi:include href="Though_my_torment_far_exceeds-L638_1.xml" xpointer="#song45"/>
+        <xi:include href="Though_my_torment_far_exceeds-L638_1.xml" xpointer="song45"/>
     <pb n="2E1v"/>
-        <xi:include href="If_my_Mistress_fix_her_eye-L638_1.xml" xpointer="#song46"/>
+        <xi:include href="If_my_Mistress_fix_her_eye-L638_1.xml" xpointer="song46"/>
     <pb n="2E2r"/>
-        <xi:include href="Keep_on_your_veile_and_hide_your_eye<-L638_1.xml" xpointer="#song47"/>
+        <xi:include href="Keep_on_your_veile_and_hide_your_eye-L638_1.xml" xpointer="song47"/>
     <pb n="2E2v"/>
-        <xi:include href="Thou_Shepheard_whose_intentive_eye-L638_1.xml" xpointer="#song48"/>
+        <xi:include href="Thou_Shepheard_whose_intentive_eye-L638_1.xml" xpointer="song48"/>
     <pb n="2F1r"/>
-        <xi:include href="O_now_the_certain_cause_I_know-L638_1.xml" xpointer="#song49"/>
+        <xi:include href="O_now_the_certain_cause_I_know-L638_1.xml" xpointer="song49"/>
     <pb n="2F1v"/>
-        <xi:include href="Sing_fair_Clorinda_whilst_you_move-L638_1.xml" xpointer="#song50"/>
+        <xi:include href="Sing_fair_Clorinda_whilst_you_move-L638_1.xml" xpointer="song50"/>
     <pb n="2F2v"/>
-        <xi:include href="Grieve_not,_dear_Love,_although_we_often_part-L638_1.xml" xpointer="#song51"/>
+        <xi:include href="Grieve_not,_dear_Love,_although_we_often_part-L638_1.xml" xpointer="song51"/>
     <pb n="2F2v"/>
-        <xi:include href="Ladies,_you_whose_smooth_and_dainty_Skin-L638_1.xml" xpointer="#song52"/>
+        <xi:include href="Ladies,_you_whose_smooth_and_dainty_Skin-L638_1.xml" xpointer="song52"/>
     <pb n="2G2v"/>
-        <xi:include href="Inquel_gelato_core-L638_1.xml" xpointer="#song53"/>
+        <xi:include href="Inquel_gelato_core-L638_1.xml" xpointer="song53"/>
       </div>
     </body>
     <back>
        <ab>
-        <docImprint>Musick Books Printed for <hi rend="italic">John Playford</hi>, and are to be sold at his Shop in the Inner Temple near the Church Doore.<docImprint>
+        <docImprint>Musick Books Printed for <hi rend="italic">John Playford</hi>, and are to be sold at his Shop in the Inner Temple near the Church Doore.</docImprint>
         <hi rend="italic">The first Set of Psalms for three Voyces</hi>, with a Thorough Basse for the <hi rend="italic">Organ</hi>, or <hi rend="italic">Theorbo Lute</hi>, Composed by Mr. <hi rend="italic">William Child</hi>, late <hi rend="italic">Organist</hi> of <hi rend="italic">Windsor</hi>, the which are Engraven upon <hi rend="italic">Copper</hi>.
         <hi rend="italic">Select Musicall Ayres and Dialogues in fol. for</hi> 1. 2. <hi rend="italic">and</hi> 3. Voyces, Composed by Dr. <hi rend="italic">John Wilson</hi>, Dr. <hi rend="italic">Charles Colman</hi>, Mr. <hi rend="italic">Henry Lawes</hi>, Mr. <hi rend="italic">Nich. Lanear</hi>, Mr. <hi rend="italic">William Cæser</hi>, and others, newly re-printed with Large Additions.
         <hi rend="italic">Musicks Recreation</hi>, or a choice Collection of Excellent Lessons for the <hi rend="italic">Lyra Violl</hi>, containing 117. Lessons, Composed to severall new Tunings, by the most Eminent Masters now living.

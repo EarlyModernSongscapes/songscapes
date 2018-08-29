@@ -525,18 +525,11 @@
 </div>
 <div type="table">
   <pb n="A2v"/>
-  <table rows="55" cols="4">
     <head rend="center"><hi rend="italic">The </hi>TABLE, <hi rend="italic">With the Names of those who were Authors of the Verses.</hi></head>
-      <row>
-        <cell><hi rend="italic">A.</hi></cell>
-        <cell><hi rend="italic">ARiadne</hi></cell>
-        <cell><hi rend="italic">Pag.</hi> 1</cell>
         <cell>- Mr. <hi rend="italic">William Cartwright</hi> of <hi rend="italic">Christ-Church Oxford.</hi></cell>
-      </row>
-    <row>
-      <cell/>
-      <cell>Am I dispis'd because you say</cell>
-      <cell>19</cell>
+      <list type="litany" rend="simple">
+      <item><hi rend="italic">A. ARiadne Pag.</hi>  1 - Mr. <hi rend="italic">William Cartwright</hi> of <hi rend="italic">Christ-Church Oxford.</hi></item>
+      <item rend="indent1">Am <hi rend="italic">I</hi> dispis'd because you say 19</cell>
       <cell>- Mr. <hi rend="italic">Robert Herick.</hi></cell>
     </row>
 
@@ -594,7 +587,7 @@
         Sing Fair <hi rend="italic">Clorinda</hi> 22 - Sr. <hi rend="italic">William Davenant.</hi>
         Grieve not Dear Love 24 - <hi rend="italic">John</hi> Earle of <hi rend="italic">Bristoll.</hi>
         Ladyes whose smooth and Dainty Skin. 26 - Mr. <hi rend="italic">Harington.</hi>
-        </table>
+      </list>
 </div>
 </front>
   <body>

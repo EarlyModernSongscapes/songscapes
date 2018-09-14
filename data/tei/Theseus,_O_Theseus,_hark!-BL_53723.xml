@@ -24,7 +24,7 @@
                     <author role="composer">Henry Lawes</author>
                     <author role="poet">William Cartwright</author>
                     <date notBefore="1626" notAfter="1662">circa 1626 to 1662</date>
-                    <biblScope unit="leaf" from="124r" to="127v">leaves 124 recto to 127 recto</biblScope>
+                    <biblScope unit="leaf" from="124r" to="127r">leaves 124 recto to 127 recto</biblScope>
                   </bibl>
                 </msItem>
               </msContents>

@@ -34,10 +34,12 @@
           </notatedMusic>
           <div type="underlay">
           <lg type="stanza">
-            <l>FArewell fair Saint, may not the sea and wind</l>
+            <l>Farewell fair Saint, may not the sea and wind</l>
             <l>swell like the hearts and eyes you leave behind,</l>
             <l>but calme and gentle as the looks you beare,</l>
             <l>smile in your face and whisper in your eare:</l>
+          </lg>
+          <lg type="stanza">
             <l>Let no bold Billow offer to arise,</l>
             <l>that it may never look upon your eyes,</l>
             <l>lest winde and wave, enamour'd of your Forme,</l>

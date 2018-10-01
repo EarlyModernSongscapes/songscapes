@@ -27,17 +27,17 @@
   <text>
       <body>
         <div>
-          <head>Ariadne <hi rend="italic">deserted by</hi> Theseus, <hi rend="italic">as She sits upon a Rock in the Island Naxos, thus complains.</hi></head>
+          <head>Ariadne <hi rend="italic">deserted by</hi> Theseus, <hi rend="italic">as She sits upon a Rock in the Island </hi>Naxos<hi rend="italic">, thus complains.</hi></head>
           <notatedMusic>
           <!-- MEI goes here -->
         </notatedMusic>
         <div>
         <lg type="stanza">
-        <l><hi rend="italic">THeseus!</hi> O <hi rend="italic">Theseus</hi> heark! but yet in vain</l>
+        <l><hi rend="italic">Theseus!</hi> O <hi rend="italic">Theseus</hi> heark! but yet in vain</l>
         <l rend="indent2">Alas deserted I Complain,</l>
         <l>It was some neighbouing Rock, more soft than he,</l>
         <l rend="indent1">Whose hollow Bowels pittied me,</l>
-        <!-- page 239 -->
+        <pb n="Q2r"/>
         <l>And beating back that false, and Cruell Name,</l>
         <l rend="indent1">Did Comfort and revenge my flame.</l>
         <l rend="indent2">Then Faithless whither wilt thou fly?</l>
@@ -72,9 +72,9 @@
         <lg type="stanza">
           <l rend="indent2">Till my Eyes drank up his,</l>
           <l rend="indent3">And his drank mine,</l>
-          <l rend="indent2">I ne’r thought souls might kiss,</l>
+          <l rend="indent2">I ne’r thought Souls might kiss,</l>
           <l rend="indent3">And Spirits joyn:</l>
-          <!-- page 240 -->
+          <pb n="Q2v"/>
           <l rend="indent3">Pictures till then</l>
           <l rend="indent2">Took me as much as Men,</l>
           <l rend="indent3">Nature and Art</l>
@@ -83,7 +83,7 @@
           <l rend="indent4">Pleasures and Fears,</l>
           <l rend="indent4">Hopes, Sighs, and Tears,</l>
           <l>As severall seasons of the Mind.</l>
-          <l rend="indent2">Should thine Eye, <hi rend="italic">Venus,</hi> on his dwell,</l>
+          <l rend="indent2">Should thine Eye, <hi rend="italic">Venus</hi>, on his dwell,</l>
           <l rend="indent2">Thou wouldst invite him to thy Shell,</l>
           <l rend="indent2">And Caught by that live Jet</l>
           <l rend="indent2">Venture the second Net,</l>
@@ -92,12 +92,12 @@
         </lg>
     <lg type="stanza">
       <l>The Streams so Court the yeelding Banks,</l>
-      <l>And gliding thence ne’r pay their thanks,</l>
+      <l>And gliding thence ne’r pay their thanks;</l>
       <l rend="indent3">The Winds so wooe the Flow'rs,</l>
       <l rend="indent3">Whisp’ring among fresh Bow'rs,</l>
       <l rend="indent1">And having rob’d them of their smels,</l>
       <l rend="indent1">Fly thence perfum’d to other Cels.</l>
-      <l>This is familiar Hate, to Smile and Kill,</l>
+      <l>This is familiar Hate to Smile and Kill,</l>
       <l>Though nothing please thee yet my Ruine will.</l>
       <l rend="indent2">Death hover, hover o’r me then,</l>
       <l rend="indent2">Waves let your Christall Womb</l>
@@ -111,11 +111,11 @@
       <l>That by thy Faith, This by thy Perjury,</l>
       <l>Mayst thou forget to Wing thy Ships with White,</l>
       <l>That the Black Sayl may to the longing sight</l>
-      <!-- page 241 -->
+      <pb n="Q3r"/>
       <l>Of thy Gray Father, tell thy Fate, and He</l>
       <l>Bequeath the Sea his Name, falling like me:</l>
       <l>Nature and Love thus brand thee, whilst I dye</l>
-      <l>'Cause thou forsak’st <hi rend="italic">Ægeus,</hi> 'cause thou draw'st nigh.</l>
+      <l>'Cause thou forsak’st <hi rend="italic">Ægeus,</hi> 'cause thou drawest nigh.</l>
     </lg>
     <lg type="stanza">
       <l rend="indent2">And yet O Nymphs below who sit,</l>
@@ -138,7 +138,7 @@
     <lg type="stanza">
     <l rend="indent1">That then I --- But look! O mine Eyes</l>
     <l rend="indent4">Be now true Spies,</l>
-    <l rend="indent4">Yonder, yonder</l>
+    <l rend="indent4">Yonder, yonder,</l>
     <l rend="indent4">Comes my Dear,</l>
     <l rend="indent4">Now my wonder,</l>
     <l rend="indent4">Once my fear,</l>
@@ -150,7 +150,7 @@
     <l rend="indent1">And that recrowns the Flow'rs,</l>
     <l rend="indent1">Where he walks up and down</l>
     <l rend="indent1">He makes the desarts Bow'rs,</l>
-    <!-- page 241 -->
+    <pb n="Q3v"/>
     <l rend="indent2">the Ivy, and the Grape</l>
     <l rend="indent2">Hide, not adorn his Shape.</l>
     <l>And Green Leaves Cloath his waving Rod,</l>

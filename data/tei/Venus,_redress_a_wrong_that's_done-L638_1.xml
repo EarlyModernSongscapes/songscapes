@@ -28,24 +28,24 @@
   <text>
       <body>
         <div xml:id="song02">
-          <head rend="italic">A Complaint against <hi rend="roman">Cupid.</hi></head>
+          <head rend="italic"><seg xml:id="v1">A Complaint against <hi rend="roman">Cupid.</hi></seg></head>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
           <div type="underlay">
           <lg type="stanza">
-            <l><hi rend="italic">Venus,</hi> redress a wrong thats done</l>
-            <l>by that yong sprightful boy thy son;</l>
+            <l><hi rend="italic">Venus<seg xml:id="v2">,</seg></hi> redress a wrong thats done</l>
+            <l>by that yong sprightful boy<seg xml:id="v3"/> thy son;</l>
             <l>he wounds, and then laughs at the sore,</l>
-            <l>hatred it self could do no more;</l>
-            <l>if I pursue, he's smal &amp; light,</l>
+            <l>hatred it self <seg xml:id="v4">could</seg> do no more;</l>
+            <l>if I pursue, he's smal<seg xml:id="v5"/> &amp; light,</l>
             <l>both seen at once, and out of sight;</l>
             <l>if I do flye, he's wing'd, &amp; then</l>
-            <l>at the <seg xml:id="v1">first</seg> step I'm caught again.</l> <!-- variant: first] third BL53723 -->
+            <l>at the <seg xml:id="v6">first</seg> step I'm caught again.</l>
           </lg>
           <lg type="stanza">
             <l>Lest one day thou thy selfe may'st suffer so,</l>
-            <l>or clip the wantons wings, or break his Bow.</l>
+            <l>or clip the wantons wings, or break his Bow<seg xml:id="v7">.</seg></l>
           </lg>
         </div>
         </div>

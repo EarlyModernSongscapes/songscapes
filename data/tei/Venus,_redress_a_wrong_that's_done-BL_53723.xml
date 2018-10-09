@@ -40,16 +40,16 @@
           </notatedMusic>
           <div type="underlay">
           <lg type="stanza">
-            <l>Venus Redres a wronge thats done</l>
-            <l>by that younge sprightfull Boye thy sone;</l>
+            <l><seg xml:id="v1"/>Venus<seg xml:id="v2"/> Redres a wronge thats done</l>
+            <l>by that younge sprightfull Boye<seg xml:id="v3"/> thy sone;</l>
             <l>he wounds, and then Laughs at <choice><abbr>y<hi rend="superscript">e</hi></abbr><expan>the</expan></choice> sore,</l>
-            <l>Hatred it selfe could doe noe more;</l>
-            <l>if I pursue, he's smal, &amp; light,</l>
+            <l>Hatred it selfe <seg xml:id="v4">could</seg> doe noe more;</l>
+            <l>if I pursue, he's smal<seg xml:id="v5">,</seg> &amp; light,</l>
             <l>both seen at Once, &amp; Out of Sight;</l>
             <l>if I doe flye, he's wingd, &amp; then,</l>
-            <l>at the <seg xml:id="v1">third</seg> step I'me caught Agen;</l>
+            <l>at the <seg xml:id="v6">third</seg> step I'me caught Agen;</l>
             <l>Least One daye thou thy selfe maiest Suffer Soe;</l>
-            <l>Or Clip the wantons wings, or breake his Bow.</l>
+            <l>Or Clip the wantons wings, or breake his Bow<seg xml:id="v7">.</seg></l>
           </lg>
         </div>
         </div>

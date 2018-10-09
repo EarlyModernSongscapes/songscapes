@@ -17,8 +17,8 @@
               <author role="poet">William Cartwright</author>
               <pubPlace>London</pubPlace>, <date type="publication" when="1651">1651</date>.
               <idno type="wing">C709</idno>
-              <idno type="call_number">Early English Books Online, copy from British Library</idno> <!-- need an element to cite EEBO source -->
-              <biblScope unit="leaf" from="O8r">leaf O2 recto</biblScope>,
+              <idno type="EEBO">copy from British Library</idno> <!-- need an element to cite EEBO source -->
+              <biblScope unit="leaf" from="O8r">leaf O8 recto</biblScope>,
               <biblScope unit="page" from="219">page 219</biblScope>
             </bibl>
          </sourceDesc>
@@ -27,19 +27,19 @@
   <text>
       <body>
         <div>
-          <head>To <hi rend="italic">Venus.</hi></head>
+          <head><seg xml:id="v1">To <hi rend="italic">Venus.</hi></seg></head>
             <!-- there is no music in this source -->
           <lg type="stanza">
-            <l rend="indent1"><hi rend="italic">Venus</hi> Redress a wrong thats done</l>
-            <l rend="indent1">By that young sprightfull Boy, thy Son,</l>
+            <l rend="indent1"><hi rend="italic">Venus</hi><seg xml:id="v2"/> Redress a wrong thats done</l>
+            <l rend="indent1">By that young sprightfull Boy<seg xml:id="v3">,</seg> thy Son,</l>
             <l rend="indent1">He wounds, and then Laughs at the sore,</l>
-            <l rend="indent1">Hatred it self can do no more.</l>
-            <l rend="indent1">If I pursue, Hee's Small, and Light,</l>
+            <l rend="indent1">Hatred it self <seg xml:id="v4">can</seg> do no more.</l>
+            <l rend="indent1">If I pursue, Hee's Small<seg xml:id="v5">,</seg> and Light,</l>
             <l rend="indent1">Both seen at once, and out of sight:</l>
             <l rend="indent1">If I do flie, Hee's Wing'd, and then,</l>
-            <l rend="indent1">At the first step, I'm caught agen:</l>
-            <l>Left one day thou thy selfe mayst suffer so,</l>
-            <l>Or clip the Wantons Wings, or break his Bow,</l>
+            <l rend="indent1">At the <seg xml:id="v6">first</seg> step, I'm caught agen:</l>
+            <l>Lest one day thou thy selfe mayst suffer so,</l>
+            <l>Or clip the Wantons Wings, or break his Bow<seg xml:id="v7">,</seg></l>
           </lg>
         </div>
       </body>

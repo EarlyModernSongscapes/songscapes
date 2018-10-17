@@ -17,7 +17,7 @@
               <author role="poet">William Cartwright</author>
               <pubPlace>London</pubPlace>, <date type="publication" when="1651">1651</date>.
               <idno type="wing">C709</idno>
-              <idno type="EEBO">copy from British Library</idno> <!-- need an element to cite EEBO source -->
+              <distributor>Early English Books Online, copy from British Library</distributor>
               <biblScope unit="leaf" from="Q1v" to="Q3v">leaves Q1 verso to Q3 verso</biblScope>,
               <biblScope unit="page" from="238" to="242">pages 238 to 242</biblScope>
             </bibl>

@@ -652,7 +652,7 @@
         <xi:include href="Ladies_who_gild_the_glitt'ring_Noon-L638_1.xml" xpointer="song35"/>
     <pb n="K2v"/>
         <xi:include href="Imbre_lachrymarum_largo_Genas_spargo-L638_1.xml" xpointer="song36"/>
-      <head rend="center">FINIS.</head>
+      <trailer rend="center">FINIS.</trailer>
      </div>
      <div type="dialogues">
       <head rend="center">PASTORALL DIALOGVES.</head>
@@ -695,21 +695,22 @@
       </div>
     </body>
     <back>
-       <ab>
         <docImprint>Musick Books Printed for <hi rend="italic">John Playford</hi>, and are to be sold at his Shop in the Inner Temple near the Church Doore.</docImprint>
-        <hi rend="italic">The first Set of Psalms for three Voyces</hi>, with a Thorough Basse for the <hi rend="italic">Organ</hi>, or <hi rend="italic">Theorbo Lute</hi>, Composed by Mr. <hi rend="italic">William Child</hi>, late <hi rend="italic">Organist</hi> of <hi rend="italic">Windsor</hi>, the which are Engraven upon <hi rend="italic">Copper</hi>.
-        <hi rend="italic">Select Musicall Ayres and Dialogues in fol. for</hi> 1. 2. <hi rend="italic">and</hi> 3. Voyces, Composed by Dr. <hi rend="italic">John Wilson</hi>, Dr. <hi rend="italic">Charles Colman</hi>, Mr. <hi rend="italic">Henry Lawes</hi>, Mr. <hi rend="italic">Nich. Lanear</hi>, Mr. <hi rend="italic">William Cæser</hi>, and others, newly re-printed with Large Additions.
-        <hi rend="italic">Musicks Recreation</hi>, or a choice Collection of Excellent Lessons for the <hi rend="italic">Lyra Violl</hi>, containing 117. Lessons, Composed to severall new Tunings, by the most Eminent Masters now living.
-        Also Dr <hi rend="italic">Campian's</hi> Book of Ayres, for 2. 3 and 4 Voyces.
-        <hi rend="italic">The first Book of Ayres and Dialogues in fol.</hi> for 1. 2. and 3, Voyces, by Mr. <hi rend="italic">Henry Lawes</hi>.
-        <hi rend="italic">Catch that Catch can</hi>, or an new Collection of <hi rend="italic">Catches, Rounds</hi>, and <hi rend="italic">Cannons</hi>, containing 150. Published by Mr. <hi rend="italic">John Hilton</hi> Batchelor in Musick.
-        <hi rend="italic">Orlando Gibbons</hi> 3. Part Fantazies, for 2. Trebles and a Basse engraven uppon Copper.
-        Mr. <hi rend="italic">Michael Easts</hi> 7. <hi rend="italic">Set of Fantazes</hi> for the <hi rend="italic">Violls</hi> of 2. 3. and 4. Parts.
-        <hi rend="italic">The Dancing Master</hi>, or plain and easie Rules for the Dancing of <hi rend="italic">Country Dances</hi>, with the <hi rend="italic">Tunes</hi> before each Dance to play on the <hi rend="italic">Treble Violin</hi>, containing 112 Dances.
-        A New Book of Lessons with Instructions for the <hi rend="italic">Cithern</hi> and <hi rend="italic">Gittern</hi>.
-        Also all sortes of Rul'd Paper and Ruled Books ready bound up, are sold at his Shop.
-        <head>FINIS.</head>
-      </ab>
+        <div>
+          <list>
+            <item><hi rend="italic">The first Set of Psalms for three Voyces</hi>, with a Thorough Basse for the <hi rend="italic">Organ</hi>, or <hi rend="italic">Theorbo Lute</hi>, Composed by Mr. <hi rend="italic">William Child</hi>, late <hi rend="italic">Organist</hi> of <hi rend="italic">Windsor</hi>, the which are Engraven upon <hi rend="italic">Copper</hi>.</item>
+            <item><hi rend="italic">Select Musicall Ayres and Dialogues in fol. for</hi> 1. 2. <hi rend="italic">and</hi> 3. Voyces, Composed by Dr. <hi rend="italic">John Wilson</hi>, Dr. <hi rend="italic">Charles Colman</hi>, Mr. <hi rend="italic">Henry Lawes</hi>, Mr. <hi rend="italic">Nich. Lanear</hi>, Mr. <hi rend="italic">William Cæser</hi>, and others, newly re-printed with Large Additions.</item>
+            <item><hi rend="italic">Musicks Recreation</hi>, or a choice Collection of Excellent Lessons for the <hi rend="italic">Lyra Violl</hi>, containing 117. Lessons, Composed to severall new Tunings, by the most Eminent Masters now living.</item>
+            <item>Also Dr <hi rend="italic">Campian's</hi> Book of Ayres, for 2. 3 and 4 Voyces.</item>
+            <item><hi rend="italic">The first Book of Ayres and Dialogues in fol.</hi> for 1. 2. and 3, Voyces, by Mr. <hi rend="italic">Henry Lawes</hi>.</item>
+            <item><hi rend="italic">Catch that Catch can</hi>, or an new Collection of <hi rend="italic">Catches, Rounds</hi>, and <hi rend="italic">Cannons</hi>, containing 150. Published by Mr. <hi rend="italic">John Hilton</hi> Batchelor in Musick.</item>
+            <item><hi rend="italic">Orlando Gibbons</hi> 3. Part Fantazies, for 2. Trebles and a Basse engraven uppon Copper.</item>
+            <item>Mr. <hi rend="italic">Michael Easts</hi> 7. <hi rend="italic">Set of Fantazes</hi> for the <hi rend="italic">Violls</hi> of 2. 3. and 4. Parts.</item>
+            <item><hi rend="italic">The Dancing Master</hi>, or plain and easie Rules for the Dancing of <hi rend="italic">Country Dances</hi>, with the <hi rend="italic">Tunes</hi> before each Dance to play on the <hi rend="italic">Treble Violin</hi>, containing 112 Dances.</item>
+            <item>A New Book of Lessons with Instructions for the <hi rend="italic">Cithern</hi> and <hi rend="italic">Gittern</hi>.</item>
+            <item>Also all sortes of Rul'd Paper and Ruled Books ready bound up, are sold at his Shop.</item>
+          </list>
+        <trailer>FINIS.</trailer></div>
     </back>
 </text>
 </TEI>

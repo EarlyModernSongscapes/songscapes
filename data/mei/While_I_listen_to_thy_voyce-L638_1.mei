@@ -394,7 +394,7 @@
                                 <note xml:id="m-236" dur="2" dur.ges="512p" oct="4" pname="a" pnum="68" stem.dir="up">
                                     <accid xml:id="m-237" accid="f"/>
                                     <verse xml:id="m-249" n="1">
-                                        <syl xml:id="m-250" wordpos="i">found,</syl>
+                                        <syl xml:id="m-250" wordpos="i">sound,</syl>
                                     </verse>
                                 </note>
                             </layer>

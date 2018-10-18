@@ -580,7 +580,7 @@
                             <layer xml:id="m-349" n="1">
                                 <note xml:id="m-350" dots="1" dur="2" dur.ges="768p" oct="4" pname="g" pnum="67" stem.dir="up">
                                     <verse xml:id="m-352" n="1">
-                                        <syl xml:id="m-353" wordpos="i">Main.</syl>
+                                        <syl xml:id="m-353" wordpos="i">Man.</syl>
                                     </verse>
                                 </note>
                             </layer>

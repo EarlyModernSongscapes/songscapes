@@ -663,7 +663,7 @@
                             <layer xml:id="m-412" n="1">
                                 <note xml:id="m-413" dur="2" dur.ges="512p" oct="4" pname="a" pnum="69" stem.dir="up">
                                     <verse xml:id="m-417" n="1">
-                                        <syl xml:id="m-418" wordpos="i">Left</syl>
+                                        <syl xml:id="m-418" wordpos="i">Lest</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-414" dur="2" dur.ges="512p" oct="5" pname="c" pnum="72" stem.dir="down">

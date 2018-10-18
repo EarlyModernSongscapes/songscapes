@@ -6307,7 +6307,7 @@
                                 <note xml:id="m-3881" dur="4" dur.ges="256p" oct="4" pname="f" pnum="66" stem.dir="up">
                                     <accid xml:id="m-3882" accid="s"/>
                                     <verse xml:id="m-3888" n="1">
-                                        <syl xml:id="m-3889" con="b" wordpos="i">F</syl>
+                                        <syl xml:id="m-3889" con="b" wordpos="i">F--</syl>
                                         <syl xml:id="m-3890"/>
                                         <syl xml:id="m-3891"/>
                                         <syl xml:id="m-3892"/>

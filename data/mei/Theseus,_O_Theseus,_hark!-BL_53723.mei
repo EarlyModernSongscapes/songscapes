@@ -4158,7 +4158,7 @@
                                 <note xml:id="m-2556" dur="4" dur.ges="256p" oct="4" pname="f" pnum="66" stem.dir="up">
                                     <accid xml:id="m-2557" accid="s"/>
                                     <verse xml:id="m-2564" n="1">
-                                        <syl xml:id="m-2565" wordpos="t">quest</syl>
+                                        <syl xml:id="m-2565" wordpos="t">quests</syl>
                                     </verse>
                                 </note>
                             </layer>
@@ -4525,7 +4525,8 @@
                                             <syl xml:id="m-2790" wordpos="i">tell</syl>
                                         </verse>
                                     </note>
-                                    <note xml:id="m-2781" dur="16" dur.ges="64p" oct="5" pname="c" pnum="72" stem.dir="down">
+                                    <note xml:id="m-2781" dur="16" dur.ges="64p" oct="4" pname="b" pnum="72" stem.dir="down">
+                                        <accid xml:id="m-2778" accid="f"/>
                                         <verse xml:id="m-2791" n="1">
                                             <syl xml:id="m-2792" wordpos="i">thy</syl>
                                         </verse>

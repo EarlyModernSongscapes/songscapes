@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <mei xml:id="m-1" meiversion="3.0.0" xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink">
 <meiHead xml:id="m-2">
     <fileDesc xml:id="m-3">
@@ -16,7 +16,7 @@
     </fileDesc>
     <encodingDesc xml:id="m-16">
         <appInfo xml:id="m-17">
-            <application xml:id="sibelius" isodate="2018-8-6T22:13:08Z" version="8610">
+            <application xml:id="sibelius" isodate="2018-10-18T13:52:46Z" version="8610">
                 <name xml:id="m-19" type="operating-system">Mac OS X Mountain Lion</name>
             </application>
             <application xml:id="sibmei" type="plugin" version="2.1.0">
@@ -185,7 +185,7 @@
                                 </note>
                             </layer>
                         </staff>
-                        <slur xml:id="m-97" layer="1" staff="1" tstamp="2" tstamp2="0m+2.5" startid="m-98" endid="m-101"/>
+                        <slur xml:id="m-97" layer="1" staff="1" tstamp="2" tstamp2="0m+2.5"/>
                     </measure>
                     <measure xml:id="m-117" n="5">
                         <staff xml:id="m-118" n="1">
@@ -296,7 +296,7 @@
                                 <note xml:id="m-184" dur="2" dur.ges="512p" oct="3" pname="a" pnum="57" stem.dir="down"/>
                             </layer>
                         </staff>
-                        <slur xml:id="m-166" layer="1" staff="1" tstamp="1" tstamp2="0m+1.375" startid="m-167" endid="m-170"/>
+                        <slur xml:id="m-166" layer="1" staff="1" tstamp="1" tstamp2="0m+1.375"/>
                     </measure>
                     <measure xml:id="m-185" n="8">
                         <staff xml:id="m-186" n="1">
@@ -358,7 +358,7 @@
                                     </note>
                                     <note xml:id="m-216" dur="16" dur.ges="64p" oct="5" pname="c" pnum="72" stem.dir="down">
                                         <verse xml:id="m-224" n="1">
-                                            <syl xml:id="m-225" wordpos="t">chas'd</syl>
+                                            <syl xml:id="m-225" wordpos="t">chas&apos;d</syl>
                                         </verse>
                                     </note>
                                 </beam>
@@ -576,7 +576,7 @@
                                 <note xml:id="m-356" dur="8" dur.ges="128p" oct="3" pname="c" pnum="48" stem.dir="up"/>
                             </layer>
                         </staff>
-                        <slur xml:id="m-336" layer="1" staff="1" tstamp="1.5" tstamp2="0m+1.625" startid="m-337" endid="m-340"/>
+                        <slur xml:id="m-336" layer="1" staff="1" tstamp="1.5" tstamp2="0m+1.625"/>
                     </measure>
                     <sb xml:id="m-358"/>
                     <measure xml:id="m-357" n="16">
@@ -803,7 +803,7 @@
                             <layer xml:id="m-497" n="1">
                                 <note xml:id="m-498" dots="1" dur="2" dur.ges="768p" oct="5" pname="d" pnum="74" stem.dir="down">
                                     <verse xml:id="m-502" n="1">
-                                        <syl xml:id="m-503" wordpos="i">damn'd</syl>
+                                        <syl xml:id="m-503" wordpos="i">damn&apos;d</syl>
                                     </verse>
                                 </note>
                                 <beam xml:id="m-500">

@@ -87,8 +87,8 @@
           <l rend="indent3">Nature &amp; Art<seg xml:id="v15">,</seg></l>
           <l rend="indent2">Movinge a like my hart;</l>
           <l>but his faire visage made me finde<seg xml:id="v16">,</seg></l>
-          <l rend="indent4">pleasures &amp; feares<seg xml:id="v17"/><!-- cancelled: "sighes hopes" --></l>
-          <l rend="indent4">hopes, sighes<seg xml:id="v18">,</seg> &amp; <!-- cancelled: "fears" -->teares,</l>
+          <l rend="indent4">pleasures &amp; feares<seg xml:id="v17"/></l>
+          <l rend="indent4"><subst><add>hopes</add><del>sighes</del></subst>, <subst><add>sighes</add><del>hopes</del></subst><seg xml:id="v18">,</seg> &amp; <subst><add>teares</add><del>fears</del></subst>,</l>
           <l>as severall seasons of the Mynde;</l>
           <l rend="indent2">Should thyne Eye<seg xml:id="v19"> Venus,</seg> on his dwell</l>
         <pb n="125v"/>

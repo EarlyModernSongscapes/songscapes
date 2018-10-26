@@ -185,7 +185,7 @@
                                 </note>
                             </layer>
                         </staff>
-                        <slur xml:id="m-97" layer="1" staff="1" tstamp="2" tstamp2="0m+2.5"/>
+                        <slur xml:id="m-97" layer="1" staff="1" tstamp="2" tstamp2="0m+2.5" startid="m-98" endid="m-101"/>
                     </measure>
                     <measure xml:id="m-117" n="5">
                         <staff xml:id="m-118" n="1">
@@ -296,7 +296,7 @@
                                 <note xml:id="m-184" dur="2" dur.ges="512p" oct="3" pname="a" pnum="57" stem.dir="down"/>
                             </layer>
                         </staff>
-                        <slur xml:id="m-166" layer="1" staff="1" tstamp="1" tstamp2="0m+1.375"/>
+                        <slur xml:id="m-166" layer="1" staff="1" tstamp="1" tstamp2="0m+1.375" startid="m-167" endid="m-170"/>
                     </measure>
                     <measure xml:id="m-185" n="8">
                         <staff xml:id="m-186" n="1">
@@ -576,7 +576,7 @@
                                 <note xml:id="m-356" dur="8" dur.ges="128p" oct="3" pname="c" pnum="48" stem.dir="up"/>
                             </layer>
                         </staff>
-                        <slur xml:id="m-336" layer="1" staff="1" tstamp="1.5" tstamp2="0m+1.625"/>
+                        <slur xml:id="m-336" layer="1" staff="1" tstamp="1.5" tstamp2="0m+1.625" startid="m-337" endid="m-340"/>
                     </measure>
                     <sb xml:id="m-358"/>
                     <measure xml:id="m-357" n="16">
@@ -867,7 +867,7 @@
                             <layer xml:id="m-530" n="1">
                                 <beam xml:id="m-533">
                                     <note xml:id="m-531" dur="8" dur.ges="128p" oct="3" pname="f" pnum="54" stem.dir="down">
-                                        <accid xml:id="m-532" accid="s"/>
+                                        <accid xml:id="m-532"/>
                                     </note>
                                     <note xml:id="m-534" dur="8" dur.ges="128p" oct="3" pname="g" pnum="55" stem.dir="down"/>
                                     <note xml:id="m-535" dur="8" dur.ges="128p" oct="2" pname="b" pnum="46" stem.dir="down">

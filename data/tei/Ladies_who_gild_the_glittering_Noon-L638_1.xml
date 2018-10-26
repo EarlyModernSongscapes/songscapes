@@ -5,7 +5,7 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Beauties Eclyps'd</title>
+            <title>Beauties Eclypsed</title>
               <title type="first_line">Ladies who gild the glittering Noon</title>
          </titleStmt>
          <publicationStmt>
@@ -34,11 +34,11 @@
           </notatedMusic>
             <div type="underlay">
               <lg type="stanza">
-                <l>LAdies who gild the glitt'ring Noon,</l>
+                <l>Ladies who gild the glitt'ring Noon,</l>
                 <l>and by reflection mend it's Ray,</l>
                 <l>whose lustre makes the sprightfull Sun</l>
                 <l>to dance as on an Easter Day:</l>
-                <l>What are ye now the Queen's away?</l>
+                <l><!-- <orig>What are ye?</orig> -->What are ye now the Queen's away?</l>
               </lg>
           </div>
           <div>

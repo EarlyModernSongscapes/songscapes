@@ -640,7 +640,7 @@
                                 <note xml:id="m-398" dur="2" dur.ges="512p" oct="3" pname="d" pnum="50" stem.dir="down"/>
                             </layer>
                         </staff>
-                        <slur xml:id="m-381" layer="1" staff="1" tstamp="2.125" tstamp2="0m+2.25" startid="m-382" endid="m-383"/>
+                        <slur xml:id="m-381" layer="1" staff="1" tstamp="2.125" tstamp2="0m+2.25" startid="m-378" endid="m-383"/>
                     </measure>
                     <measure xml:id="m-399" n="17">
                         <staff xml:id="m-400" n="1">
@@ -1146,7 +1146,7 @@
                         <staff xml:id="m-707" n="1">
                             <layer xml:id="m-708" n="1">
                                 <note xml:id="m-709" dots="1" dur="4" dur.ges="384p" oct="5" pname="e" pnum="75" stem.dir="down">
-                                    <accid xml:id="m-710" accid="f"/>
+                                    <accid xml:id="m-710"/>
                                 </note>
                                 <note xml:id="m-711" dur="8" dur.ges="128p" oct="5" pname="d" pnum="74" stem.dir="down">
                                     <verse xml:id="m-715" n="1">

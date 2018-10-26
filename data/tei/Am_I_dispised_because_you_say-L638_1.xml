@@ -5,8 +5,8 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Night and Day to his Mistress</title>
-              <title type="first_line">If when the Sun at Noon displays</title>
+            <title>To his Mistress objecting his Age</title>
+              <title type="first_line">Am I dispised because you say</title>
          </titleStmt>
          <publicationStmt>
             <p>Early Modern Songscapes</p>
@@ -15,40 +15,39 @@
             <bibl>
               <title>Ayres and Dialogues, For One, Two, and Three Voyces</title>
               <author role="composer">Henry Lawes</author>
-              <author role="poet">Thomas Carew</author>
+              <author role="poet">Robert Herrick</author>
               <pubPlace>London</pubPlace>, <date type="publication" when="1653">1653</date>.
               <idno type="wing">L638</idno>
               <idno type="call_number">Folger L638, copy 1</idno>
-              <biblScope unit="leaf" from="F1v">leaf F1 verso</biblScope>,
-              <biblScope unit="page" from="18">page 18</biblScope>
+              <biblScope unit="leaf" from="F2r">leaf F2 recto</biblScope>,
+              <biblScope unit="page" from="19">page 19</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
   <text>
       <body>
-        <div xml:id="song14">
-          <head rend="italic">Night and Day to his Mistress.</head>
+        <div xml:id="song15">
+          <head rend="italic">To his Mistress objecting his Age.</head>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
           <div type="underlay">
           <lg type="stanza">
-            <l>IF when the Sun at Noon displays</l>
-            <l rend="indent3">his brighter rayes</l>
-            <l rend="indent3">thou but appear;</l>
-            <l>he then all pale with shame and fear,</l>
-            <l rend="indent3">quencheth his light,</l>
-            <l rend="indent3">and grows more dimne,</l>
-            <l>compos'd to thee, then Stars to him</l>
-          </lg>
-          <lg type="stanza">
-            <l>If thou but show thy face again,</l>
-            <l>when darkness doth at midnight reign</l>
-            <l>darkness fly's, and light is hurl'd</l>
-            <l>round about the silent world;</l>
-            <l>so as alike thou driv'st away</l>
-            <l>both light and darkness, night and day.</l>
+            <l>Am I dispis'd because you say,</l>
+            <l>and I believe, that I am gray?</l>
+            <l>know, Lady, you have but your day,</l>
+            <l>and night will come, when men will swear</l>
+            <l>Time has spilt snow upon your hair:</l>
+            <l>Then when in your glass you seek,</l>
+            <l>bu<corr>t</corr> find no Rose-bud in your cheek,</l>
+            <l>no, nor the bed to give the shew,</l>
+            <l>where such a rare Carnation grew;</l>
+            <l>and such a smiling Tulip too.</l>
+            <l>Ah, then, too late, close in your chamber keeping,</l>
+            <l rend="indent3">it will be told,</l>
+            <l rend="indent3">that you are old,</l>
+            <l>by those true tears y'are Weeping</l>
           </lg>
         </div>
         </div>

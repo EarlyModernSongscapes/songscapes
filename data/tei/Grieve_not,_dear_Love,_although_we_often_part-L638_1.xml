@@ -19,7 +19,7 @@
               <idno type="wing">L638</idno>
               <idno type="call_number">Folger L638, copy 1</idno>
               <biblScope unit="leaf" from="2F2v" to="2G1r">leaves Ff2 verso to Gg1 recto</biblScope>,
-              <biblScope unit="page" from="24" to="25">page 23</biblScope>
+              <biblScope unit="page" from="24" to="25">pages 24 to 25</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -33,15 +33,15 @@
           </notatedMusic>
         <div type="underlay">
             <lg type="stanza">
-              <l>GRieve not, dear Love, although we often part,</l>
+              <l>Grieve not, dear Love, although we often part,</l>
               <l rend="indent1">but know that nature gently doth us sever,</l>
-              <l>thereby to train us up with tender Art</l>
+              <l>thereby to train us up with tender Art,</l>
               <l rend="indent1">to brook the day when we must part for ever:</l>
             </lg>
             <lg type="stanza">
               <l>For nature doubting we should be surpriz'd</l>
               <l rend="indent1">by that sad day, whose dread, doth chiefly fear us,</l>
-              <l>doth keep us dayly school'd and exercised,</l>
+              <l>doth keep us dayly school'd &amp; exercised,</l>
               <l rend="indent1">lest that the fright thereof should over bear us.</l>
             </lg>
          </div>

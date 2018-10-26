@@ -19,7 +19,7 @@
               <idno type="wing">L638</idno>
               <idno type="call_number">Folger L638, copy 1</idno>
               <biblScope unit="leaf" from="2F1v" to="2F2r">leaves Ff1 verso to Ff2 recto</biblScope>,
-              <biblScope unit="page" from="22" to="23">page 23</biblScope>
+              <biblScope unit="page" from="22" to="23">pages 22 to 23</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -33,18 +33,18 @@
           </notatedMusic>
         <div type="underlay">
             <lg type="stanza">
-              <l>SIng fair <hi rend="italic">Clorinda</hi> whilst you move</l>
+              <l>Sing fair <hi rend="italic">Clorinda</hi> whilst you move</l>
               <l rend="indent1">those that attend the Throne above,</l>
               <l>to leave their holy business there;</l>
               <l rend="indent1">till each with his obedient eare</l>
               <l>shall so much harmony attain,</l>
-              <l rend="indent1">to think the sphears were made in vain<corr>:</corr></l>
+              <l rend="indent1">to think the sphears were made in vain:</l>
             </lg>
             <lg type="stanza">
-              <l>since heer's a voyce quickens the sloth</l>
+              <l>Since heer's a voyce quickens the sloth</l>
               <l rend="indent1">of natures age, it comforts growth</l>
               <l>in all her works, and can provoke</l>
-              <l rend="indent1">a Lilly to outlive an Oake,</l>
+              <l rend="indent1">a Lilly to outlive an Oake.</l>
             </lg>
          </div>
    <pb n="2F2r"/>

@@ -20,7 +20,7 @@
               <idno type="wing">L638</idno>
               <idno type="call_number">Folger L638, copy 1</idno>
               <biblScope unit="leaf" from="2G2v">leaf 2G2v</biblScope>,
-              <biblScope unit="page" from="28" to="13">page 28</biblScope>
+              <biblScope unit="page" from="28">page 28</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -28,13 +28,13 @@
   <text>
       <body>
         <div xml:id="song53">
-            <head rend="italic">Tavola.</head>
+            <head>Tavola.</head>
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
           <div type="underlay" rend="italic">
           <lg type="stanza">
-            <l>INquel gelato core una voce;</l>
+            <l>Inquel gelato core una voce;</l>
             <l>piagne madona se gl'occi vastri a due voce.</l>
           </lg>
           <lg type="stanza">

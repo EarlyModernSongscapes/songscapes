@@ -451,7 +451,7 @@
                                 </note>
                                 <note xml:id="m-275" dur="2" dur.ges="512p" oct="4" pname="a" pnum="69" stem.dir="up">
                                     <verse xml:id="m-280" n="1">
-                                        <syl xml:id="m-281" wordpos="t">plyd.</syl>
+                                        <syl xml:id="m-281" wordpos="t">ply'd.</syl>
                                     </verse>
                                 </note>
                             </layer>
@@ -470,7 +470,7 @@
                                 </note>
                                 <note xml:id="m-286" dur="2" dur.ges="512p" oct="3" pname="f" pnum="53" stem.dir="up">
                                     <verse xml:id="m-291" n="1">
-                                        <syl xml:id="m-292" wordpos="t">plyd.</syl>
+                                        <syl xml:id="m-292" wordpos="t">ply'd.</syl>
                                     </verse>
                                 </note>
                             </layer>
@@ -1340,7 +1340,7 @@
                                 </note>
                                 <note xml:id="m-815" dur="4" dur.ges="256p" oct="5" pname="c" pnum="72" stem.dir="down">
                                     <verse xml:id="m-822" n="1">
-                                        <syl xml:id="m-823" wordpos="i">breake</syl>
+                                        <syl xml:id="m-823" wordpos="i">break</syl>
                                     </verse>
                                 </note>
                             </layer>

@@ -1112,7 +1112,7 @@
                                 </note>
                                 <note xml:id="m-654" dur="2" dur.ges="512p" oct="4" pname="a" pnum="69" stem.dir="up">
                                     <verse xml:id="m-660" n="1">
-                                        <syl xml:id="m-661" wordpos="t">chus,</syl>
+                                        <syl xml:id="m-661" wordpos="t">chus, &amp;c.</syl>
                                     </verse>
                                 </note>
                                 <space xml:id="m-655" dur="2" dur.ges="512p"/>
@@ -1127,7 +1127,7 @@
                                 </note>
                                 <note xml:id="m-665" dur="2" dur.ges="512p" oct="2" pname="f" pnum="41" stem.dir="up">
                                     <verse xml:id="m-671" n="1">
-                                        <syl xml:id="m-672" wordpos="t">chus,</syl>
+                                        <syl xml:id="m-672" wordpos="t">chus, &amp;c.</syl>
                                     </verse>
                                 </note>
                                 <space xml:id="m-666" dur="2" dur.ges="512p"/>

@@ -6,7 +6,7 @@
       <fileDesc>
          <titleStmt>
             <title>A Bacchanall</title>
-              <title type="first_line">Bacchus, Iacchus, fill our Brains</title>
+              <title type="first_line">Bacchus, I-acchus, fill our Brains</title>
          </titleStmt>
          <publicationStmt>
             <p>Early Modern Songscapes</p>
@@ -44,7 +44,7 @@
                 <l>poor Schollers study all their dayes,</l>
                 <l rend="indent1">and Gluttons glory in their dish:</l>
               </lg>
-              <lg type="refrain" xml:id="second.refrain">
+              <lg type="refrain" xml:id="refrain.second">
                 <l>'Tis wine, pure wine, revives sad souls,</l>
                 <l rend="indent1">therefore give us the cheer in Bowls.</l>
               </lg>
@@ -62,7 +62,7 @@
               <l>And Artificiall colours wear,</l>
               <l rend="indent1">We have the Native Red and White:</l>
             </lg>
-            <lg type="refrain" sameAs="second.refrain">
+            <lg type="refrain" sameAs="refrain.second">
               <l rend="indent3">'Tis Wine, pure Wine, &amp;c.</l>
             </lg>
             <lg type="refrain" sameAs="refrain.first">
@@ -74,7 +74,7 @@
               <l>Some swell with fat, and some consume,</l>
               <l rend="indent1">But they are sound that drink all out:</l>
             </lg>
-            <lg type="refrain" sameAs="second.refrain">
+            <lg type="refrain" sameAs="refrain.second">
               <l rend="indent3">'Tis Wine, pure Wine, &amp;c.</l>
             </lg>
             <lg type="refrain" sameAs="refrain.first">
@@ -86,7 +86,7 @@
               <l>Give us a salt Westphalia Gammon,</l>
               <l rend="indent1">Not meat to eat, but meat to drink:</l>
             </lg>
-            <lg type="refrain" sameAs="second.refrain">
+            <lg type="refrain" sameAs="refrain.second">
               <l rend="indent3">'Tis Wine, pure Wine, &amp;c.</l>
             </lg>
             <lg type="refrain" sameAs="refrain.first">
@@ -98,7 +98,7 @@
               <l>Those grow good fellows that were grave,</l>
               <l rend="indent1">And kindness flows from cups brim full:</l>
             </lg>
-            <lg type="refrain" sameAs="second.refrain">
+            <lg type="refrain" sameAs="refrain.second">
               <l rend="indent3">'Tis Wine, pure Wine, &amp;c.</l>
             </lg>
             <lg type="refrain" sameAs="refrain.first">
@@ -110,7 +110,7 @@
               <l>Some men want wit, and some want wealth,</l>
               <l rend="indent1">But they want nothing that are drunke:</l>
             </lg>
-            <lg type="refrain" sameAs="second.refrain">
+            <lg type="refrain" sameAs="refrain.second">
               <l rend="indent3">'Tis Wine, pure Wine, &amp;c.</l>
             </lg>
         </div>

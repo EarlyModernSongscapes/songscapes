@@ -6,7 +6,7 @@
       <fileDesc>
          <titleStmt>
             <title>An Anniversary on the Nuptials of John Earle of Bridgewater, July 12. 1652.</title>
-              <title type="first_line">The Day's return'd, and so are we, to pay</title>
+              <title type="first_line">The Day's returned, and so are we, to pay</title>
          </titleStmt>
          <publicationStmt>
             <p>Early Modern Songscapes</p>
@@ -34,9 +34,9 @@
           </notatedMusic>
           <div type="underlay">
           <lg type="stanza">
-            <l>THe Day's return'd, and so are we, to pay,</l>
+            <l>The Day's return'd, and so are we, to pay</l>
             <l>our Offering on this great <hi rend="italic">Thanksgiving-day</hi>.</l>
-            <l rend="indent1">'Tis his, 'tis Her's, 'tis Both, 'tis All;</l>
+            <l rend="indent1">'Tis His, 'tis Her's, 'tis Both, 'tis All;</l>
             <l rend="indent1">Though now it rise, it ne'r did fall;</l>
             <l rend="indent1">Whose Honour shall as lasting prove,</l>
             <l rend="indent1">as our Devotion or Their Love:</l>
@@ -77,7 +77,7 @@
               <l>What Angels joy, and Joyes which Angels want:</l>
               <l rend="indent1">Our Lady-Day, and our Lord's too,</l>
               <l rend="indent1">'Twere sin to rob it of its due,</l>
-              <l rend="indent1">'Tis of both Genders, Her's and His</l>
+              <l rend="indent1">'Tis of both Genders, Her's and His,</l>
               <l rend="indent1">We stay'd twelve Months to welcome this.</l>
             </lg>
             <lg type="refrain" sameAs="refrain1">

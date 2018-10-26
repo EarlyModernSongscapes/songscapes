@@ -35,7 +35,7 @@
           </notatedMusic>
             <div type="underlay">
               <lg type="refrain" xml:id="refrain.first">
-                <l><hi rend="italic">BAcchus, Iacchus</hi>, fill our Brains</l>
+                <l><hi rend="italic">Bacchus, Iacchus</hi>, fill our Brains</l>
                 <l rend="indent1">as well as Bowls with sprightly strains:</l>
               </lg>
               <lg type="stanza">
@@ -45,8 +45,8 @@
                 <l rend="indent1">and Gluttons glory in their dish:</l>
               </lg>
               <lg type="refrain" xml:id="second.refrain">
-                <l>'Tis wine, pure wine revives sad souls,</l>
-                <l rend="indent1">therefore giveus the cheer in Bowls.</l>
+                <l>'Tis wine, pure wine, revives sad souls,</l>
+                <l rend="indent1">therefore give us the cheer in Bowls.</l>
               </lg>
               <lg type="refrain" sameAs="refrain.first">
                 <l><hi rend="italic">Bacchus, Iacchus</hi>, &amp;c.</l>

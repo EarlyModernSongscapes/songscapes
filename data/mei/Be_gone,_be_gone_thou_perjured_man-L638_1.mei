@@ -215,6 +215,7 @@
                                 <note xml:id="m-131" dur="4" dur.ges="256p" oct="3" pname="f" pnum="53" stem.dir="down"/>
                             </layer>
                         </staff>
+                        <slur xml:id="m-116" layer="1" staff="1" startid="m-121" endid="m-125"/>
                     </measure>
                     <measure xml:id="m-132" n="8">
                         <staff xml:id="m-133" n="1">

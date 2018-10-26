@@ -102,7 +102,7 @@
                             <layer xml:id="m-66" n="1">
                                 <note xml:id="m-67" dur="4" dur.ges="256p" oct="5" pname="e" pnum="76" stem.dir="down">
                                     <verse xml:id="m-71" n="1">
-                                        <syl xml:id="m-72" wordpos="i">mowes</syl>
+                                        <syl xml:id="m-72" wordpos="i">moves</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-68" dur="4" dur.ges="256p" oct="5" pname="c" pnum="73" stem.dir="down">

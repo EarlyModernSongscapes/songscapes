@@ -808,7 +808,7 @@
                                     <note xml:id="m-493" dur="16" dur.ges="64p" oct="4" pname="b" pnum="70" stem.dir="down">
                                         <accid xml:id="m-494" accid.ges="f"/>
                                         <verse xml:id="m-499" n="1">
-                                            <syl xml:id="m-500" wordpos="i">to</syl>
+                                            <syl xml:id="m-500" wordpos="i">too</syl>
                                         </verse>
                                     </note>
                                 </beam>
@@ -1037,7 +1037,7 @@
                                 </beam>
                                 <note xml:id="m-637" dur="8" dur.ges="128p" oct="4" pname="a" pnum="69" stem.dir="up">
                                     <verse xml:id="m-654" n="1">
-                                        <syl xml:id="m-655" con="d" wordpos="i">weep</syl>
+                                        <syl xml:id="m-655" con="d" wordpos="i">Weep</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-638" dur="4" dur.ges="256p" oct="4" pname="g" pnum="67" stem.dir="up"/>

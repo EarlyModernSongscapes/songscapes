@@ -34,7 +34,7 @@
             <!-- MEI goes here -->
           </notatedMusic>
             <div type="underlay">
-              <lg type="refrain" xml:id="first.refrain">
+              <lg type="refrain" xml:id="refrain.first">
                 <l><hi rend="italic">BAcchus, Iacchus</hi>, fill our Brains</l>
                 <l rend="indent1">as well as Bowls with sprightly strains:</l>
               </lg>
@@ -48,12 +48,12 @@
                 <l>'Tis wine, pure wine revives sad souls,</l>
                 <l rend="indent1">therefore giveus the cheer in Bowls.</l>
               </lg>
-              <lg type="refrain" sameAs="first.refrain">
+              <lg type="refrain" sameAs="refrain.first">
                 <l><hi rend="italic">Bacchus, Iacchus</hi>, &amp;c.</l>
               </lg>
           </div>
           <div>
-            <lg type="refrain" sameAs="first.refrain">
+            <lg type="refrain" sameAs="refrain.first">
               <l><hi rend="italic">Bacchus, Iacchus, &amp;c.</hi></l>
             </lg>
             <lg type="stanza">
@@ -65,7 +65,7 @@
             <lg type="refrain" sameAs="second.refrain">
               <l rend="indent3">'Tis Wine, pure Wine, &amp;c.</l>
             </lg>
-            <lg type="refrain" sameAs="first.refrain">
+            <lg type="refrain" sameAs="refrain.first">
               <l><hi rend="italic">Bacchus, Iacchus, &amp;c.</hi></l>
             </lg>
             <lg type="stanza">
@@ -77,7 +77,7 @@
             <lg type="refrain" sameAs="second.refrain">
               <l rend="indent3">'Tis Wine, pure Wine, &amp;c.</l>
             </lg>
-            <lg type="refrain" sameAs="first.refrain">
+            <lg type="refrain" sameAs="refrain.first">
               <l><hi rend="italic">Bacchus, Iacchus, &amp;c.</hi></l>
             </lg>
             <lg type="stanza">
@@ -89,7 +89,7 @@
             <lg type="refrain" sameAs="second.refrain">
               <l rend="indent3">'Tis Wine, pure Wine, &amp;c.</l>
             </lg>
-            <lg type="refrain" sameAs="first.refrain">
+            <lg type="refrain" sameAs="refrain.first">
               <l><hi rend="italic">Bacchus, Iacchus, &amp;c.</hi></l>
             </lg>
             <lg type="stanza">
@@ -101,7 +101,7 @@
             <lg type="refrain" sameAs="second.refrain">
               <l rend="indent3">'Tis Wine, pure Wine, &amp;c.</l>
             </lg>
-            <lg type="refrain" sameAs="first.refrain">
+            <lg type="refrain" sameAs="refrain.first">
               <l><hi rend="italic">Bacchus, Iacchus, &amp;c.</hi></l>
             </lg>
             <lg type="stanza">

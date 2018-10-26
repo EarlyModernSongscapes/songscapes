@@ -34,10 +34,10 @@
           </notatedMusic>
           <div type="underlay">
           <lg type="stanza">
-            <l>COme my <hi rend="roman">Lucasta</hi> heer's the Grove,</l>
-            <l rend="indent1">where Nightingales performe the Ayre;</l>
+            <l>Come my <hi rend="roman">Lucasta</hi> heer's the Grove,</l>
+            <l rend="indent1">where Nightingales perfume the Ayre;</l>
             <l>why dost thou start? O 'tis not Love,</l>
-            <l rend="indent1">for perfect Loveers dare not fear.</l>
+            <l rend="indent1">for perfect Lovers dare not fear.</l>
             <l>No dangers in this Arbour ly,</l>
             <l rend="indent1">our courage keeps all others hence,</l>
             <l>ther's none shal dare approach but I;</l>
@@ -48,8 +48,10 @@
           <lg type="stanza">
             <l>Here we'l discourse, and think, and smile,</l>
             <l rend="indent1">Let guilty men seek how to scape;</l>
-            <l>He cannot love that can beguile</l>
+            <l>He cannot love that can beguile,</l>
             <l rend="indent1">And none but Foes commit a Rape.</l>
+          </lg>
+          <lg type="stanza">
             <l>This Evening's worth Ten Thousand yeere,</l>
             <l rend="indent1">Then let's resolve since thou must go,</l>
             <l>We'l meet again to morrow here,</l>

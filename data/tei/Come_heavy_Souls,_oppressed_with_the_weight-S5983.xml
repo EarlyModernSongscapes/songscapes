@@ -16,7 +16,7 @@
               <author role="poet">William Strode</author>
               <pubPlace>London</pubPlace>, <date type="publication" when="1655">1655</date>.
               <idno type="wing">S5983</idno>
-              <idno type="call_number">Early English Books Online, copy from British Library</idno> <!-- need an element to indicate EEBO source -->
+              <distributor>Early English Books Online, copy from British Library</distributor>
               <biblScope unit="leaf" from="F2r">leaf F2 recto</biblScope>,
             </bibl>
          </sourceDesc>
@@ -25,18 +25,18 @@
   <text>
       <body>
         <div>
-          <head rend="italic">An Attendant sings in a base.</head>
+          <head rend="italic" xml:id="v2ch">An Attendant sings in a base.</head>
             <lg type="stanza">
             <l rend="indent2">Come heavy souls oppressed with the weight</l>
             <l rend="indent2">Of Crimes, or Pangs, or want of your delight,</l>
-            <l rend="indent3">Come down in <hi rend="italic">Lethe's,</hi> sleepy lake</l>
+            <l rend="indent3">Come down in <hi rend="italic" xml:id="v4ch">Lethe's,</hi> sleepy lake</l>
             <l rend="indent4">Whatever makes you ake.</l>
-            <l rend="indent4">Drink health from poyson'd bowles</l>
+            <l rend="indent4">Drink <seg xml:id="v5ch">health</seg> from poyson'd bowles</l>
             <l>Breathe out your cares together with your souls.</l>
             <l rend="indent5">Cool Death's a salve</l>
-            <l rend="indent5">Which all may have</l>
+            <l rend="indent5"><seg xml:id="v6ch">Which</seg> all may have</l>
             <l rend="indent2">There's no distinction in the grave;</l>
-            <l rend="indent1">Lay down your loads before deaths iron dore;</l>
+            <l rend="indent1">Lay down your loads before deaths iron dore,</l>
             <l>Sigh, and sigh out, groan once, and groan no more.</l>
           </lg>
         </div>

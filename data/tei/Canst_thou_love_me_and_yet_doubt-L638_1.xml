@@ -34,7 +34,7 @@
           </notatedMusic>
           <div type="underlay">
           <lg type="stanza">
-            <l>CAnst thou love me and yet doubt</l>
+            <l>Canst thou love me and yet doubt</l>
             <l>so much Falshood in my heart,</l>
             <l>that a way I should find out</l>
             <l rend="indent3">to impart</l>
@@ -49,7 +49,7 @@
         <div>
           <lg type="stanza">
             <l>There, Reliefe begets Delight,</l>
-            <l>And so satisfies Desire,</l>
+            <l>And so satisfies Desire<corr>,</corr></l>
             <l>That in them it shines as Light</l>
             <l rend="indent3">No more Fire;</l>
             <l>All the burning Qualities appeas'd,</l>

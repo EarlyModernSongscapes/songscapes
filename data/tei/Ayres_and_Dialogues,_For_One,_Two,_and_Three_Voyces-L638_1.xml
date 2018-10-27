@@ -45,12 +45,12 @@
         <div type="epistles"> <!--dedicatory epistles-->
   <pb n="a1v"/><pb n="a2r"/>
           <div type="epistle">
-            <salute>
-            <lb/>To the Right Honorable,
+            <salute rend="center">
+            <l>To the Right Honorable,</l>
             <l>The two most Excellent Sisters,</l>
-            <l><hi rend="italic">ALICE</hi> Countesse of <hi rend="italic">CARBERY,</hi></l>
+            <l><hi rend="italic">ALICE</hi> Countesse of <hi rend="italic">CARBERY</hi>,</l>
             <l>And</l>
-            <l><hi rend="italic">MARY</hi> Lady <hi rend="italic">HERBERT</hi> of <hi rend="italic">Cherbury</hi> and <hi rend="italic">Castle-Island,</hi></l>
+            <l><hi rend="italic">MARY</hi> Lady <hi rend="italic">HERBERT</hi> of <hi rend="italic">Cherbury</hi> and <hi rend="italic">Castle-Island</hi>,</l>
             <l>Daughters to the Right Honorable, <hi rend="italic">John</hi> Earle of <hi rend="italic">Bridgewater,</hi> Lord President of <hi rend="italic">WALES,</hi> &amp;c.</l>
           </salute>
             <ab rend="italic">I Need not tell Your <hi rend="roman">Ladiships,</hi> that since my Attendance on His late <hi rend="roman">MAJESTY</hi> (my most Gracious Master) I have neglected the exercise of my Profession. Yet, to debarr Idlenesse (which, without vanity I may say, I was never passionatly in love with) I have made some <hi rend="roman">Compositions,</hi> which now I resolve to publish to the World. What Grounds and Motives lead me to this Publication, I conceive not so proper for your Ladiships notice, having elsewhere told it <hi rend="roman">to the Reader.</hi> But no sooner I thought of making these Publick, than of inscribing them to Your <hi rend="roman">Ladiships,</hi> most of them being Composed when I was employed by Your ever Honour'd Parents to attend Your <hi rend="roman">Ladishipp's</hi> Education in <hi rend="roman">Musick;</hi> who (as in other Accomplishments fit for Persons of Your Quality) excell'd most Ladies, especially in <hi rend="roman">Vocall Musick,</hi> wherin You were so absolute, that You gave Life and Honour to all I set and taught You; and that with more Vnderstanding than a new Generation pretending to Skil (I dare say) are Capable of. I could therefore do nothing more becomming my Gratitude than a Dedication of These (so much Your own) to both Your <hi rend="roman">Ladiships;</hi> and to manifest that Honour I bear to the Memory of Your deceased Parents, whose Favors it is impossible should ever be forgotten by</ab>

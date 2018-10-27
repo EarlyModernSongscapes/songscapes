@@ -6,7 +6,7 @@
       <fileDesc>
          <titleStmt>
             <title>Ayres and Dialogues, For One, Two, and Three Voyces</title>
-              <title type="description">Front matter</title>
+              <title type="description">Songbook</title>
          </titleStmt>
          <publicationStmt>
             <p>Early Modern Songscapes</p>
@@ -27,7 +27,7 @@
               <pubPlace>London</pubPlace>, <date type="publication" when="1653">1653</date>.
               <idno type="wing">L638</idno>
               <idno type="call_number">Folger L638, copy 1</idno>
-              <biblScope unit="leaf" from="a1r" to="A2v">leaves a1 recto to A2 verso</biblScope>,
+              <biblScope unit="leaf" from="a1r" to="2G2v">leaves a1 recto to GG2 verso</biblScope>,
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -40,10 +40,10 @@
             </docTitle>
             <byline>BY <graphic url="#"><!-- engraving --></graphic> HENRY LAWES Servant to his late <choice><abbr>Ma:<hi rend="sup">tie</hi></abbr><expan>Majestie</expan></choice> in his publick and private Musick. W. Faitharne fecit</byline>
             <docEdition>The First Booke.</docEdition>
-            <docImprint>LONDON, Printed by <hi rend="italic">T. H.</hi> for <hi rend="italic">John Playford,</hi> and are to be sold at his Shop, in the Inner Temple, near the Church door, <date>1653</date>.</docImprint>
+            <docImprint>LONDON, Printed by <hi rend="italic">T. H<corr>.</corr></hi> for <hi rend="italic">John Playford</hi>, and are to be sold at his Shop, in the Inner Temple, near the Church door. <date>1653</date>.</docImprint>
           </titlePage>
         <div type="epistles"> <!--dedicatory epistles-->
-  <pb n="a2r"/>
+  <pb n="a1v"/><pb n="a2r"/>
           <div type="epistle">
             <salute>
             <lb/>To the Right Honorable,
@@ -700,7 +700,7 @@
         <div>
           <list>
             <item><hi rend="italic">The first Set of Psalms for three Voyces</hi>, with a Thorough Basse for the <hi rend="italic">Organ</hi>, or <hi rend="italic">Theorbo Lute</hi>, Composed by Mr. <hi rend="italic">William Child</hi>, late <hi rend="italic">Organist</hi> of <hi rend="italic">Windsor</hi>, the which are Engraven upon <hi rend="italic">Copper</hi>.</item>
-            <item><hi rend="italic">Select Musicall Ayres and Dialogues in fol. for</hi> 1. 2. <hi rend="italic">and</hi> 3. Voyces, Composed by Dr. <hi rend="italic">John Wilson</hi>, Dr. <hi rend="italic">Charles Colman</hi>, Mr. <hi rend="italic">Henry Lawes</hi>, Mr. <hi rend="italic">Nich. Lanear</hi>, Mr. <hi rend="italic">William Cæser</hi>, and others, newly re-printed with Large Additions.</item>
+            <item><hi rend="italic">Select Musicall Ayres and Dialogues in fol.</hi> for 1. 2. and 3. Voyces, Composed by Dr. <hi rend="italic">John Wilson</hi>, Dr. <hi rend="italic">Charles Colman</hi>, Mr. <hi rend="italic">Henry Lawes</hi>, Mr. <hi rend="italic">Nich. Lanear</hi>, Mr. <hi rend="italic">William Caser</hi>, and others, newly re-printed with Large Additions.</item>
             <item><hi rend="italic">Musicks Recreation</hi>, or a choice Collection of Excellent Lessons for the <hi rend="italic">Lyra Violl</hi>, containing 117. Lessons, Composed to severall new Tunings, by the most Eminent Masters now living.</item>
             <item>Also Dr <hi rend="italic">Campian's</hi> Book of Ayres, for 2. 3 and 4 Voyces.</item>
             <item><hi rend="italic">The first Book of Ayres and Dialogues in fol.</hi> for 1. 2. and 3, Voyces, by Mr. <hi rend="italic">Henry Lawes</hi>.</item>
@@ -709,7 +709,7 @@
             <item>Mr. <hi rend="italic">Michael Easts</hi> 7. <hi rend="italic">Set of Fantazes</hi> for the <hi rend="italic">Violls</hi> of 2. 3. and 4. Parts.</item>
             <item><hi rend="italic">The Dancing Master</hi>, or plain and easie Rules for the Dancing of <hi rend="italic">Country Dances</hi>, with the <hi rend="italic">Tunes</hi> before each Dance to play on the <hi rend="italic">Treble Violin</hi>, containing 112 Dances.</item>
             <item>A New Book of Lessons with Instructions for the <hi rend="italic">Cithern</hi> and <hi rend="italic">Gittern</hi>.</item>
-            <item>Also all sortes of Rul'd Paper and Ruled Books ready bound up, are sold at his Shop.</item>
+            <item>Also all sorts of Rul'd Paper and Ruled Books ready bound up, are sold at his Shop.</item>
           </list>
         <trailer>FINIS.</trailer></div>
     </back>

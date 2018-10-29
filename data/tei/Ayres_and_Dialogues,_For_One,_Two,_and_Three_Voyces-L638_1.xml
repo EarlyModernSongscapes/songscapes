@@ -535,8 +535,8 @@
     <div type="table">
     <head rend="center"><hi rend="italic">The </hi>TABLE, <hi rend="italic">With the Names of those who were Authors of the Verses</hi>.</head>
       <list type="litany" rend="simple">
-      <item><hi rend="italic">A</hi>. <hi rend="italic">Ariadne</hi> <hi rend="italic">Pag.</hi> 1 - Mr. <hi rend="italic">William Cartwright</hi> of <hi rend="italic">Christ-Church Oxford</hi>.</item>
-      <item rend="indent1">Am <hi rend="italic">I</hi> dispis'd because you say 19 - Mr. <hi rend="italic">Robert Herick</hi>.</item>
+      <item><title><hi rend="italic drop_cap">A</hi>. <hi rend="italic">Ariadne</hi></title> <seg type="toc_page"><hi rend="italic">Pag.</hi> 1</seg> <name type="composer">- Mr. <hi rend="italic">William Cartwright</hi> of <hi rend="italic">Christ-Church Oxford</hi>.</name></item>
+      <item rend="indent1"><title>Am <hi rend="italic">I</hi> dispis'd because you say</title> <seg type="toc_page">19</seg> <name type="composer">- Mr. <hi rend="italic">Robert Herick</hi>.</name></item>
       <item rend="indent1"><hi rend="italic">Amarantha</hi> sweet and fair 15 - Col. <hi rend="italic">Richard Lovelace</hi>.</item>
       <item rend="indent1">Ask me why I send you here 24 - Mr. <hi rend="italic">Herick</hi>.</item>
       <item><hi rend="italic">B</hi>. Be gone, be gone thou perjur'd man 35 - <hi rend="italic">Henry Lawes</hi>.</item>

@@ -69,7 +69,7 @@
                     <moduleRef key="textcrit" include="app rdg rdgGrp lem listWit witness"/>
                     <moduleRef key="textstructure"/>
                     <!-- required -->
-                    <moduleRef key="transcr" include="supplied"/>
+                    <moduleRef key="transcr" include="supplied subst"/>
                     <!--<moduleRef key="verse"/>-->
                     <!--<moduleRef key="tagdocs"/>-->
                     

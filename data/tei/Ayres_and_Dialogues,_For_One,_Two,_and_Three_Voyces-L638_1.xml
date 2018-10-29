@@ -46,12 +46,12 @@
   <pb n="a1v"/><pb n="a2r"/>
           <div type="epistle">
             <salute rend="center">
-            <l>To the Right Honorable,</l>
-            <l>The two most Excellent Sisters,</l>
-            <l><hi rend="italic">ALICE</hi> Countesse of <hi rend="italic">CARBERY</hi>,</l>
-            <l>And</l>
-            <l><hi rend="italic">MARY</hi> Lady <hi rend="italic">HERBERT</hi> of <hi rend="italic">Cherbury</hi> and <hi rend="italic">Castle-Island</hi>,</l>
-            <l>Daughters to the Right Honorable, <hi rend="italic">John</hi> Earle of <hi rend="italic">Bridgewater,</hi> Lord President of <hi rend="italic">WALES,</hi> &amp;c.</l>
+              <lb/>To the Right Honorable,
+              <lb/>The two most Excellent Sisters,
+              <lb/><hi rend="italic">ALICE</hi> Countesse of <hi rend="italic">CARBERY</hi>,
+              <lb/>And
+              <lb/><hi rend="italic">MARY</hi> Lady <hi rend="italic">HERBERT</hi> of <hi rend="italic">Cherbury</hi> and <hi rend="italic">Castle-Island</hi>,
+              <lb/>Daughters to the Right Honorable, <hi rend="italic">John</hi> Earle of <hi rend="italic">Bridgewater,</hi> Lord President of <hi rend="italic">WALES,</hi> &amp;c.
           </salute>
             <ab rend="italic">I need not tell Your <hi rend="roman">Ladiships,</hi> that since my Attendance on His late <hi rend="roman">MAJESTY</hi> (my most Gracious Master) I have neglected the exercise of my Profession. Yet, to debarr Idlenesse (which, without vanity I may say, I was never passionatly in love with)
               I have made some <hi rend="roman">Compositions,</hi> which now I resolve to publish to the World. What Grounds and Motives lead me to this Publication, I conceive not so proper for your Ladiships notice, having elsewhere told it <hi rend="roman">to the Reader.</hi> But no sooner I thought of making these
@@ -59,16 +59,16 @@
               excell'd most Ladies, especially in <hi rend="roman">Vocall Musick,</hi> wherin You were so absolute, that You gave Life and Honour to all I set and taught You; and that with more Vnderstanding than a new Generation pretending to Skil (I dare say) are Capable of. I could therefore do nothing more becomming
               my Gratitude than a Dedication of These (so much Your own) to both Your <hi rend="roman">Ladiships</hi>; and to manifest that Honour I bear to the Memory of Your deceased Parents, whose Favors it is impossible should ever be forgotten by</ab>
           <signed rend="center">
-            <l rend="indent2">Your Ladiships most humbly devoted</l>
-            <l>Servant,</l>
-            <l rend="right"><hi rend="italic">HENRY LAWES.</hi></l>
+            <lb/>Your Ladiships most humbly devoted
+            Servant,
+            <lb/><hi rend="italic right">HENRY LAWES.</hi>
           </signed>
         </div>
   <pb n="a2v"/>
         <div type="epistle">
           <salute rend="center">
-            <l>To all Understanders or Lovers of</l>
-            <l>MUSICK.</l>
+            <lb/>To all Understanders or Lovers of
+            <lb/>MUSICK.
           </salute>
             <ab rend="italic">It is easie to say I have been much importun'd, by Persons of Quality, to
               Publish my <hi rend="roman">Compositions</hi>: But though I could plead it (and without vain
@@ -596,6 +596,7 @@
 </front>
   <body>
    <div type="ayres">
+     <div type="section">
      <pb n="B1r"/>
         <xi:include href="Theseus,_O_Theseus,_hark!-L638_1.xml" xpointer="song01"/>
         <xi:include href="Venus,_redress_a_wrong_that's_done-L638_1.xml" xpointer="song02"/>
@@ -652,6 +653,8 @@
     <pb n="I2v"/>
         <xi:include href="Come_my_Sweet,_whilst_every_strain-L638_1.xml" xpointer="song31"/>
      <trailer rend="center">FINIS.</trailer>
+     </div>
+     <div type="section">
     <pb n="K1r"/>
         <xi:include href="The_Day's_returned,_and_so_are_we,_to_pay-L638_1.xml" xpointer="song32"/>
     <pb n="K1v"/>
@@ -662,6 +665,7 @@
     <pb n="K2v"/>
         <xi:include href="Imbre_lachrymarum_largo_Genas_spargo-L638_1.xml" xpointer="song36"/>
       <trailer rend="center">FINIS.</trailer>
+     </div>
      </div>
      <div type="dialogues">
       <head rend="center">PASTORALL DIALOGVES.</head>

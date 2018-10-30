@@ -36,15 +36,15 @@
                <lg type="stanza">
                   <l rend="indent2">Come heavy Souls, oppressed with the weight</l>
                   <l rend="indent2">of crimes, or pangs, or want of your delight;</l>
-                  <l rend="indent3">come <seg xml:id="song27v3ch"/> in <hi rend="italic" xml:id="v4ch">Lethes</hi> sleepy Lake<seg xml:id="song27vch8"/>
+                  <l rend="indent3">come <seg xml:id="song27v3ch">drown</seg> in <hi rend="italic" xml:id="v4ch">Lethes</hi> sleepy Lake<seg xml:id="song27vch8">,</seg>
                   </l>
                   <l rend="indent4">what ever makes you ake;</l>
-                  <l rend="indent4">drink <seg xml:id="song27v5ch"/> from poys'ned bowls<seg xml:id="song27vch9"/>
+                  <l rend="indent4">drink <seg xml:id="song27v5ch">healths</seg> from poys'ned bowls<seg xml:id="song27vch9">,</seg>
                   </l>
                   <l>breath out your cares together with your Souls;</l>
                   <l rend="indent5">cool death's a salve</l>
                   <l rend="indent5">
-                     <seg xml:id="song27v6ch"/> all may have,</l>
+                     <seg xml:id="song27v6ch">that</seg> all may have,</l>
                   <l rend="indent2">ther's no distinction in the Grave.</l>
                </lg>
                <lg type="stanza" xml:id="v7ch">

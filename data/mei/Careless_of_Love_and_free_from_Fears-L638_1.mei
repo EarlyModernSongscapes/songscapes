@@ -207,7 +207,7 @@
                             <layer xml:id="m-130" n="1">
                                 <note xml:id="m-132" dur="4" dur.ges="256p" oct="5" pname="d" pnum="74" stem.dir="down">
                                     <verse xml:id="m-137" n="1">
-                                        <syl xml:id="m-138" con="d" wordpos="i">Stel</syl>
+                                        <syl xml:id="m-138" con="d" wordpos="i"><rend fontstyle="italic">Stel</rend></syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-133" dur="4" dur.ges="256p" oct="5" pname="e" pnum="76" stem.dir="down"/>
@@ -215,7 +215,7 @@
                                 <note xml:id="m-135" dur="4" dur.ges="256p" oct="5" pname="c" pnum="73" stem.dir="down">
                                     <accid xml:id="m-136" accid="s"/>
                                     <verse xml:id="m-139" n="1">
-                                        <syl xml:id="m-140" wordpos="t">la's</syl>
+                                        <syl xml:id="m-140" wordpos="t"><rend fontstyle="italic">la's</rend></syl>
                                     </verse>
                                 </note>
                             </layer>

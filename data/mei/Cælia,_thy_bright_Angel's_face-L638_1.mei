@@ -56,12 +56,12 @@
                             <layer xml:id="m-38" n="1">
                                 <note xml:id="m-39" dots="1" dur="4" dur.ges="384p" oct="5" pname="c" pnum="72" stem.dir="down">
                                     <verse xml:id="m-43" n="1">
-                                        <syl xml:id="m-44" con="d" wordpos="i">Cae</syl>
+                                        <syl xml:id="m-44" con="d" wordpos="i"><rend fontstyle="italic">Cae</rend></syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-40" dur="8" dur.ges="128p" oct="4" pname="a" pnum="69" stem.dir="up">
                                     <verse xml:id="m-45" n="1">
-                                        <syl xml:id="m-46" wordpos="t">lia,</syl>
+                                        <syl xml:id="m-46" wordpos="t"><rend fontstyle="italic">lia,</rend></syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-41" dur="4" dur.ges="256p" oct="5" pname="c" pnum="72" stem.dir="down">
@@ -828,12 +828,12 @@
                                 <note xml:id="m-513" dots="1" dur="4" dur.ges="384p" oct="4" pname="b" pnum="70" stem.dir="down">
                                     <accid xml:id="m-514" accid.ges="f"/>
                                     <verse xml:id="m-517" n="1">
-                                        <syl xml:id="m-518" con="d" wordpos="i">At</syl>
+                                        <syl xml:id="m-518" con="d" wordpos="i"><rend fontstyle="italic">At</rend></syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-515" dur="8" dur.ges="128p" oct="4" pname="a" pnum="69" stem.dir="up">
                                     <verse xml:id="m-519" n="1">
-                                        <syl xml:id="m-520" wordpos="t">las)</syl>
+                                        <syl xml:id="m-520" wordpos="t"><rend fontstyle="italic">las</rend>)</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-516" dur="2" dur.ges="512p" oct="5" pname="c" pnum="72" stem.dir="down">

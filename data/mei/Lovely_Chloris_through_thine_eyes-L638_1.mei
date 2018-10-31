@@ -87,12 +87,12 @@
                                 <note xml:id="m-59" dur="2" dur.ges="512p" oct="4" pname="b" pnum="70" stem.dir="down">
                                     <accid xml:id="m-60" accid.ges="f"/>
                                     <verse xml:id="m-62" n="1">
-                                        <syl xml:id="m-63" con="d" wordpos="i">Chlor</syl>
+                                        <syl xml:id="m-63" con="d" wordpos="i"><rend fontstyle="italic">Chlor</rend></syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-61" dur="4" dur.ges="256p" oct="4" pname="a" pnum="69" stem.dir="up">
                                     <verse xml:id="m-64" n="1">
-                                        <syl xml:id="m-65" wordpos="t">is</syl>
+                                        <syl xml:id="m-65" wordpos="t"><rend fontstyle="italic">is</rend></syl>
                                     </verse>
                                 </note>
                             </layer>

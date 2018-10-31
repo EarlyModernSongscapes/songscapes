@@ -135,13 +135,13 @@
                             <layer xml:id="m-87" n="1">
                                 <note xml:id="m-88" dur="4" dur.ges="256p" oct="5" pname="c" pnum="72" stem.dir="down">
                                     <verse xml:id="m-95" n="1">
-                                        <syl xml:id="m-96" con="d" wordpos="i">Chlor</syl>
+                                        <syl xml:id="m-96" con="d" wordpos="i"><rend fontstyle="italic">Chlor</rend></syl>
                                     </verse>
                                 </note>
                                 <beam xml:id="m-90">
                                     <note xml:id="m-89" dur="8" dur.ges="128p" oct="4" pname="g" pnum="67" stem.dir="up">
                                         <verse xml:id="m-97" n="1">
-                                            <syl xml:id="m-98" wordpos="t">is,</syl>
+                                            <syl xml:id="m-98" wordpos="t"><rend fontstyle="italic">is,</rend></syl>
                                         </verse>
                                     </note>
                                     <note xml:id="m-91" dur="8" dur.ges="128p" oct="4" pname="g" pnum="67" stem.dir="up">
@@ -514,12 +514,12 @@
                                     <note xml:id="m-318" dur="8" dur.ges="128p" oct="4" pname="b" pnum="70" stem.dir="up">
                                         <accid xml:id="m-319" accid.ges="f"/>
                                         <verse xml:id="m-326" n="1">
-                                            <syl xml:id="m-327" con="d" wordpos="i">Chlor</syl>
+                                            <syl xml:id="m-327" con="d" wordpos="i"><rend fontstyle="italic">Chlor</rend></syl>
                                         </verse>
                                     </note>
                                     <note xml:id="m-321" dur="8" dur.ges="128p" oct="4" pname="g" pnum="67" stem.dir="up">
                                         <verse xml:id="m-328" n="1">
-                                            <syl xml:id="m-329" wordpos="t">is,</syl>
+                                            <syl xml:id="m-329" wordpos="t"><rend fontstyle="italic">is,</rend></syl>
                                         </verse>
                                     </note>
                                 </beam>

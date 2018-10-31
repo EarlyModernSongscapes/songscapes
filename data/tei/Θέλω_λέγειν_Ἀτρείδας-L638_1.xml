@@ -33,7 +33,7 @@
             <!-- MEI goes here -->
           </notatedMusic>
           <div type="underlay">
-          <lg type="stanza">
+          <lg type="stanza" rend="italic">
             <l>Θέλω λέγειν Ἀτρείδας,</l>
             <l>θέλω δὲ Κάδμον ᾄδειν,</l>
             <l>Ἇ βάρβιτος δὲ χορδαῖς</l>
@@ -46,7 +46,7 @@
             <l>Ἡρακλέους, λύρη δέ</l>
             <l>Ἔρωτας ἀντεφώνει·</l>
           </lg>
-          <lg type="stanza">
+          <lg type="stanza" rend="italic">
             <l>Kαίροιτε χαίροιτε λοιπὸν ἡμῖν</l>
             <l>Ἥρωες. ἡ λύρη γάρ</l>
             <l>Mόνους ἔρωτας ᾅδει·</l>

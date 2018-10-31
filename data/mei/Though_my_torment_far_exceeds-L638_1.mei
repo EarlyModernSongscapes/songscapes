@@ -758,13 +758,13 @@
                                 <note xml:id="m-466" dur="4" dur.ges="256p" oct="4" pname="b" pnum="70" stem.dir="down">
                                     <accid xml:id="m-467" accid.ges="f"/>
                                     <verse xml:id="m-474" n="1">
-                                        <syl xml:id="m-475" con="d" wordpos="i">Ju</syl>
+                                        <syl xml:id="m-475" con="d" wordpos="i"><rend fontstyle="italic">Ju</rend></syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-468" dur="4" dur.ges="256p" oct="5" pname="e" pnum="75" stem.dir="down">
                                     <accid xml:id="m-469" accid="f"/>
                                     <verse xml:id="m-476" n="1">
-                                        <syl xml:id="m-477" wordpos="t">lia</syl>
+                                        <syl xml:id="m-477" wordpos="t"><rend fontstyle="italic">lia</rend></syl>
                                     </verse>
                                 </note>
                             </layer>
@@ -785,13 +785,13 @@
                                 </note>
                                 <note xml:id="m-484" dur="4" dur.ges="256p" oct="4" pname="g" pnum="67" stem.dir="up">
                                     <verse xml:id="m-491" n="1">
-                                        <syl xml:id="m-492" con="d" wordpos="i">Ju</syl>
+                                        <syl xml:id="m-492" con="d" wordpos="i"><rend fontstyle="italic">Ju</rend></syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-485" dur="4" dur.ges="256p" oct="4" pname="b" pnum="70" stem.dir="down">
                                     <accid xml:id="m-486" accid.ges="f"/>
                                     <verse xml:id="m-493" n="1">
-                                        <syl xml:id="m-494" wordpos="t">lia</syl>
+                                        <syl xml:id="m-494" wordpos="t"><rend fontstyle="italic">lia</rend></syl>
                                     </verse>
                                 </note>
                             </layer>
@@ -813,12 +813,12 @@
                                 <note xml:id="m-501" dur="4" dur.ges="256p" oct="3" pname="e" pnum="51" stem.dir="down">
                                     <accid xml:id="m-502" accid="f"/>
                                     <verse xml:id="m-508" n="1">
-                                        <syl xml:id="m-509" con="d" wordpos="i">Ju</syl>
+                                        <syl xml:id="m-509" con="d" wordpos="i"><rend fontstyle="italic">Ju</rend></syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-503" dur="4" dur.ges="256p" oct="3" pname="c" pnum="48" stem.dir="up">
                                     <verse xml:id="m-510" n="1">
-                                        <syl xml:id="m-511" wordpos="t">lia</syl>
+                                        <syl xml:id="m-511" wordpos="t"><rend fontstyle="italic">lia</rend></syl>
                                     </verse>
                                 </note>
                             </layer>

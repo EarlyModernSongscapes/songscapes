@@ -685,7 +685,7 @@
                                     <note xml:id="m-419" dur="8" dur.ges="128p" oct="4" pname="b" pnum="71" stem.dir="up">
                                         <accid xml:id="m-420" accid="n"/>
                                         <verse xml:id="m-449" n="1">
-                                            <syl xml:id="m-450" con="d" wordpos="i">E</syl>
+                                            <syl xml:id="m-450" con="d" wordpos="i"><rend fontstyle="italic">E</rend></syl>
                                         </verse>
                                     </note>
                                 </beam>
@@ -712,18 +712,18 @@
                                 <beam xml:id="m-440">
                                     <note xml:id="m-439" dur="8" dur.ges="128p" oct="5" pname="c" pnum="72" stem.dir="down">
                                         <verse xml:id="m-451" n="1">
-                                            <syl xml:id="m-452" con="d" wordpos="m">li</syl>
+                                            <syl xml:id="m-452" con="d" wordpos="m"><rend fontstyle="italic">li</rend></syl>
                                         </verse>
                                     </note>
                                     <note xml:id="m-441" dur="8" dur.ges="128p" oct="5" pname="c" pnum="72" stem.dir="down">
                                         <verse xml:id="m-453" n="1">
-                                            <syl xml:id="m-454" con="d" wordpos="m">zi</syl>
+                                            <syl xml:id="m-454" con="d" wordpos="m"><rend fontstyle="italic">zi</rend></syl>
                                         </verse>
                                     </note>
                                     <note xml:id="m-442" dur="8" dur.ges="128p" oct="4" pname="b" pnum="71" stem.dir="down">
                                         <accid xml:id="m-443" accid="n"/>
                                         <verse xml:id="m-455" n="1">
-                                            <syl xml:id="m-456" wordpos="t">um</syl>
+                                            <syl xml:id="m-456" wordpos="t"><rend fontstyle="italic">um</rend></syl>
                                         </verse>
                                     </note>
                                     <note xml:id="m-444" dur="8" dur.ges="128p" oct="4" pname="a" pnum="69" stem.dir="down">

@@ -115,12 +115,12 @@
                                 </note>
                                 <note xml:id="m-73" dots="1" dur="4" dur.ges="384p" oct="5" pname="d" pnum="74" stem.dir="down">
                                     <verse xml:id="m-77" n="1">
-                                        <syl xml:id="m-78" con="d" wordpos="i">Ce</syl>
+                                        <syl xml:id="m-78" con="d" wordpos="i"><rend fontstyle="italic">Ca</rend></syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-74" dur="8" dur.ges="128p" oct="5" pname="e" pnum="76" stem.dir="down">
                                     <verse xml:id="m-79" n="1">
-                                        <syl xml:id="m-80" wordpos="t">lia's</syl>
+                                        <syl xml:id="m-80" wordpos="t"><rend fontstyle="italic">lia's</rend></syl>
                                     </verse>
                                 </note>
                             </layer>

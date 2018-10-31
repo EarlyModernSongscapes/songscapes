@@ -90,12 +90,12 @@
                             <layer xml:id="m-59" n="1">
                                 <note xml:id="m-60" dots="1" dur="4" dur.ges="384p" oct="4" pname="b" pnum="71" stem.dir="down">
                                     <verse xml:id="m-64" n="1">
-                                        <syl xml:id="m-65" con="d" wordpos="i">Ce</syl>
+                                        <syl xml:id="m-65" con="d" wordpos="i"><rend fontstyle="italic">Ce</rend></syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-61" dur="8" dur.ges="128p" oct="4" pname="a" pnum="69" stem.dir="up">
                                     <verse xml:id="m-66" n="1">
-                                        <syl xml:id="m-67" wordpos="t">lia)</syl>
+                                        <syl xml:id="m-67" wordpos="t"><rend fontstyle="italic">lia</rend>)</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-62" dur="4" dur.ges="256p" oct="4" pname="a" pnum="69" stem.dir="up">

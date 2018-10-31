@@ -436,12 +436,12 @@
                                 </note>
                                 <note xml:id="m-267" dur="2" dur.ges="512p" oct="5" pname="d" pnum="74" stem.dir="down">
                                     <verse xml:id="m-271" n="1">
-                                        <syl xml:id="m-272" con="d" wordpos="i">Lu</syl>
+                                        <syl xml:id="m-272" con="d" wordpos="i"><rend fontstyle="italic">Lu</rend></syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-268" dur="2" dur.ges="512p" oct="5" pname="e" pnum="76" stem.dir="down">
                                     <verse xml:id="m-273" n="1">
-                                        <syl xml:id="m-274" wordpos="t">cian's</syl>
+                                        <syl xml:id="m-274" wordpos="t"><rend fontstyle="italic">cian's</rend></syl>
                                     </verse>
                                 </note>
                             </layer>

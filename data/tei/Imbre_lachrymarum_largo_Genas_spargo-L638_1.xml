@@ -33,7 +33,7 @@
             <!-- MEI goes here -->
           </notatedMusic>
           <div type="underlay">
-          <lg type="stanza">
+          <lg type="stanza" rend="italic">
             <l>Imbre lachrymarum largo Genas spargo, quavis aurorâ;</l>
             <l>Deus citò tu venito, nunc nunc sine morâ, Ora:</l>
             <l>Hoc non valet, semper oro, semper ploro, cor deficit dolendo;</l>

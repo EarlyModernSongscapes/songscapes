@@ -28,7 +28,7 @@
    <text>
       <body>
          <div xml:id="song01">
-            <div>
+            <div type="headnote">
                <head>
                   <seg xml:id="song01v1">The Story of <hi rend="italic">Theseus</hi> and <hi rend="italic">Ariadne,</hi> as much as concerns the ensuing Relation, is this.</seg>
                </head>

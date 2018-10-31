@@ -27,7 +27,7 @@
   </teiHeader>
   <text>
       <body>
-        <div>
+        <div xml:id="song31a">
           <head rend="italic">The Excellency of Wine.</head>
             <notatedMusic>
             <!-- MEI goes here -->

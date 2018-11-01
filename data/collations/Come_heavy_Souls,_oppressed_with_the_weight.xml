@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/songscapes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schema/songscapes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mei="http://www.music-encoding.org/ns/mei">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+           <title>Stand-off apparatus for <title>Come heavy Souls, oppressed with the weight</title></title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Early Modern Songscapes Project - 2018</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+              <witness xml:id="L638_1"/>
+              <witness xml:id="S5983"/>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+        <div>
+          <head>Text Collation</head>
+          <app>
+            <rdg wit="#L638_1">
+              <ptr target="../tei/Come_heavy_Souls,_oppressed_with_the_weight-L638_1.xml#song27v1ch"/>
+            </rdg>
+            <rdg wit="#S5983"/>
+          </app>
+          <app>
+            <rdg wit="#L638_1">
+              <ptr target="../tei/Come_heavy_Souls,_oppressed_with_the_weight-L638_1.xml#song27v2ch"/>
+            </rdg>
+            <rdg wit="#S5983">
+              <ptr target="../tei/Come_heavy_Souls,_oppressed_with_the_weight-S5983.xml#v2ch"/>
+            </rdg>
+          </app>
+          <app>
+            <rdg wit="#L638_1">
+              <ptr target="../tei/Come_heavy_Souls,_oppressed_with_the_weight-L638_1.xml#song27v3ch"/>
+            </rdg>
+            <rdg wit="#S5983">
+              <ptr target="../tei/Come_heavy_Souls,_oppressed_with_the_weight-S5983.xml#v3ch"/>
+            </rdg>
+          </app>
+          <app>
+            <rdg wit="#L638_1">
+              <ptr target="../tei/Come_heavy_Souls,_oppressed_with_the_weight-L638_1.xml#song27v4ch"/>
+            </rdg>
+            <rdg wit="#S5983">
+              <ptr target="../tei/Come_heavy_Souls,_oppressed_with_the_weight-S5983.xml#v4ch"/>
+            </rdg>
+          </app>
+          <app>
+            <rdg wit="#L638_1">
+              <ptr target="../tei/Come_heavy_Souls,_oppressed_with_the_weight-L638_1.xml#song27v8ch"/>
+            </rdg>
+            <rdg wit="#S5983"/>
+          </app>
+          <app>
+            <rdg wit="#L638_1">
+              <ptr target="../tei/Come_heavy_Souls,_oppressed_with_the_weight-L638_1.xml#song27v5ch"/>
+            </rdg>
+            <rdg wit="#S5983">
+              <ptr target="../tei/Come_heavy_Souls,_oppressed_with_the_weight-S5983.xml#v5ch"/>
+            </rdg>
+          </app>
+          <app>
+            <rdg wit="#L638_1">
+              <ptr target="../tei/Come_heavy_Souls,_oppressed_with_the_weight-L638_1.xml#song27v9ch"/>
+            </rdg>
+            <rdg wit="#S5983"/>
+          </app>
+          <app>
+            <rdg wit="#L638_1">
+              <ptr target="../tei/Come_heavy_Souls,_oppressed_with_the_weight-L638_1.xml#song27v6ch"/>
+            </rdg>
+            <rdg wit="#S5983">
+              <ptr target="../tei/Come_heavy_Souls,_oppressed_with_the_weight-S5983.xml#v6ch"/>
+            </rdg>
+          </app>
+          <app type="punct">
+            <rdg wit="#L638_1">
+              <ptr target="../tei/Come_heavy_Souls,_oppressed_with_the_weight-L638_1.xml#song27v10ch"/>
+            </rdg>
+            <rdg wit="#S5983"/>
+          </app>
+          <app type="stanza_break">
+            <rdg wit="#L638_1">
+              <ptr target="../tei/Come_heavy_Souls,_oppressed_with_the_weight-L638_1.xml#song27v7ch"/>
+            </rdg>
+            <rdg wit="#S5983"/>
+          </app>
+        </div>
+        <div>
+          <head>Music Collation</head>
+          <notatedMusic>
+            <mei:mei>
+              <mei:meiHead>
+                <mei:fileDesc>
+                  <mei:titleStmt>
+                    <mei:title></mei:title>
+                  </mei:titleStmt>
+                  <mei:pubStmt></mei:pubStmt>
+                  <mei:sourceDesc>
+                    <mei:source xml:id="M-L638_1"/>
+                  </mei:sourceDesc>
+                </mei:fileDesc>
+              </mei:meiHead>
+              <mei:music/>
+            </mei:mei>
+          </notatedMusic>
+        </div>
+      </body>
+  </text>
+</TEI>

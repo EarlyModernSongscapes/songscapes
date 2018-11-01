@@ -27,7 +27,7 @@
   <text>
       <body>
         <div>
-          <head><seg xml:id="v1"/><seg xml:id="v2"/><seg xml:id="v3">Ariadne <hi rend="italic">deserted by</hi> Theseus, <hi rend="italic">as She sits upon a Rock in the Island </hi>Naxos<hi rend="italic">, thus complains.</hi></seg></head>
+          <head xml:id="v3">Ariadne <hi rend="italic">deserted by</hi> Theseus, <hi rend="italic">as She sits upon a Rock in the Island </hi>Naxos<hi rend="italic">, thus complains.</hi></head>
           <notatedMusic>
           <!-- MEI goes here -->
         </notatedMusic>
@@ -75,17 +75,17 @@
           <l rend="indent2">I ne’r thought Souls might kiss,</l>
           <l rend="indent3">And Spirits joyn<seg xml:id="v13">:</seg></l>
           <pb n="Q2v"/>
-          <l rend="indent3">Pictures till then<seg xml:id="v14"/></l>
+          <l rend="indent3">Pictures till then</l>
           <l rend="indent2">Took me as much as Men,</l>
-          <l rend="indent3">Nature and Art<seg xml:id="v15"/></l>
+          <l rend="indent3">Nature and Art</l>
           <l rend="indent2">Moving alike my heart,</l>
-          <l>But his fair Visage made me find<seg xml:id="v16"/></l>
+          <l>But his fair Visage made me find</l>
           <l rend="indent4">Pleasures and Fears<seg xml:id="v17">,</seg></l>
           <l rend="indent4">Hopes, Sighs<seg xml:id="v18">,</seg> and Tears,</l>
           <l>As severall seasons of the Mind.</l>
-          <l rend="indent2">Should thine Eye<seg xml:id="v19">, <hi rend="italic">Venus</hi>,</seg> on his dwell,</l>
+          <l rend="indent2">Should thine Eye<seg xml:id="v19a">,</seg> <hi rend="italic">Venus</hi><seg xml:id="v19b">,</seg> on his dwell,</l>
           <l rend="indent2">Thou wouldst invite him to thy Shell,</l>
-          <l rend="indent2">And Caught by that live Jet<seg xml:id="v20"/></l>
+          <l rend="indent2">And Caught by that live Jet</l>
           <l rend="indent2">Venture the second Net,</l>
           <l>And after all thy dangers<seg xml:id="v21">,</seg> faithlesse he,</l>
           <l>Shouldst thou but slumber<seg xml:id="v22">,</seg> would forsake ev’n thee.</l>
@@ -97,15 +97,15 @@
       <l rend="indent3">Whisp’ring among fresh Bow'rs,</l>
       <l rend="indent1">And having rob’d them of their smels,</l>
       <l rend="indent1">Fly thence perfum’d to other Cels.</l>
-      <l>This is familiar Hate<seg xml:id="v24"/> to Smile and Kill,</l>
-      <l>Though nothing please thee<seg xml:id="v25"/> yet my Ruine will.</l>
-      <l rend="indent2">Death<seg xml:id="v26"/> hover, hover o’r me then<seg xml:id="v27">,</seg></l>
-      <l rend="indent2">Waves let your Christall Womb<seg xml:id="v28"/></l>
+      <l>This is familiar Hate to Smile and Kill,</l>
+      <l>Though nothing please thee yet my Ruine will.</l>
+      <l rend="indent2">Death hover, hover o’r me then<seg xml:id="v27">,</seg></l>
+      <l rend="indent2">Waves let your Christall Womb</l>
       <l rend="indent2">Be both my Fate<seg xml:id="v29">,</seg> and Tomb,</l>
       <l rend="indent1">I’l sooner trust the Sea<seg xml:id="v30">,</seg> than Men.</l>
     </lg>
     <lg type="stanza">
-      <l rend="indent2">Yet for revenge to Heaven I’l call<seg xml:id="v31"/></l>
+      <l rend="indent2">Yet for revenge to Heaven I’l call</l>
       <l rend="indent2">And breath one Curse before I fall,</l>
       <l>Proud of two Conquests<seg xml:id="v32"> <hi rend="italic">Minotaure</hi>,</seg> and Me,</l>
       <l>That by thy Faith, This by thy Perjury,</l>
@@ -114,7 +114,7 @@
       <pb n="Q3r"/>
       <l>Of thy Gray Father<seg xml:id="v34">,</seg> tell thy Fate, and He</l>
       <l>Bequeath the Sea his Name<seg xml:id="v35">,</seg> falling like me:</l>
-      <l>Nature and Love thus brand thee, whilst I dye<seg xml:id="v36"/></l>
+      <l>Nature and Love thus brand thee, whilst I dye</l>
       <l>'Cause thou forsak’st <hi rend="italic">Ægeus,</hi> 'cause thou drawest nigh.</l>
     </lg>
     <lg type="stanza">
@@ -128,15 +128,15 @@
       <l rend="indent2">Those Looks that Caus’d my destiny.</l>
     </lg>
       <lg type="stanza">
-      <l><seg xml:id="v40"/>In <hi rend="italic">Thetis</hi> Arms<seg xml:id="v41"/> I <hi rend="italic">Ariadne</hi> sleep,</l>
+      <l>In <hi rend="italic">Thetis</hi> Arms I <hi rend="italic">Ariadne</hi> sleep,</l>
       <l>Drown'd first <seg xml:id="v42">by</seg> mine own Tears, then in the deep;</l>
       <l>Twice banished, First by Love, and then by Hate,</l>
       <l>The life that I preserv’d became my Fate;</l>
       <l>Who leaving all<seg xml:id="v43">,</seg> was by him left alone,</l>
-      <l>That from a Monster freed<seg xml:id="v44"/> himselfe prov’d one.</l>
+      <l>That from a Monster freed himselfe prov’d one.</l>
     </lg>
     <lg type="stanza">
-      <l rend="indent1"><seg xml:id="v45">That</seg> then I <seg xml:id="v46">---</seg> But look<seg xml:id="v47">!</seg><seg xml:id="v48"/> O mine Eyes</l>
+      <l rend="indent1"><seg xml:id="v45">That</seg> then I <seg xml:id="v46">---</seg> But look<seg xml:id="v47">!</seg> <seg xml:id="v48">O mine Eyes</seg></l>
     <l rend="indent4">Be now true Spies,</l>
       <l rend="indent4">Yonder, yonder<seg xml:id="v49">,</seg></l>
     <l rend="indent4">Comes my Dear,</l>
@@ -144,17 +144,17 @@
     <l rend="indent4">Once my fear,</l>
     <l rend="indent2">See Satyrs dance along</l>
     <l rend="indent2">In a confused Throng,</l>
-      <l rend="indent2">Whiles Horns and Pipes rude noise<seg xml:id="v50"/></l>
+      <l rend="indent2">Whiles Horns and Pipes rude noise</l>
     <l rend="indent2">Do mad their lusty Joyes,</l>
     <l rend="indent1">Roses his forehead Crown,</l>
     <l rend="indent1">And that recrowns the Flow'rs,</l>
-      <l rend="indent1">Where he walks up and down<seg xml:id="v51"/></l>
+      <l rend="indent1">Where he walks up and down</l>
     <l rend="indent1">He makes the desarts Bow'rs,</l>
     <pb n="Q3v"/>
       <l rend="indent2">the Ivy<seg xml:id="v52">,</seg> and the Grape</l>
-      <l rend="indent2">Hide<seg xml:id="v53">, not</seg> adorn his Shape.</l>
+      <l rend="indent2">Hide<seg xml:id="v53a">,</seg> not adorn his Shape.</l>
     <l>And Green Leaves Cloath his waving Rod,</l>
-      <l><seg xml:id="v54"/>'Tis either <hi rend="italic">Theseus</hi>, or some God.</l>
+      <l>'Tis either <hi rend="italic">Theseus</hi>, or some God.</l>
   </lg>
 </div>
         </div>

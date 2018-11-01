@@ -38,10 +38,7 @@
                </p>
             </div>
             <div>
-               <head>
-                  <seg xml:id="song01v3">Ariadne <hi rend="italic">sitting upon a Rock in the Island </hi>Naxos, <hi rend="italic">deserted by </hi>Theseus,<hi rend="italic"> thus complains.</hi>
-                  </seg>
-               </head>
+               <head xml:id="song01v3">Ariadne <hi rend="italic">sitting upon a Rock in the Island </hi>Naxos, <hi rend="italic">deserted by </hi>Theseus,<hi rend="italic"> thus complains.</hi></head>
                <notatedMusic><!-- MEI goes here --></notatedMusic>
                <div type="underlay">
                   <lg type="stanza">
@@ -81,9 +78,9 @@
                         <hi rend="italic">Ixions</hi> wheel,</l>
                      <l rend="indent1">&amp; add one fable more</l>
                      <l rend="indent1">to, cursing Poets store,</l>
-                     <l>&amp; then <seg xml:id="song01v10"/>yet rather let him live &amp; twine</l>
-                     <l>his woof of <pb n="B2r"/>days<seg xml:id="song01v5"/> with some thread stoln from mine;</l>
-                     <l rend="indent1">but if you’l torture him<seg xml:id="song01v11">,</seg> how e’re<seg xml:id="song01v12"/>
+                     <l>&amp; then yet rather let him live &amp; twine</l>
+                     <l>his woof of <pb n="B2r"/>days with some thread stoln from mine;</l>
+                     <l rend="indent1">but if you’l torture him<seg xml:id="song01v11">,</seg> how e’re
                      </l>
                      <l>torture my heart, you’l find him there:</l>
                   </lg>
@@ -96,23 +93,21 @@
                      <l rend="indent3">Pictures till then<seg xml:id="song01v14">,</seg>
                      </l>
                      <l rend="indent2">took me as much as men,</l>
-                     <l rend="indent3">Nature and Art<seg xml:id="song01v15"/>
+                     <l rend="indent3">Nature and Art
                      </l>
                      <l rend="indent2">moveing alike my heart;</l>
-                     <l>but his faire visage made me find<seg xml:id="song01v16"/>
+                     <l>but his faire visage made me find
                      </l>
                      <l rend="indent4">pleasures and fears<seg xml:id="song01v17">,</seg>
                      </l>
-                     <l rend="indent4">hopes, sighs<seg xml:id="song01v18"/> and tears,</l>
+                     <l rend="indent4">hopes, sighs and tears,</l>
                      <l>as severall seasons of the mind.</l>
-                     <l rend="indent2">Should thine Eye<seg xml:id="song01v19">
-                           <hi rend="italic">Venus</hi>
-                        </seg> on his dwell,</l>
+                     <l rend="indent2">Should thine Eye <hi rend="italic">Venus</hi> on his dwell,</l>
                      <l rend="indent2">thou wouldst invite him to thy shell,</l>
                      <l rend="indent2">&amp; caught by that live jet<seg xml:id="song01v20">,</seg>
                      </l>
                      <l rend="indent2">venture the second net,</l>
-                     <l>and after all thy dangers<seg xml:id="song01v21"/> faithlesse he;</l>
+                     <l>and after all thy dangers faithlesse he;</l>
                      <l>shouldst thou but slumber<seg xml:id="song01v22">,</seg> would forsake ev’n thee.</l>
                   </lg>
                   <pb n="B2v"/>
@@ -126,12 +121,12 @@
                      <l rend="indent1">flye thence perfum’d to other Cels;</l>
                      <l>this is familiar hate<seg xml:id="song01v24">,</seg> to smile, &amp; kill,</l>
                      <l>though nothing pleas thee<seg xml:id="song01v25">,</seg> yet my ruine will:</l>
-                     <l rend="indent2">Death<seg xml:id="song01v26"/> hover, hover, o’re me then<seg xml:id="song01v27">,</seg>
+                     <l rend="indent2">Death hover, hover, o’re me then<seg xml:id="song01v27">,</seg>
                      </l>
                      <l rend="indent2">waves let your christall womb<seg xml:id="song01v28">,</seg>
                      </l>
                      <l rend="indent2">be both my fate<seg xml:id="song01v29"/> and tomb,</l>
-                     <l rend="indent1">I’le sooner trust the sea<seg xml:id="song01v30"/> then men.</l>
+                     <l rend="indent1">I’le sooner trust the sea then men.</l>
                   </lg>
                   <lg type="stanza">
                      <l rend="indent2">Yet for revenge to heav’n I’le call<seg xml:id="song01v31">,</seg>
@@ -143,40 +138,38 @@
                      <pb n="C1r"/>
                      <l>May’st thou forget to wing thy ships with white,</l>
                      <l>that the black <seg xml:id="song01v33">sails</seg> may to the longing sight</l>
-                     <l>of thy gray Father<seg xml:id="song01v34"/> tell thy fate, and he</l>
+                     <l>of thy gray Father tell thy fate, and he</l>
                      <l>bequeath that sea his name<seg xml:id="song01v35">,</seg> falling like me.</l>
                      <l>Nature &amp; Love thus brand thee, whilst I dye<seg xml:id="song01v36">,</seg>
                      </l>
                      <l>'cause thou forsak'st <hi rend="italic">Ægeus,</hi> 'cause thou draw'st nigh.</l>
                   </lg>
                   <lg type="stanza">
-                     <l rend="indent2">And <seg xml:id="song01v37"/>ye, O Nimphs below who sit,</l>
+                     <l rend="indent2">And <seg xml:id="song01v37">ye,</seg> O Nimphs below who sit,</l>
                      <l rend="indent2">in whose swift floods his vows he writ,</l>
                      <l>snatch a sharp Diamond from <seg xml:id="song01v38">your</seg> richer Mines,</l>
                      <l>&amp; in some Mirror grave these sadder lines;</l>
                      <l rend="indent3">which let some God convey</l>
                      <l rend="indent3">to him, that so he may</l>
-                     <l rend="indent2">in that both read at once<seg xml:id="song01v39"/> and see</l>
+                     <l rend="indent2">in that both read at once and see</l>
                      <l rend="indent2">those lookes that caus’d my destiny.</l>
                   </lg>
                   <lg type="stanza">
-                     <head rend="italic">
-                        <seg xml:id="song01v40">Her Epitaph</seg>
-                     </head>
-                     <l>In <hi rend="italic">Thetis</hi> Armes<seg xml:id="song01v41"/> I <hi rend="italic">Ariadne</hi> sleep,</l>
+                     <head rend="italic" xml:id="song01v40">Her Epitaph</head>
+                     <l>In <hi rend="italic">Thetis</hi> Armes I <hi rend="italic">Ariadne</hi> sleep,</l>
                      <pb n="C1v"/>
                      <l>drown'd: First <seg xml:id="song01v42">in</seg> mine own tears, then in the deep:</l>
                      <l>Twice banish'd, first by love, and then by hate,</l>
                      <l>the life that I preserv’d became my fate,</l>
-                     <l>who leaving all<seg xml:id="song01v43"/> was by him left alone,</l>
+                     <l>who leaving all was by him left alone,</l>
                      <l>that from a Monster fre’d<seg xml:id="song01v44">,</seg> himselfe prov’d one:</l>
                   </lg>
                   <lg type="stanza">
                      <l rend="indent1">
                         <seg xml:id="song01v45">Thus</seg> then I <seg xml:id="song01v46">F---</seg> but looke<seg xml:id="song01v47">,</seg>
-                        <seg xml:id="song01v48"/> O mine eyes,</l>
+                        <seg xml:id="song01v48">O mine eyes</seg>,</l>
                      <l rend="indent4">be now true spies,</l>
-                     <l rend="indent4">yonder, yonder<seg xml:id="song01v49"/>
+                     <l rend="indent4">yonder, yonder
                      </l>
                      <l rend="indent4">comes my dear,</l>
                      <l rend="indent4">now my wonder,</l>
@@ -191,8 +184,8 @@
                      <l rend="indent1">where he walks up and down<seg xml:id="song01v51">,</seg>
                      </l>
                      <l rend="indent1">he makes the Desarts Bowers;</l>
-                     <l rend="indent2">the Ivy<seg xml:id="song01v52"/> and the <pb n="C2r"/>Grape</l>
-                     <l rend="indent2">hide<seg xml:id="song01v53"> not,</seg> adorne his shape,</l>
+                     <l rend="indent2">the Ivy and the <pb n="C2r"/>Grape</l>
+                     <l rend="indent2">hide not<seg xml:id="song01v53b">,</seg> adorne his shape,</l>
                      <l>and green leaves cloath his waving Rod,</l>
                      <l>
                         <seg xml:id="song01v54">'tis he;</seg> 'tis either <hi rend="italic">Theseus</hi>, or some God.</l>

@@ -556,7 +556,7 @@
         <item n="I."><title>I long to sing the Seidge of <hi rend="italic">Troy</hi></title> <seg type="toc_page">27</seg> <name type="poet">- Mr. <hi rend="italic">John Berkenhead</hi>.</name></item>
         <item><title>If when the Sun at Noon</title> <seg type="toc_page">18</seg> <name type="poet">- Mr. <hi rend="italic">Carew</hi>.</name></item>
         <item><title>It is not that I love you lesse</title> <seg type="toc_page">22</seg> <name type="poet">- Mr. <hi rend="italic">Waller</hi>.</name></item>
-        <item><title><hi rend="italic">Imbre lachrymarum largo</hi></title> <seg type="toc_page">36</seg> <name type="poet">- Mr. <hi rend="italic">Thomas Fuller</hi>, Batch. Divinity.</name></item>
+        <item><title xml:lang="lat">Imbre lachrymarum largo</title> <seg type="toc_page">36</seg> <name type="poet">- Mr. <hi rend="italic">Thomas Fuller</hi>, Batch. Divinity.</name></item>
         <item n="L."><title>Ladies who gild the glitt'ring Noon</title> <seg type="toc_page">35</seg> <name type="poet">- Mr. <hi rend="italic">Francis Lenton</hi>.</name></item>
         <item><title>Lately on yonder swelling Bush</title> <seg type="toc_page">24</seg> <name type="poet">- Mr. <hi rend="italic">Waller</hi>.</name></item>
         <item><title>Lovely <hi rend="italic">Chloris</hi> though thine eyes</title> <seg type="toc_page">20</seg> <name type="poet">- Mr. <hi rend="italic">Henry Reynolds</hi>.</name></item>
@@ -571,8 +571,8 @@
         <item n="W."><title>When thou poor Excommunicate</title> <seg type="toc_page">8</seg> <name type="poet">- Mr. <hi rend="italic">Carew</hi><corr>.</corr></name></item>
         <item><title>When on the Altar of my hand</title> <seg type="toc_page">9</seg> <name type="poet">- Mr. <hi rend="italic">Carew</hi>.</name></item>
         <item><title>While I listen to thy Voyce</title> <seg type="toc_page">13</seg> <name type="poet">- Mr. <hi rend="italic">Waller</hi>,</name></item>
-        <item><title><hi rend="italic">Θέλω λέγειν Ἀτρείδας</hi></title> <seg type="toc_page">26</seg> <name type="poet">- <hi rend="italic">Anacreon's Ode,</hi> call'd the Lute.</name></item>
-        <item><title><hi rend="italic">Inquel gelato core (TAVOLA)</hi></title> <seg type="toc_page">Last Pag. in the Book</seg> <name type="poet">- By divers and sundry Authors.</name></item>
+        <item><title xml:lang="grc">Θέλω λέγειν Ἀτρείδας</title> <seg type="toc_page">26</seg> <name type="poet">- <hi rend="italic">Anacreon's Ode,</hi> call'd the Lute.</name></item>
+        <item><title xml:lang="it">Inquel gelato core (TAVOLA)</title> <seg type="toc_page">Last Pag. in the Book</seg> <name type="poet">- By divers and sundry Authors.</name></item>
       </list>
       <list type="litany" rend="simple">
         <head rend="center"><hi rend="italic">Dialogues and Songs for two Voyces</hi>.</head>

@@ -5,7 +5,7 @@
          xmlns:teix="http://www.tei-c.org/ns/Examples"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2018-10-29T16:26:12Z. .
+Schema generated from ODD source 2018-11-01T15:46:20Z. .
 TEI Edition: Version 3.4.0. Last updated on
 	23rd July 2018, revision 1fa0b54
 TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 3.4.0/
@@ -6416,7 +6416,7 @@ Sample values include: 1] index; 2] toc; 3] figlist; 4] tablist</a:documentation
    </define>
    <define name="notatedMusic">
       <element name="notatedMusic">
-         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">encodes the presence of music notation in a text. Some MEI elements are allowed within. [14.3. Notated Music in Written Text]</a:documentation>
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">encodes the presence of music notation in a text [14.3. Notated Music in Written Text]</a:documentation>
          <zeroOrMore>
             <choice>
                <ref name="model.labelLike"/>
@@ -9479,18 +9479,20 @@ Sample values include: 1] homeoteleuton; 2] homeoarchy; 3] paleographicConfusion
                <choice>
                   <ref name="model.rdgLike"/>
                   <ref name="model.noteLike"/>
-            
-                  <ref name="rdgGrp"/>      
+                  <ref name="rdgGrp"/>
                </choice>
             </zeroOrMore>
          </group>
          <ref name="att.global.attributes"/>
          <optional>
             <attribute name="type">
-               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">classifies the variation contained in this element according to some convenient typology.</a:documentation>
-               <data type="token">
-                  <param name="pattern">(\p{L}|\p{N}|\p{P}|\p{S})+</param>
-               </data>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+               <choice>
+                  <value>punct</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Indicates a variant in punctuation.</a:documentation>
+                  <value>stanza_break</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Indicates a variant in the presence / absence of a stanza. rdgs should address the lg and l where this happens. verse verse  </a:documentation>
+               </choice>
             </attribute>
          </optional>
          <optional>

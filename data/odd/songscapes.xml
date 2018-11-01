@@ -158,15 +158,42 @@
                         </attList>
                     </elementSpec>
                     
+                    <elementSpec ident="app" mode="change">
+                        <attList>
+                            <attDef ident="type" usage="opt" mode="replace">
+                                <valList type="closed">
+                                    <valItem ident="punct">
+                                        <desc>Indicates a variant in punctuation.</desc>
+                                    </valItem>
+                                    <valItem ident="stanza_break">
+                                        <desc>Indicates a variant in the presence / absence of a stanza.
+                                            <gi>rdg</gi>s should address the <gi>lg</gi> and <gi>l</gi>
+                                            where this happens.
+                                            <egXML xmlns="http://www.tei-c.org/ns/Examples">                                                
+                                                <!-- source A -->
+                                                <lg xml:id="sourceAvar1">
+                                                    <l>verse</l>
+                                                </lg>
+                                                <!-- source B -->
+                                                <l xml:id="sourceBvar1">verse</l>
+                                                <!-- collation -->
+                                                <app type="stanza_break">
+                                                    <rdg wit="#A">
+                                                        <ptr target="A.xml#sourceAvar1"/>
+                                                    </rdg>
+                                                    <rdg wit="#B">
+                                                        <ptr target="A.xml#sourceBvar1"/>
+                                                    </rdg>
+                                                </app>
+                                            </egXML>
+                                        </desc>
+                                    </valItem>
+                                </valList>
+                            </attDef>
+                        </attList>
+                    </elementSpec>
+                    
                     <elementSpec xmlns="http://www.tei-c.org/ns/1.0" module="figures" ident="notatedMusic" mode="change">
-                        <equiv/>
-                        <desc>encodes the presence of music notation in a text. Some MEI elements are allowed within.</desc>
-                        <classes>
-                            <memberOf key="model.global"/>
-                            <memberOf key="att.global"/>
-                            <memberOf key="att.placement"/>
-                            <memberOf key="att.typed"/>
-                        </classes>
                         <content>
                             <zeroOrMore xmlns="http://relaxng.org/ns/structure/1.0">
                                 <choice>
@@ -185,29 +212,6 @@
                                 </rng:choice>
                             </rng:optional>
                         </content>
-                        <exemplum xml:lang="en">
-                            <egXML xmlns="http://www.tei-c.org/ns/Examples">
-                                <notatedMusic>
-                                    <ptr target="bar1.xml"/>
-                                    <graphic url="bar1.jpg"/>
-                                    <desc>First bar of Chopin's Scherzo No.3 Op.39</desc>
-                                </notatedMusic>
-                            </egXML>
-                        </exemplum>
-                        <remarks> <p>It is possible to describe
-                            the content of the notation using elements from the model.labelLike class and it is possible
-                            to point to an external representation using elements from model.ptrLike. It is possible to
-                            specify the location of digital objects representing the notated music in other media such
-                            as images or audio-visual files. The encoder's interpretation of the correspondence between
-                            the notated music and these digital objects is not encoded explicitly. We recommend the use
-                            of graphic and binaryObject mainly as a fallback mechanism when the notated music format is
-                            not displayable by the application using the encoding. The alignment of encoded notated
-                            music, images carrying the notation, and audio files is a complex matter for which we refer
-                            the encoder to other formats and specifications such as MPEG-SMR.</p>
-                            <p>In this TEI with Music Notation customisation, some
-                                elements from MEI are allowed to occur within the element to
-                                encode the music notation.</p></remarks>
-                        
                     </elementSpec>
                     
                     <!-- ==== MEI Modules ==== -->
@@ -276,13 +280,13 @@
                         </content>
                     </macroSpec>
                     
-                    <!-- Make @source mandatory when applicable. -->
+                    <!-- Make @source recommended. -->
                     
                     <classSpec type="atts" module="MEI.shared" ident="mei_att.staffident" mode="replace">
                         <desc>signifies the staff on which a notated event occurs or to
                             which a control event applies.</desc>
                         <attList>
-                            <attDef ident="staff" usage="mwa"/>
+                            <attDef ident="staff" usage="rec"/>
                         </attList>
                         <remarks><p>The attribute is made mandatory when applicable instead of always mandatory to allow MEI fragments.</p></remarks>
                     </classSpec>

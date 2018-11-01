@@ -32,12 +32,12 @@
             <notatedMusic>
             <!-- MEI goes here -->
           </notatedMusic>
-          <div type="underlay">
-            <lg type="stanza" rend="italic">
+          <div type="underlay" xml:lang="it">
+            <lg type="stanza">
             <l>Inquel gelato core una voce;</l>
             <l>piagne madona se gl'occi vastri a due voce.</l>
           </lg>
-            <lg type="stanza" rend="italic">
+            <lg type="stanza">
             <l>O sempre equando, tudi salvar mi cirche,</l>
             <l>certe e scorno, misera non creda,</l>
             <l>ohi me de lumi gia,</l>

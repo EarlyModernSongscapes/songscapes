@@ -40,7 +40,7 @@
             <l>Sittinge uppon a Rock in <choice><abbr>y<hi rend="superscript">e</hi></abbr><expan>the</expan></choice> Island Naxos thus Complaines</l>
         </head>
           <notatedMusic>
-          <!-- MEI goes here -->
+            <xi:include href="../mei/Theseus,_O_Theseus,_hark!-BL_53723.mei"/>
         </notatedMusic>
         <div type="underlay">
         <lg type="stanza">

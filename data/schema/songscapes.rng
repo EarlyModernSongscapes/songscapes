@@ -5,7 +5,7 @@
          xmlns:teix="http://www.tei-c.org/ns/Examples"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2018-11-01T15:46:20Z. .
+Schema generated from ODD source 2018-11-02T20:58:22Z. .
 TEI Edition: Version 3.4.0. Last updated on
 	23rd July 2018, revision 1fa0b54
 TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 3.4.0/
@@ -14305,8 +14305,12 @@ Suggested values include: 1] byte; 2] char; 3] cm; 4] in; 5] issue; 6] mm; 7] pa
    <define name="mei_att.staffident.attribute.staff">
       <optional>
          <attribute name="staff">
-            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-            <text/>
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Signifies the staff on which a notated event occurs or to which a control event applies. Mandatory when applicable.</a:documentation>
+            <list>
+               <oneOrMore>
+                  <data type="positiveInteger"/>
+               </oneOrMore>
+            </list>
          </attribute>
       </optional>
    </define>
@@ -17459,6 +17463,12 @@ Suggested values include: 1] abstract; 2] ack; 3] appendix; 4] bibliography; 5] 
          </pattern>
          <ref name="mei_att.meiversion.attributes"/>
          <ref name="mei_att.id.attributes"/>
+         <optional>
+            <attribute name="xml:base">
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Provides a base URI reference with which applications can resolve relative URI references into absolute URI references.</a:documentation>
+               <ref name="mei_data.URI"/>
+            </attribute>
+         </optional>
          <empty/>
       </element>
    </define>

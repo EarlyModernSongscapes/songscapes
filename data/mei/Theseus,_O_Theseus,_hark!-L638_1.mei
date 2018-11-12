@@ -5,9 +5,6 @@
         <titleStmt xml:id="m-4">
             <title xml:id="m-10">Theseus, O Theseus</title>
             <composer xml:id="m-11">Henry Lawes</composer>
-            <respStmt xml:id="m-13">
-                <persName xml:id="m-14"/>
-            </respStmt>
         </titleStmt>
         <pubStmt xml:id="m-15">
             <availability xml:id="m-16">
@@ -40,15 +37,11 @@
     <body xml:id="m-25">
         <mdiv xml:id="m-26">
             <score xml:id="m-27">
-                <scoreDef xml:id="m-28" lyric.name="Plantin MT Std" meter.count="2" meter.unit="2" music.name="Opus Std" page.botmar="15mm" page.height="279.4mm" page.leftmar="15mm" page.rightmar="15mm" page.topmar="15mm" page.width="215.9mm" ppq="256" text.name="Plantin MT Std">
+                <scoreDef xml:id="m-28" lyric.name="Plantin MT Std" meter.count="2" meter.unit="2" music.name="Opus Std" page.botmar="15mm" page.height="279.4mm" page.leftmar="15mm" page.rightmar="15mm" page.topmar="15mm" page.width="215.9mm" text.name="Plantin MT Std">
                     <staffGrp xml:id="m-29">
                         <staffDef xml:id="m-30" clef.line="2" clef.shape="G" key.mode="minor" key.sig="1f" lines="5" n="1">
-                            <!-- keyboard.piano.grand.bright -->
-                            <instrDef xml:id="m-32" midi.channel="1" midi.pan="63" midi.volume="100"/>
                         </staffDef>
                         <staffDef xml:id="m-33" clef.line="4" clef.shape="F" key.mode="minor" key.sig="1f" lines="5" n="2">
-                            <!-- keyboard.piano.grand.bright -->
-                            <instrDef xml:id="m-35" midi.channel="1" midi.pan="63" midi.volume="100"/>
                         </staffDef>
                     </staffGrp>
                 </scoreDef>
@@ -4830,17 +4823,17 @@
                                     </verse>
                                 </note>
                                 <beam xml:id="m-2972">
-                                    <note xml:id="m-2971" dur="8" dur.ges="128p" oct="4" pname="e" pnum="67" stem.dir="up">
+                                    <note xml:id="m-2971" dur="8" dur.ges="128p" oct="4" pname="g" pnum="67" stem.dir="up">
                                         <verse xml:id="m-2978" n="1">
                                             <syl xml:id="m-2979" wordpos="t">ing</syl>
                                         </verse>
                                     </note>
-                                    <note xml:id="m-2974" dots="1" dur="8" dur.ges="192p" oct="4" pname="e" pnum="67" stem.dir="up">
+                                    <note xml:id="m-2974" dots="1" dur="8" dur.ges="192p" oct="4" pname="g" pnum="67" stem.dir="up">
                                         <verse xml:id="m-2980" n="1">
                                             <syl xml:id="m-2981" wordpos="i">like</syl>
                                         </verse>
                                     </note>
-                                    <note xml:id="m-2975" dur="16" dur.ges="64p" oct="4" pname="d" pnum="65" stem.dir="up"/>
+                                    <note xml:id="m-2975" dur="16" dur.ges="64p" oct="4" pname="f" pnum="65" stem.dir="up"/>
                                 </beam>
                             </layer>
                         </staff>
@@ -4858,7 +4851,7 @@
                     <measure xml:id="m-2988" n="131">
                         <staff xml:id="m-2989" n="1">
                             <layer xml:id="m-2990" n="1">
-                                <note xml:id="m-2991" dur="2" dur.ges="512p" oct="4" pname="d" pnum="65" stem.dir="up">
+                                <note xml:id="m-2991" dur="2" dur.ges="512p" oct="4" pname="f" pnum="65" stem.dir="up">
                                     <verse xml:id="m-2996" n="1">
                                         <syl xml:id="m-2997" wordpos="i">me.</syl>
                                     </verse>

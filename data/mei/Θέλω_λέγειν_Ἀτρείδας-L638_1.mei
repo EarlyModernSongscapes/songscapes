@@ -102,13 +102,13 @@
                                     </note>
                                     <note xml:id="m-63" dur="8" dur.ges="128p" oct="4" pname="b" pnum="71" stem.dir="down">
                                         <verse xml:id="m-82" n="1">
-                                            <syl xml:id="m-83" con="d" wordpos="i"><rend fontstyle="italic">Ἀτ</rend></syl>
+                                            <syl xml:id="m-83" con="d" wordpos="i"><rend fontstyle="italic">Ἀ</rend></syl>
                                         </verse>
                                     </note>
                                 </beam>
                                 <note xml:id="m-64" dur="2" dur.ges="512p" oct="5" pname="d" pnum="74" stem.dir="down">
                                     <verse xml:id="m-84" n="1">
-                                        <syl xml:id="m-85" con="d" wordpos="m"><rend fontstyle="italic">ρεί</rend></syl>
+                                        <syl xml:id="m-85" con="d" wordpos="m"><rend fontstyle="italic">τρεί</rend></syl>
                                     </verse>
                                 </note>
                             </layer>
@@ -184,7 +184,7 @@
                                 </note>
                                 <note xml:id="m-113" dots="1" dur="4" dur.ges="384p" oct="5" pname="e" pnum="76" stem.dir="down">
                                     <verse xml:id="m-127" n="1">
-                                        <syl xml:id="m-128" con="d" wordpos="i"><rend fontstyle="italic">ᾄδ</rend></syl>
+                                        <syl xml:id="m-128" con="d" wordpos="i"><rend fontstyle="italic">ᾄ</rend></syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-114" dur="8" dur.ges="128p" oct="5" pname="d" pnum="74" stem.dir="down"/>
@@ -203,7 +203,7 @@
                             <layer xml:id="m-125" n="1">
                                 <note xml:id="m-126" dur="1" dur.ges="1024p" oct="5" pname="d" pnum="74" stem.dir="down">
                                     <verse xml:id="m-129" n="1">
-                                        <syl xml:id="m-130" wordpos="t"><rend fontstyle="italic">ειν,</rend></syl>
+                                        <syl xml:id="m-130" wordpos="t"><rend fontstyle="italic">δειν,</rend></syl>
                                     </verse>
                                 </note>
                             </layer>
@@ -231,7 +231,7 @@
                                 </note>
                                 <note xml:id="m-141" dur="8" dur.ges="128p" oct="4" pname="a" pnum="69" stem.dir="up">
                                     <verse xml:id="m-156" n="1">
-                                        <syl xml:id="m-157" con="d" wordpos="m"><rend fontstyle="italic">βιτ</rend></syl>
+                                        <syl xml:id="m-157" con="d" wordpos="m"><rend fontstyle="italic">βι</rend></syl>
                                     </verse>
                                 </note>
                             </layer>
@@ -247,7 +247,7 @@
                             <layer xml:id="m-149" n="1">
                                 <note xml:id="m-150" dur="4" dur.ges="256p" oct="4" pname="a" pnum="69" stem.dir="up">
                                     <verse xml:id="m-158" n="1">
-                                        <syl xml:id="m-159" wordpos="t"><rend fontstyle="italic">ος</rend></syl>
+                                        <syl xml:id="m-159" wordpos="t"><rend fontstyle="italic">τος</rend></syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-151" dur="4" dur.ges="256p" oct="4" pname="b" pnum="71" stem.dir="down">
@@ -612,7 +612,7 @@
                                 </note>
                                 <note xml:id="m-376" dur="8" dur.ges="128p" oct="5" pname="e" pnum="76" stem.dir="down">
                                     <verse xml:id="m-394" n="1">
-                                        <syl xml:id="m-395" con="d" wordpos="i"><rend fontstyle="italic">λύρ</rend></syl>
+                                        <syl xml:id="m-395" con="d" wordpos="i"><rend fontstyle="italic">λύ</rend></syl>
                                     </verse>
                                 </note>
                             </layer>
@@ -630,7 +630,7 @@
                                 <note xml:id="m-388" dur="4" dur.ges="256p" oct="5" pname="c" pnum="73" stem.dir="down">
                                     <accid xml:id="m-389" accid="s"/>
                                     <verse xml:id="m-396" n="1">
-                                        <syl xml:id="m-397" wordpos="t"><rend fontstyle="italic">ην</rend></syl>
+                                        <syl xml:id="m-397" wordpos="t"><rend fontstyle="italic">ρην</rend></syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-390" dur="4" dur.ges="256p" oct="5" pname="d" pnum="74" stem.dir="down">
@@ -641,7 +641,7 @@
                                 <note xml:id="m-392" dots="1" dur="4" dur.ges="384p" oct="5" pname="e" pnum="76" stem.dir="down"/>
                                 <note xml:id="m-393" dur="8" dur.ges="128p" oct="5" pname="d" pnum="74" stem.dir="down">
                                     <verse xml:id="m-414" n="1">
-                                        <syl xml:id="m-415" con="d" wordpos="m"><rend fontstyle="italic">πατ</rend></syl>
+                                        <syl xml:id="m-415" con="d" wordpos="m"><rend fontstyle="italic">πα</rend></syl>
                                     </verse>
                                 </note>
                             </layer>
@@ -660,7 +660,7 @@
                             <layer xml:id="m-405" n="1">
                                 <note xml:id="m-406" dur="2" dur.ges="512p" oct="5" pname="d" pnum="74" stem.dir="down">
                                     <verse xml:id="m-416" n="1">
-                                        <syl xml:id="m-417" wordpos="t"><rend fontstyle="italic">αν·</rend></syl>
+                                        <syl xml:id="m-417" wordpos="t"><rend fontstyle="italic">ταν·</rend></syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-407" dur="4" dur.ges="256p" oct="5" pname="d" pnum="74" stem.dir="down">
@@ -738,12 +738,12 @@
                             <layer xml:id="m-458" n="1">
                                 <note xml:id="m-459" dots="1" dur="4" dur.ges="384p" oct="5" pname="d" pnum="74" stem.dir="down">
                                     <verse xml:id="m-462" n="1">
-                                        <syl xml:id="m-463" con="d" wordpos="i"><rend fontstyle="italic">Ἡρακ</rend></syl>
+                                        <syl xml:id="m-463" con="d" wordpos="i"><rend fontstyle="italic">Ἡρα</rend></syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-460" dur="8" dur.ges="128p" oct="5" pname="c" pnum="72" stem.dir="down">
                                     <verse xml:id="m-464" n="1">
-                                        <syl xml:id="m-465" con="d" wordpos="m"><rend fontstyle="italic">λέ</rend></syl>
+                                        <syl xml:id="m-465" con="d" wordpos="m"><rend fontstyle="italic">κλέ</rend></syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-461" dur="2" dur.ges="512p" oct="5" pname="c" pnum="72" stem.dir="down">
@@ -1072,12 +1072,12 @@
                             <layer xml:id="m-661" n="1">
                                 <note xml:id="m-662" dur="2" dur.ges="512p" oct="5" pname="d" pnum="74" stem.dir="down">
                                     <verse xml:id="m-665" n="1">
-                                        <syl xml:id="m-666" con="d" wordpos="i"><rend fontstyle="italic">Mό</rend></syl>
+                                        <syl xml:id="m-666" con="d" wordpos="i"><rend fontstyle="italic">Mόν</rend></syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-663" dots="1" dur="2" dur.ges="768p" oct="4" pname="a" pnum="69" stem.dir="up">
                                     <verse xml:id="m-667" n="1">
-                                        <syl xml:id="m-668" wordpos="t"><rend fontstyle="italic">νους</rend></syl>
+                                        <syl xml:id="m-668" wordpos="t"><rend fontstyle="italic">ους</rend></syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-664" dur="4" dur.ges="256p" oct="4" pname="b" pnum="71" stem.dir="down">
@@ -1170,12 +1170,12 @@
                             <layer xml:id="m-719" n="1">
                                 <note xml:id="m-720" dur="2" dur.ges="512p" oct="5" pname="g" pnum="79" stem.dir="down">
                                     <verse xml:id="m-723" n="1">
-                                        <syl xml:id="m-724" con="d" wordpos="i"><rend fontstyle="italic">μό</rend></syl>
+                                        <syl xml:id="m-724" con="d" wordpos="i"><rend fontstyle="italic">μόν</rend></syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-721" dur="2" dur.ges="512p" oct="5" pname="e" pnum="76" stem.dir="down">
                                     <verse xml:id="m-725" n="1">
-                                        <syl xml:id="m-726" wordpos="t"><rend fontstyle="italic">νους</rend></syl>
+                                        <syl xml:id="m-726" wordpos="t"><rend fontstyle="italic">ους</rend></syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-722" dur="2" dur.ges="512p" oct="5" pname="a" pnum="81" stem.dir="down">

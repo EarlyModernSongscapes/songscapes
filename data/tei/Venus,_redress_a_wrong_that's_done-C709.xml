@@ -27,10 +27,10 @@
   <text>
       <body>
         <div>
-          <head><seg xml:id="v1">To <hi rend="italic">Venus.</hi></seg></head>
+          <head xml:id="v1">To <hi rend="italic">Venus.</hi></head>
             <!-- there is no music in this source -->
           <lg type="stanza">
-            <l rend="indent1"><hi rend="italic">Venus</hi><seg xml:id="v2"/> Redress a wrong thats done</l>
+            <l rend="indent1"><hi rend="italic">Venus</hi> Redress a wrong thats done</l>
             <l rend="indent1">By that young sprightfull Boy<seg xml:id="v3">,</seg> thy Son,</l>
             <l rend="indent1">He wounds, and then Laughs at the sore,</l>
             <l rend="indent1">Hatred it self <seg xml:id="v4">can</seg> do no more.</l>

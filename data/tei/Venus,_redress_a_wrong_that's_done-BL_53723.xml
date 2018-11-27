@@ -35,13 +35,13 @@
   <text>
       <body>
         <div>
-            <notatedMusic>
-            <!-- MEI goes here -->
+          <notatedMusic>
+            <xi:include href="../mei/Venus,_redress_a_wrong_that's_done-BL_53723.mei"/>
           </notatedMusic>
           <div type="underlay">
           <lg type="stanza">
-            <l><seg xml:id="v1"/>Venus<seg xml:id="v2"/> Redres a wronge thats done</l>
-            <l>by that younge sprightfull Boye<seg xml:id="v3"/> thy sone;</l>
+            <l><seg xml:id="v1"/>Venus Redres a wronge thats done</l>
+            <l>by that younge sprightfull Boye thy sone;</l>
             <l>he wounds, and then Laughs at <choice><abbr>y<hi rend="superscript">e</hi></abbr><expan>the</expan></choice> sore,</l>
             <l>Hatred it selfe <seg xml:id="v4">could</seg> doe noe more;</l>
             <l>if I pursue, he's smal<seg xml:id="v5">,</seg> &amp; light,</l>

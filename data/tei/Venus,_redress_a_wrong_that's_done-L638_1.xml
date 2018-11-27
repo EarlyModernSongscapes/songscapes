@@ -28,19 +28,18 @@
    <text>
       <body>
          <div xml:id="song02">
-            <head rend="italic">
-               <seg xml:id="song02v1">A Complaint against <hi rend="roman">Cupid.</hi>
-               </seg>
-            </head>
-            <notatedMusic><!-- MEI goes here --></notatedMusic>
+            <head rend="italic" xml:id="song02v1">A Complaint against <hi rend="roman">Cupid.</hi></head>
+            <notatedMusic>
+               <xi:include href="../mei/Venus,_redress_a_wrong_that's_done-L638_1.mei"/>
+            </notatedMusic>
             <div type="underlay">
                <lg type="stanza">
                   <l><hi rend="italic">Venus<seg xml:id="song02v2">,</seg>
                      </hi> redress a wrong thats done</l>
-                  <l>by that yong sprightful boy<seg xml:id="song02v3"/> thy son;</l>
+                  <l>by that yong sprightful boy thy son;</l>
                   <l>he wounds, and then laughs at the sore,</l>
                   <l>hatred it self <seg xml:id="song02v4">could</seg> do no more;</l>
-                  <l>if I pursue, he's smal<seg xml:id="song02v5"/> &amp; light,</l>
+                  <l>if I pursue, he's smal &amp; light,</l>
                   <l>both seen at once, and out of sight;</l>
                   <l>if I do flye, he's wing'd, &amp; then</l>
                   <l>at the <seg xml:id="song02v6">first</seg> step I'm caught again.</l>

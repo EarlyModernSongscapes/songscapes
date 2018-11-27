@@ -28,15 +28,15 @@
    <text>
       <body>
          <div xml:id="song27">
-            <head rend="italic" xml:id="v1ch">
+            <head rend="italic" xml:id="song27v1ch">
                <hi rend="roman">Desperato's</hi> Banquet.</head>
-            <stage type="voice" rend="italic" xml:id="v2ch">For a Basse alone.</stage>
+            <stage type="voice" rend="italic" xml:id="song27v2ch">For a Basse alone.</stage>
             <notatedMusic><!-- MEI goes here --></notatedMusic>
             <div type="underlay">
                <lg type="stanza">
                   <l rend="indent2">Come heavy Souls, oppressed with the weight</l>
                   <l rend="indent2">of crimes, or pangs, or want of your delight;</l>
-                  <l rend="indent3">come <seg xml:id="song27v3ch">drown</seg> in <hi rend="italic" xml:id="v4ch">Lethes</hi> sleepy Lake<seg xml:id="song27vch8">,</seg>
+                  <l rend="indent3">come <seg xml:id="song27v3ch">drown</seg> in <hi rend="italic" xml:id="song27v4ch">Lethes</hi> sleepy Lake<seg xml:id="song27vch8">,</seg>
                   </l>
                   <l rend="indent4">what ever makes you ake;</l>
                   <l rend="indent4">drink <seg xml:id="song27v5ch">healths</seg> from poys'ned bowls<seg xml:id="song27vch9">,</seg>
@@ -47,7 +47,7 @@
                      <seg xml:id="song27v6ch">that</seg> all may have<seg xml:id="song27v10ch">,</seg></l>
                   <l rend="indent2">ther's no distinction in the Grave.</l>
                </lg>
-               <lg type="stanza" xml:id="v7ch">
+               <lg type="stanza" xml:id="song27v7ch">
                   <l rend="indent1">Lay down your loads before death's Iron door;</l>
                   <l>sigh, and sigh out, groan once, and groan no more.</l>
                </lg>

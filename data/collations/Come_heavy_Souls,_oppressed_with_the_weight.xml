@@ -11,10 +11,14 @@
             <p>Early Modern Songscapes Project - 2018</p>
          </publicationStmt>
          <sourceDesc>
-            <listWit>
-              <witness xml:id="L638_1"/>
-              <witness xml:id="S5983"/>
-            </listWit>
+           <listWit>
+             <witness xml:id="L638_1">
+               TEI Digital Edition located at <ptr target="https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Achsowtw/datastream/TEI-L638_1/view"/>
+             </witness>
+             <witness xml:id="S5983">
+               TEI Digital Edition located at <ptr target="https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Achsowtw/datastream/TEI-S5983/view"/>
+             </witness>    
+           </listWit>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
@@ -93,25 +97,7 @@
             <rdg wit="#S5983"/>
           </app>
         </div>
-        <div>
-          <head>Music Collation</head>
-          <notatedMusic>
-            <mei:mei>
-              <mei:meiHead>
-                <mei:fileDesc>
-                  <mei:titleStmt>
-                    <mei:title></mei:title>
-                  </mei:titleStmt>
-                  <mei:pubStmt></mei:pubStmt>
-                  <mei:sourceDesc>
-                    <mei:source xml:id="M-L638_1"/>
-                  </mei:sourceDesc>
-                </mei:fileDesc>
-              </mei:meiHead>
-              <mei:music/>
-            </mei:mei>
-          </notatedMusic>
-        </div>
+        <!-- No music -->
       </body>
   </text>
 </TEI>

@@ -189,17 +189,17 @@
                                 </note>
                                 <note xml:id="m-117" dur="4" dur.ges="256p" oct="4" pname="b" pnum="71" stem.dir="down">
                                     <verse xml:id="m-122" n="1">
-                                        <syl xml:id="m-123" con="d" wordpos="i"><rend fontstyle="italic">Thanks</rend></syl>
+                                        <syl xml:id="m-123" con="d" wordpos="i" fontstyle="italic">Thanks</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-118" dots="1" dur="4" dur.ges="384p" oct="5" pname="c" pnum="72" stem.dir="down">
                                     <verse xml:id="m-124" n="1">
-                                        <syl xml:id="m-125" con="d" wordpos="m"><rend fontstyle="italic">giv</rend></syl>
+                                        <syl xml:id="m-125" con="d" wordpos="m" fontstyle="italic">giv</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-119" dur="8" dur.ges="128p" oct="4" pname="b" pnum="71" stem.dir="down">
                                     <verse xml:id="m-126" n="1">
-                                        <syl xml:id="m-127" wordpos="t"><rend fontstyle="italic">ing-</rend></syl>
+                                        <syl xml:id="m-127" wordpos="t" fontstyle="italic">ing-</syl>
                                     </verse>
                                 </note>
                             </layer>
@@ -217,7 +217,7 @@
                             <layer xml:id="m-135" n="1">
                                 <note xml:id="m-136" dur="2" dur.ges="512p" oct="4" pname="f" pnum="65" stem.dir="up">
                                     <verse xml:id="m-140" n="1">
-                                        <syl xml:id="m-141" wordpos="i"><rend fontstyle="italic">day.</rend></syl>
+                                        <syl xml:id="m-141" wordpos="i" fontstyle="italic">day.</syl>
                                     </verse>
                                 </note>
                                 <rest xml:id="m-137" dur="4" dur.ges="256p"/>

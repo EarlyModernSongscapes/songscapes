@@ -276,12 +276,12 @@
                                 <note xml:id="m-168" dur="4" dur.ges="256p" oct="3" pname="c" pnum="49" stem.dir="up">
                                     <accid xml:id="m-169" accid="s"/>
                                     <verse xml:id="m-175" n="1">
-                                        <syl xml:id="m-176" con="d" wordpos="i"><rend fontstyle="italic">Leth</rend></syl>
+                                        <syl xml:id="m-176" con="d" wordpos="i" fontstyle="italic">Leth</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-170" dur="4" dur.ges="256p" oct="2" pname="a" pnum="45" stem.dir="up">
                                     <verse xml:id="m-177" n="1">
-                                        <syl xml:id="m-178" wordpos="t"><rend fontstyle="italic">es</rend></syl>
+                                        <syl xml:id="m-178" wordpos="t" fontstyle="italic">es</syl>
                                     </verse>
                                 </note>
                             </layer>

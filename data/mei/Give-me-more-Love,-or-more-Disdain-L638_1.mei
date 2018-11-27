@@ -611,12 +611,12 @@
                                 </note>
                                 <note xml:id="m-379" dots="1" dur="4" dur.ges="384p" oct="5" pname="f" pnum="77" stem.dir="down">
                                     <verse xml:id="m-383" n="1">
-                                        <syl xml:id="m-384" con="d" wordpos="i"><rend fontstyle="italic">Da</rend></syl>
+                                        <syl xml:id="m-384" con="d" wordpos="i" fontstyle="italic">Da</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-380" dur="8" dur.ges="128p" oct="5" pname="e" pnum="76" stem.dir="down">
                                     <verse xml:id="m-385" n="1">
-                                        <syl xml:id="m-386" wordpos="t"><rend fontstyle="italic">na</rend></syl>
+                                        <syl xml:id="m-386" wordpos="t" fontstyle="italic">na</syl>
                                     </verse>
                                 </note>
                             </layer>

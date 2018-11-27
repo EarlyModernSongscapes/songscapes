@@ -682,13 +682,13 @@
                                 <note xml:id="m-421" dur="4" dur.ges="256p" oct="5" pname="c" pnum="73" stem.dir="down">
                                     <accid xml:id="m-422" accid="s"/>
                                     <verse xml:id="m-430" n="1">
-                                        <syl xml:id="m-431" con="d" wordpos="i"><rend fontstyle="italic">Ap</rend></syl>
+                                        <syl xml:id="m-431" con="d" wordpos="i" fontstyle="italic">Ap</syl>
                                     </verse>
                                 </note>
                                 <beam xml:id="m-424">
                                     <note xml:id="m-423" dots="1" dur="8" dur.ges="192p" oct="5" pname="d" pnum="74" stem.dir="down">
                                         <verse xml:id="m-432" n="1">
-                                            <syl xml:id="m-433" wordpos="t"><rend fontstyle="italic">ril's,</rend></syl>
+                                            <syl xml:id="m-433" wordpos="t" fontstyle="italic">ril's,</syl>
                                         </verse>
                                     </note>
                                     <note xml:id="m-425" dur="16" dur.ges="64p" oct="5" pname="d" pnum="74" stem.dir="down">

@@ -57,12 +57,12 @@
                                 <rest xml:id="m-39" dur="4" dur.ges="256p"/>
                                 <note xml:id="m-40" dur="2" dur.ges="512p" oct="5" pname="d" pnum="74" stem.dir="down">
                                     <verse xml:id="m-42" n="1">
-                                        <syl xml:id="m-43" con="d" wordpos="i"><rend fontstyle="italic">Ve</rend></syl>
+                                        <syl xml:id="m-43" con="d" wordpos="i" fontstyle="italic">Ve</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-41" dur="4" dur.ges="256p" oct="4" pname="a" pnum="69" stem.dir="up">
                                     <verse xml:id="m-44" n="1">
-                                        <syl xml:id="m-45" wordpos="t"><rend fontstyle="italic">nus,</rend></syl>
+                                        <syl xml:id="m-45" wordpos="t" fontstyle="italic">nus,</syl>
                                     </verse>
                                 </note>
                             </layer>

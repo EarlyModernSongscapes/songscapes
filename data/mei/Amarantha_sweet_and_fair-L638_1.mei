@@ -58,24 +58,24 @@
                                 <beam xml:id="m-41">
                                     <note xml:id="m-40" dots="1" dur="8" dur.ges="192p" oct="5" pname="d" pnum="74" stem.dir="down">
                                         <verse xml:id="m-49" n="1">
-                                            <syl xml:id="m-50" con="d" wordpos="i"><rend fontstyle="italic">Am</rend></syl>
+                                            <syl xml:id="m-50" con="d" wordpos="i" fontstyle="italic">Am</syl>
                                         </verse>
                                     </note>
                                     <note xml:id="m-42" dur="16" dur.ges="64p" oct="5" pname="d" pnum="74" stem.dir="down">
                                         <verse xml:id="m-51" n="1">
-                                            <syl xml:id="m-52" con="d" wordpos="m"><rend fontstyle="italic">ar</rend></syl>
+                                            <syl xml:id="m-52" con="d" wordpos="m" fontstyle="italic">ar</syl>
                                         </verse>
                                     </note>
                                 </beam>
                                 <beam xml:id="m-44">
                                     <note xml:id="m-43" dots="1" dur="8" dur.ges="192p" oct="5" pname="d" pnum="74" stem.dir="down">
                                         <verse xml:id="m-53" n="1">
-                                            <syl xml:id="m-54" con="d" wordpos="m"><rend fontstyle="italic">an</rend></syl>
+                                            <syl xml:id="m-54" con="d" wordpos="m" fontstyle="italic">an</syl>
                                         </verse>
                                     </note>
                                     <note xml:id="m-45" dur="16" dur.ges="64p" oct="5" pname="d" pnum="74" stem.dir="down">
                                         <verse xml:id="m-55" n="1">
-                                            <syl xml:id="m-56" wordpos="t"><rend fontstyle="italic">tha</rend></syl>
+                                            <syl xml:id="m-56" wordpos="t" fontstyle="italic">tha</syl>
                                         </verse>
                                     </note>
                                 </beam>

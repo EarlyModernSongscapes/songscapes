@@ -101,7 +101,7 @@
                             <layer xml:id="m-65" n="1">
                                 <note xml:id="m-66" dur="1" dur.ges="1024p" oct="4" pname="a" pnum="69" stem.dir="up">
                                     <verse xml:id="m-68" n="1">
-                                        <syl xml:id="m-69" con="d" wordpos="i"><rend fontstyle="italic">Chlor</rend></syl>
+                                        <syl xml:id="m-69" con="d" wordpos="i" fontstyle="italic">Chlor</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-67" dur="2" dur.ges="512p" oct="4" pname="a" pnum="69" stem.dir="up">
@@ -115,12 +115,12 @@
                             <layer xml:id="m-73" n="1">
                                 <note xml:id="m-74" dur="1" dur.ges="1024p" oct="5" pname="d" pnum="74" stem.dir="down">
                                     <verse xml:id="m-76" n="1">
-                                        <syl xml:id="m-77" con="d" wordpos="i"><rend fontstyle="italic">Chlor</rend></syl>
+                                        <syl xml:id="m-77" con="d" wordpos="i" fontstyle="italic">Chlor</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-75" dur="2" dur.ges="512p" oct="5" pname="c" pnum="72" stem.dir="down">
                                     <verse xml:id="m-78" n="1">
-                                        <syl xml:id="m-79" wordpos="t"><rend fontstyle="italic">is</rend></syl>
+                                        <syl xml:id="m-79" wordpos="t" fontstyle="italic">is</syl>
                                     </verse>
                                 </note>
                             </layer>
@@ -130,13 +130,13 @@
                                 <note xml:id="m-82" dur="1" dur.ges="1024p" oct="3" pname="f" pnum="54" stem.dir="down">
                                     <accid xml:id="m-83" accid="s"/>
                                     <verse xml:id="m-86" n="1">
-                                        <syl xml:id="m-87" con="d" wordpos="i"><rend fontstyle="italic">Chlor</rend></syl>
+                                        <syl xml:id="m-87" con="d" wordpos="i" fontstyle="italic">Chlor</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-84" dur="2" dur.ges="512p" oct="3" pname="f" pnum="54" stem.dir="down">
                                     <accid xml:id="m-85" accid.ges="s"/>
                                     <verse xml:id="m-88" n="1">
-                                        <syl xml:id="m-89" wordpos="t"><rend fontstyle="italic">is</rend></syl>
+                                        <syl xml:id="m-89" wordpos="t" fontstyle="italic">is</syl>
                                     </verse>
                                 </note>
                             </layer>

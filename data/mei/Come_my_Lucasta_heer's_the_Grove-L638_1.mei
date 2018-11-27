@@ -78,17 +78,17 @@
                             <layer xml:id="m-51" n="1">
                                 <note xml:id="m-52" dots="1" dur="2" dur.ges="768p" oct="4" pname="f" pnum="65" stem.dir="up">
                                     <verse xml:id="m-56" n="1">
-                                        <syl xml:id="m-57" con="d" wordpos="i"><rend fontstyle="italic">Lu</rend></syl>
+                                        <syl xml:id="m-57" con="d" wordpos="i" fontstyle="italic">Lu</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-54" dur="4" dur.ges="256p" oct="4" pname="e" pnum="64" stem.dir="up">
                                     <verse xml:id="m-58" n="1">
-                                        <syl xml:id="m-59" con="d" wordpos="m"><rend fontstyle="italic">ca</rend></syl>
+                                        <syl xml:id="m-59" con="d" wordpos="m" fontstyle="italic">ca</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-55" dur="2" dur.ges="512p" oct="4" pname="d" pnum="62" stem.dir="up">
                                     <verse xml:id="m-60" n="1">
-                                        <syl xml:id="m-61" wordpos="t"><rend fontstyle="italic">sta</rend></syl>
+                                        <syl xml:id="m-61" wordpos="t" fontstyle="italic">sta</syl>
                                     </verse>
                                 </note>
                             </layer>

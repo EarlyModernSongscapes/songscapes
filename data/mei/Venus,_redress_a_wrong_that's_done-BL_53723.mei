@@ -670,6 +670,7 @@
                             </layer>
                         </staff>
                         <fermata xml:id="m-408" form="norm" layer="1" shape="curved" staff="1" startid="#m-406" tstamp="1"/>
+                        <fermata xml:id="m-408a" form="norm" layer="1" shape="curved" staff="2" startid="#m-415" tstamp="1"/>
                     </measure>
                     <scoreDef xml:id="m-436" meter.count="3" meter.unit="2"/>
                     <measure xml:id="m-417" n="18">
@@ -787,6 +788,7 @@
                             </layer>
                         </staff>
                         <fermata xml:id="m-476" form="norm" layer="1" shape="curved" staff="1" startid="#m-475" tstamp="1"/>
+                        <fermata xml:id="m-476a" form="norm" layer="1" shape="curved" staff="2" startid="#m-484" tstamp="1"/>
                     </measure>
                     <measure xml:id="m-488" n="22">
                         <staff xml:id="m-489" n="1">

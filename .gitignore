@@ -5,3 +5,6 @@
 **/._.DS_Store
 .AppleDouble
 .LSOverride
+
+# nodejs
+**/node_modules

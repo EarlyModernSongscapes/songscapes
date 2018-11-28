@@ -672,6 +672,7 @@
                         </staff>
                         <tie xml:id="m-404" endid="#m-405" startid="#m-403"/>
                         <slur xml:id="m-393" layer="1" staff="1" tstamp="1" tstamp2="0m+2.5" startid="m-394"/>
+                        <dir staff="1" startid="#m-396" place="above">𝄋</dir>
                     </measure>
                     <sb xml:id="m-408"/>
                     <measure xml:id="m-407" n="27">

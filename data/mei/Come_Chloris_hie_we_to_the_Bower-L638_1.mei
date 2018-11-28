@@ -493,6 +493,7 @@
                                 </note>
                             </layer>
                         </staff>
+                        <dir staff="1" tstamp="4" place="above">𝄋</dir>
                     </measure>
                     <measure xml:id="m-301" n="9">
                         <staff xml:id="m-302" n="1">

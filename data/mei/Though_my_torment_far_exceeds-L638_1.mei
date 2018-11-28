@@ -837,6 +837,7 @@
                                 <note xml:id="m-520" dur="4" dur.ges="256p" oct="3" pname="c" pnum="48" stem.dir="up"/>
                             </layer>
                         </staff>
+                        <dir staff="1" startid="#m-464" place="above">𝄋</dir>
                     </measure>
                     <pb xml:id="m-523" n="2"/>
                     <sb xml:id="m-522"/>

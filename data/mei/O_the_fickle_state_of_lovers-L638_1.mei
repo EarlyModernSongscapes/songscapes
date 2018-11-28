@@ -489,7 +489,7 @@
                             </layer>
                         </staff>
                         <tie xml:id="m-274" endid="#m-312" startid="#m-273"/>
-                        <tie xml:id="m-288" startid="#m-286"/>
+                        <slur xml:id="m-288" startid="#m-286" endid="#m-290"/>
                     </measure>
                     <measure xml:id="m-309" n="9">
                         <staff xml:id="m-310" n="1">

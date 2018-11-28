@@ -2227,6 +2227,7 @@
                         </staff>
                         <tie xml:id="m-1361" endid="#m-1387" startid="#m-1360"/>
                         <slur xml:id="m-1355" layer="1" staff="1" tstamp="2" tstamp2="0m+2.75" startid="m-1356" endid="m-1358"/>
+                        <dir staff="1" startid="#m-1360" place="above">𝄋</dir>
                     </measure>
                     <measure xml:id="m-1384" n="43">
                         <staff xml:id="m-1385" n="1">

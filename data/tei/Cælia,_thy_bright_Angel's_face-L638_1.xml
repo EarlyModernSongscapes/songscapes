@@ -29,9 +29,7 @@
       <body>
         <div xml:id="song13">
           <head rend="italic">The Celestiall Mistress.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/Cælia,_thy_bright_Angel's_face-L638_1.mei"/></notatedMusic>
           <div type="underlay">
           <lg type="stanza">
             <l>Cælia, thy bright Angels face</l>

@@ -29,9 +29,7 @@
       <body>
         <div xml:id="song29">
           <head rend="italic">Beauty Paramont.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/Come,_come,_thou_glorious_object_of_my_sight-L638_1.mei"/></notatedMusic>
           <div type="underlay">
           <lg type="stanza">
             <l>Come, come, thou glorious object of my sight,</l>

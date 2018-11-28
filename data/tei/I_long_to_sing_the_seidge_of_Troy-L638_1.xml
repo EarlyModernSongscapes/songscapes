@@ -30,13 +30,11 @@
       <body>
         <div xml:id="song26">
           <head rend="italic"><hi rend="roman">Anacreon's</hi> Ode, call'd, The <hi rend="roman">Lute,</hi> Englished and to be sung by a Basse alone.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/I_long_to_sing_the_seidge_of_Troy-L638_1.mei"/></notatedMusic>
           <div type="underlay">
           <lg type="stanza">
             <l>I long to sing the seidge of <hi rend="italic">Troy;</hi></l>
-            <l>or <hi rend="italic">Thebe's</hi> which <hi rend ="italic">Cadmus</hi> rear'd so high;</l>
+            <l>or <hi rend="italic">Thebe's</hi> which <hi rend="italic">Cadmus</hi> rear'd so high;</l>
             <l>but though with hand &amp; voice I strove,</l>
             <l>my Lute will sound nothing but <hi rend="italic">Love.</hi></l>
             <l>I chang'd the strings, but 'twould not do't;</l>

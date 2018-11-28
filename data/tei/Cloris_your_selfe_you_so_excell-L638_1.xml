@@ -29,9 +29,7 @@
       <body>
         <div xml:id="song09">
           <head rend="italic">To the same Lady, singing the former Song.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-            </notatedMusic>
+            <notatedMusic><xi:include href="../mei/Cloris_your_selfe_you_so_excell-L638_1.mei"/></notatedMusic>
           <div type="underlay">
             <lg type="stanza">
               <l><hi rend="italic">Cloris</hi> your selfe you so excell,</l>

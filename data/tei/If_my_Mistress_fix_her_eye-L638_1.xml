@@ -30,9 +30,7 @@
         <div xml:id="song46">
           <head rend="italic">The Captive Lover.</head>
            <head type="voice" rend="italic">For one, two or three Voyces.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/If_my_Mistress_fix_her_eye-L638_1.mei"/></notatedMusic>
         <div type="underlay">
             <lg type="stanza">
             <l>If my Mistress fix her eye</l>

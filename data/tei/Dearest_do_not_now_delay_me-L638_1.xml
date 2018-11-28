@@ -29,9 +29,7 @@
       <body>
         <div xml:id="song16">
           <head rend="italic">To his Mistress upon his going to travell.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/Dearest_do_not_now_delay_me-L638_1.mei"/></notatedMusic>
           <div type="underlay">
           <lg type="stanza">
             <l>Dearest do not now delay me,</l>

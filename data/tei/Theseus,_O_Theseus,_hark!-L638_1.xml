@@ -39,9 +39,7 @@
             </div>
             <div>
                <head xml:id="song01v3">Ariadne <hi rend="italic">sitting upon a Rock in the Island </hi>Naxos, <hi rend="italic">deserted by </hi>Theseus,<hi rend="italic"> thus complains.</hi></head>
-               <notatedMusic>
-                  <xi:include href="../mei/Theseus,_O_Theseus,_hark!-L638_1.mei"/>
-               </notatedMusic>
+               <notatedMusic><xi:include href="../mei/Theseus,_O_Theseus,_hark!-L638_1.mei"/></notatedMusic>
                <div type="underlay">
                   <lg type="stanza">
                      <l><hi rend="italic">Theseus,</hi> O <hi rend="italic">Theseus,</hi> hark! but yet in vain;</l>

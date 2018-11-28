@@ -31,7 +31,7 @@
             <head rend="italic" xml:id="song27v1ch">
                <hi rend="roman">Desperato's</hi> Banquet.</head>
             <stage type="voice" rend="italic" xml:id="song27v2ch">For a Basse alone.</stage>
-            <notatedMusic><!-- MEI goes here --></notatedMusic>
+            <notatedMusic><xi:include href="../mei/Come_heavy_Souls,_oppressed_with_the_weight-L638_1.mei"/></notatedMusic>
             <div type="underlay">
                <lg type="stanza">
                   <l rend="indent2">Come heavy Souls, oppressed with the weight</l>

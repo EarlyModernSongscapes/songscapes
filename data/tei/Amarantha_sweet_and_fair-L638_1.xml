@@ -29,9 +29,7 @@
       <body>
         <div xml:id="song11">
           <head rend="italic">To <hi rend="roman">Amarantha</hi>, To dishevell her haire.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/Amarantha_sweet_and_fair-L638_1.mei"/></notatedMusic>
           <div type="underlay">
           <lg type="stanza">
             <l><hi rend="italic">Amarantha</hi> sweet &amp; fair,</l>

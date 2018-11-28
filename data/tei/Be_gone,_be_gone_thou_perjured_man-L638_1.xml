@@ -29,9 +29,7 @@
       <body>
         <div xml:id="song34">
           <head rend="italic">No Constancy in Man.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-            </notatedMusic>
+            <notatedMusic><xi:include href="../mei/Be_gone,_be_gone_thou_perjured_man-L638_1.mei"/></notatedMusic>
           <div type="underlay">
           <lg type="stanza">
             <l>Be gone, be gone thou perjur'd man,</l>

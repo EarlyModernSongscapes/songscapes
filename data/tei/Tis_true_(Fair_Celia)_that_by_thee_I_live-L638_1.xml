@@ -29,9 +29,7 @@
       <body>
         <div xml:id="song28">
           <head rend="italic">To <hi rend="roman">Cælia</hi>, inviting her to Marriage.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/Tis_true_(Fair_Celia)_that_by_thee_I_live-L638_1.mei"/></notatedMusic>
           <div type="underlay">
           <lg type="stanza">
             <l>Tis true (Fair <hi rend="italic">Celia</hi>) that by thee I live,</l>

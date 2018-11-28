@@ -28,9 +28,7 @@
       <body>
         <div xml:id="song51">
           <head type="voice" rend="italic">a. 3. voc.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/Grieve_not,_dear_Love,_although_we_often_part-L638_1.mei"/></notatedMusic>
         <div type="underlay">
             <lg type="stanza">
               <l>Grieve not, dear Love, although we often part,</l>

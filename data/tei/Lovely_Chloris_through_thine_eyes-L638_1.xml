@@ -29,9 +29,7 @@
       <body>
         <div xml:id="song17">
           <head rend="italic">Love above Beauty.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/Lovely_Chloris_through_thine_eyes-L638_1.mei"/></notatedMusic>
           <div type="underlay">
           <lg type="stanza">
             <l>Lovely <hi rend="italic">Chloris</hi> through thine eyes</l>

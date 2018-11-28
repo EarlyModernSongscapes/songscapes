@@ -29,9 +29,7 @@
       <body>
         <div xml:id="song30">
           <head rend="italic">Youth and Beauty.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/Thou_art_so_fair,_and_yong_withall-L638_1.mei"/></notatedMusic>
           <div type="underlay">
           <lg type="stanza">
             <l>Thou art so fair, and yong withall,</l>

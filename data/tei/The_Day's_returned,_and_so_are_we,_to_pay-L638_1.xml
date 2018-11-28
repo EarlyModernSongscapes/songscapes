@@ -29,9 +29,7 @@
       <body>
         <div xml:id="song32">
           <head rend="italic">An Anniversary on the Nuptials of <hi rend="roman">John</hi> Earle of <hi rend="roman">Bridgewater, July 12. 1652</hi>.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/The_Day's_returned,_and_so_are_we,_to_pay-L638_1.mei"/></notatedMusic>
           <div type="underlay">
           <lg type="stanza">
             <l>The Day's return'd, and so are we, to pay</l>

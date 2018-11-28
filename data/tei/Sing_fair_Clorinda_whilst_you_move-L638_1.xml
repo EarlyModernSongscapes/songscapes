@@ -28,9 +28,7 @@
       <body>
         <div xml:id="song50">
           <head type="voice" rend="italic">a. 3. voc.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/Sing_fair_Clorinda_whilst_you_move-L638_1.mei"/></notatedMusic>
         <div type="underlay">
             <lg type="stanza">
               <l>Sing fair <hi rend="italic">Clorinda</hi> whilst you move</l>

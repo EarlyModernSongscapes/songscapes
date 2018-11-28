@@ -29,9 +29,7 @@
       <body>
         <div xml:id="song33">
           <head rend="italic">Staying in <hi rend="roman">London</hi> after the Act for Banishment, and going to meet a Friend who sail'd the hour appoynted.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/Two_hundred_minutes_are_run_down-L638_1.mei"/></notatedMusic>
           <div type="underlay">
           <lg type="stanza">
             <l>Two hundred minutes are run down,</l>

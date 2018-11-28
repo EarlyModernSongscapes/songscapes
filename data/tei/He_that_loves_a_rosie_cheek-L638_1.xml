@@ -29,9 +29,7 @@
       <body>
         <div xml:id="song07">
           <head rend="italic">Disdaine returned.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-            </notatedMusic>
+            <notatedMusic><xi:include href="../mei/He_that_loves_a_rosie_cheek-L638_1.mei"/></notatedMusic>
           <div type="underlay">
             <lg type="stanza">
               <l>He that love's a rosie cheek,</l>

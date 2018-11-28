@@ -29,9 +29,7 @@
       <body>
         <div xml:id="song35">
           <head rend="italic">Beauties Eclyps'd.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/Ladies_who_gild_the_glittering_Noon-L638_1.mei"/></notatedMusic>
             <div type="underlay">
               <lg type="stanza">
                 <l>Ladies who gild the glitt'ring Noon,</l>

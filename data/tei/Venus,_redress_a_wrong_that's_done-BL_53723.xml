@@ -35,9 +35,7 @@
   <text>
       <body>
         <div>
-          <notatedMusic>
-            <xi:include href="../mei/Venus,_redress_a_wrong_that's_done-BL_53723.mei"/>
-          </notatedMusic>
+          <notatedMusic><xi:include href="../mei/Venus,_redress_a_wrong_that's_done-BL_53723.mei"/></notatedMusic>
           <div type="underlay">
           <lg type="stanza">
             <l><seg xml:id="v1"/>Venus Redres a wronge thats done</l>

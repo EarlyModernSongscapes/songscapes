@@ -29,9 +29,7 @@
       <body>
         <div xml:id="song03">
           <head rend="italic">To his Inconstant Mistress.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/When_thou,_poor_Excommunicate-L638_1.mei"/></notatedMusic>
           <div type="underlay">
           <lg type="stanza">
             <l>When thou, poor Excommunicate</l>

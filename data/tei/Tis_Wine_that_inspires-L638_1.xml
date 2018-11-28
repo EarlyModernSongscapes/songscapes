@@ -29,9 +29,7 @@
       <body>
         <div xml:id="song31a">
           <head rend="italic">The Excellency of Wine.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/Tis_Wine_that_inspires-L638_1.mei"/></notatedMusic>
           <div type="underlay">
           <lg type="stanza">
             <l>Tis Wine that inspires,</l>

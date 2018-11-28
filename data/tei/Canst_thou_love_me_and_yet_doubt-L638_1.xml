@@ -29,9 +29,7 @@
       <body>
         <div xml:id="song20">
           <head rend="italic">The Heart entire.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/Canst_thou_love_me_and_yet_doubt-L638_1.mei"/></notatedMusic>
           <div type="underlay">
           <lg type="stanza">
             <l>Canst thou love me and yet doubt</l>

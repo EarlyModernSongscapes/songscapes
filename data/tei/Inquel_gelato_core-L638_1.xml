@@ -29,9 +29,7 @@
       <body>
         <div xml:id="song53">
             <head>Tavola.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/Inquel_gelato_core-L638_1.mei"/></notatedMusic>
           <div type="underlay" xml:lang="it">
             <lg type="stanza">
             <l>Inquel gelato core una voce;</l>

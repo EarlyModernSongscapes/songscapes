@@ -30,9 +30,7 @@
         <div xml:id="song47">
           <head rend="italic">To a Lady putting off her veile.</head>
             <head type="voice" rend="italic">For one, two or three voyces.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/Keep_on_your_veile_and_hide_your_eye-L638_1.mei"/></notatedMusic>
         <div type="underlay">
             <lg type="stanza">
             <l>Keep on your veile &amp; hide your eye,</l>

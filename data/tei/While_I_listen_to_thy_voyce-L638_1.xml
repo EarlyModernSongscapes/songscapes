@@ -29,9 +29,7 @@
       <body>
         <div xml:id="song08">
           <head rend="italic">To a Lady singing.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-            </notatedMusic>
+            <notatedMusic><xi:include href="../mei/While_I_listen_to_thy_voyce-L638_1.mei"/></notatedMusic>
           <div type="underlay">
             <lg type="stanza">
               <l>While I listen to thy voyce,</l>

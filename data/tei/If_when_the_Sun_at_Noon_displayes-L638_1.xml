@@ -29,9 +29,7 @@
       <body>
         <div xml:id="song14">
           <head rend="italic">Night and Day to his Mistress.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/If_when_the_Sun_at_Noon_displayes-L638_1.mei"/></notatedMusic>
           <div type="underlay">
           <lg type="stanza">
             <l>If when the Sun at Noon displayes</l>

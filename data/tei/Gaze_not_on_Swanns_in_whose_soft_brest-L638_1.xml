@@ -29,9 +29,7 @@
       <body>
         <div xml:id="song10">
           <head rend="italic">Beauties Excellency.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/Gaze_not_on_Swanns_in_whose_soft_brest-L638_1.mei"/></notatedMusic>
           <div type="underlay">
           <lg type="stanza">
             <l>Gaze not on Swanns in whose soft brest,</l>

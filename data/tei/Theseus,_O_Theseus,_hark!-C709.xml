@@ -28,9 +28,6 @@
       <body>
         <div>
           <head xml:id="v3">Ariadne <hi rend="italic">deserted by</hi> Theseus, <hi rend="italic">as She sits upon a Rock in the Island </hi>Naxos<hi rend="italic">, thus complains.</hi></head>
-          <notatedMusic>
-          <!-- MEI goes here -->
-        </notatedMusic>
         <div>
         <lg type="stanza">
         <l><hi rend="italic">Theseus!</hi> O <hi rend="italic">Theseus</hi> heark! but yet in vain</l>

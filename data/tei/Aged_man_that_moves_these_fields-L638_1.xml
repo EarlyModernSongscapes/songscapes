@@ -29,9 +29,7 @@
       <body>
         <div xml:id="song38">
           <head rend="italic">A Dialogue betwixt <hi rend="roman">Time</hi> and a <hi rend="roman">Pilgrime</hi>.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+          <notatedMusic><xi:include href="../mei/Aged_man_that_moves_these_fields-L638_1.mei"/></notatedMusic>
           <div type="underlay">
             <sp>
              <speaker rend="italic"><choice><abbr>Pilgr</abbr><expan>Pilgrime</expan></choice>.</speaker>

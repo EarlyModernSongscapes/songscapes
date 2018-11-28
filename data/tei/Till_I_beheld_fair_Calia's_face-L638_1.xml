@@ -29,9 +29,7 @@
       <body>
         <div xml:id="song23">
           <head rend="italic"><hi rend="roman">Cælia</hi> singing.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/Till_I_beheld_fair_Calia's_face-L638_1.mei"/></notatedMusic>
           <div type="underlay">
           <lg type="stanza">
             <l>Till I beheld fair <hi rend="italic">Calia's</hi> face,</l>

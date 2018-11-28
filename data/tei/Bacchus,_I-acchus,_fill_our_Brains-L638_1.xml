@@ -30,9 +30,7 @@
         <div xml:id="song40">
           <head rend="italic">A Bacchanall.</head>
           <head type="voice" rend="italic">For one or two Voyces</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/Bacchus,_I-acchus,_fill_our_Brains-L638_1.mei"/></notatedMusic>
             <div type="underlay">
               <lg type="refrain" xml:id="refrain.first">
                 <l><hi rend="italic">Bacchus, I-acchus</hi>, fill our Brains</l>

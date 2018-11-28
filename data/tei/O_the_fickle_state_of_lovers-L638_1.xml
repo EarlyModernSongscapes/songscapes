@@ -30,9 +30,7 @@
         <div xml:id="song42">
             <head rend="italic">The fickle state of Lovers.</head>
             <head type="voice" rend="italic">A. 2. Voc. Basse. &amp; Cant.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/O_the_fickle_state_of_lovers-L638_1.mei"/></notatedMusic>
           <div type="underlay">
           <lg type="stanza">
             <l>O the fickle state of Lovers,</l>

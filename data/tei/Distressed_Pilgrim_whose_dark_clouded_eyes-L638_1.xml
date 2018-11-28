@@ -30,9 +30,7 @@
         <div xml:id="song37">
           <head rend="italic">A Dialogue betwixt <hi rend="roman">Cordanus</hi> and <hi rend="roman">Amoret</hi>, on a Lost Heart.</head>
           <head type="voice">For two trebles.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/Distressed_Pilgrim_whose_dark_clouded_eyes-L638_1.mei"/></notatedMusic>
           <div type="underlay">
             <sp>
             <speaker rend="italic"><choice><abbr>Cord</abbr><expan>Cordanus</expan></choice>.</speaker>

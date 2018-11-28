@@ -29,9 +29,7 @@
       <body>
          <div xml:id="song02">
             <head rend="italic" xml:id="song02v1">A Complaint against <hi rend="roman">Cupid.</hi></head>
-            <notatedMusic>
-               <xi:include href="../mei/Venus,_redress_a_wrong_that's_done-L638_1.mei"/>
-            </notatedMusic>
+            <notatedMusic><xi:include href="../mei/Venus,_redress_a_wrong_that's_done-L638_1.mei"/></notatedMusic>
             <div type="underlay">
                <lg type="stanza">
                   <l><hi rend="italic">Venus<seg xml:id="song02v2">,</seg>

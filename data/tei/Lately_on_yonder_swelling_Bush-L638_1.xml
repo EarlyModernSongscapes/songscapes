@@ -29,9 +29,7 @@
       <body>
         <div xml:id="song21">
           <head rend="italic">The Bud.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/Lately_on_yonder_swelling_Bush-L638_1.mei"/></notatedMusic>
           <div type="underlay">
           <lg type="stanza">
             <l>Lately on yonder swelling Bush,</l>

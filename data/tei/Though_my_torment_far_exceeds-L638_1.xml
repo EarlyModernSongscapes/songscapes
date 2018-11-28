@@ -30,9 +30,7 @@
         <div xml:id="song45">
           <head rend="italic">A Smile, or Frown.</head>
           <head type="voice" rend="italic">For one, two or three voyces.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/Though_my_torment_far_exceeds-L638_1.mei"/></notatedMusic>
         <div type="underlay">
             <lg type="stanza">
             <l>Though my torment far exceeds</l>

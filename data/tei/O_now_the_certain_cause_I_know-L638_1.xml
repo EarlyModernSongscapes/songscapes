@@ -30,9 +30,7 @@
       <div xml:id="song49">
         <head rend="italic">To a Lady weeping.</head>
          <head type="voice" rend="italic">For one, two or three Voyces.</head>
-          <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+          <notatedMusic><xi:include href="../mei/O_now_the_certain_cause_I_know-L638_1.mei"/></notatedMusic>
         <div type="underlay">
             <lg type="stanza">
               <l>O now the certain cause I know,</l>

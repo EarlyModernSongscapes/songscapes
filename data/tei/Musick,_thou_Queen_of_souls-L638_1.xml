@@ -30,9 +30,7 @@
         <div xml:id="song43">
           <head rend="italic">The Power of Musick.</head>
           <head type="voice" rend="italic">A. 2. Voc. Basse &amp; Cant.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/Musick,_thou_Queen_of_souls-L638_1.mei"/></notatedMusic>
         <div type="underlay">
             <lg type="stanza">
             <l>Musick, thou Queen of souls, get up and string</l>

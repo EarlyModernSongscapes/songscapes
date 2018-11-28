@@ -39,9 +39,7 @@
           <l>Hen: Lawes / Ariadne deserted by Theseus</l>
             <l>Sittinge uppon a Rock in <choice><abbr>y<hi rend="superscript">e</hi></abbr><expan>the</expan></choice> Island Naxos thus Complaines</l>
         </head>
-          <notatedMusic>
-            <xi:include href="../mei/Theseus,_O_Theseus,_hark!-BL_53723.mei"/>
-        </notatedMusic>
+          <notatedMusic><xi:include href="../mei/Theseus,_O_Theseus,_hark!-BL_53723.mei"/></notatedMusic>
         <div type="underlay">
         <lg type="stanza">
         <l>Theseous! ô theseus! heark! but yet in vaine,</l>

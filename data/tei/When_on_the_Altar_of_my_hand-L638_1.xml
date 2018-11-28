@@ -29,9 +29,7 @@
       <body>
         <div xml:id="song04">
           <head rend="italic">In the Person of a Lady to her inconstant servant.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/When_on_the_Altar_of_my_hand-L638_1.mei"/></notatedMusic>
           <div type="underlay">
           <lg type="stanza">
             <l>When on the Altar of my hand</l>

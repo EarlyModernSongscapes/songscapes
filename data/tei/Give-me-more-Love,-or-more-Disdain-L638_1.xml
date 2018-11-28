@@ -29,9 +29,7 @@
       <body>
         <div xml:id="song18">
           <head rend="italic">Mediocrity in Love rejected.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/Give-me-more-Love,-or-more-Disdain-L638_1.mei"/></notatedMusic>
           <div type="underlay">
           <lg type="stanza">
             <l>Give me more Love, or more Disdain,</l>

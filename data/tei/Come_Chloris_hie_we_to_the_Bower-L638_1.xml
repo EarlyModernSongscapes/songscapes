@@ -30,9 +30,7 @@
         <div xml:id="song44">
           <head rend="italic"><hi rend="roman">Chloris</hi> taking the Ayre.</head>
            <head type="voice" rend="italic">for one, two or three Voyces.</head> <!-- present in division heading, supplied again here for individual song -->
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/Come_Chloris_hie_we_to_the_Bower-L638_1.mei"/></notatedMusic>
         <div type="underlay">
             <lg type="stanza">
             <l>Come <hi rend="italic">Chloris</hi> hie we to the Bow'r</l>

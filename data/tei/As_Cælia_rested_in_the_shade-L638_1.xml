@@ -29,9 +29,7 @@
       <body>
         <div xml:id="song39">
           <head rend="italic">A Pastorall Dialogue betwixt <hi rend="roman">Cleon</hi> and <hi rend="roman">Cælia</hi>.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/As_Cælia_rested_in_the_shade-L638_1.mei"/></notatedMusic>
           <div type="underlay">
            <sp>
            <speaker><choice><abbr>Cho</abbr><expan>Chorus</expan></choice>.</speaker>

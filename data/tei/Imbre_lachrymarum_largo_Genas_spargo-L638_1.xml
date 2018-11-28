@@ -29,9 +29,7 @@
       <body>
         <div xml:id="song36">
           <head rend="italic">An Eccho.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/Imbre_lachrymarum_largo_Genas_spargo-L638_1.mei"/></notatedMusic>
           <div type="underlay" xml:lang="lat">
           <lg type="stanza">
             <l>Imbre lachrymarum largo Genas spargo, quavis aurorâ;</l>

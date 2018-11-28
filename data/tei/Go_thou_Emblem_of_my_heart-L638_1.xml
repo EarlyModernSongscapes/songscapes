@@ -30,9 +30,7 @@
         <div xml:id="song41">
             <head rend="italic">Vpon a Crown'd Heart sent to a Cruell Mistress.</head>
             <head type="voice" rend="italic">A. 2. Voc. Basse. &amp; Cant.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/Go_thou_Emblem_of_my_heart-L638_1.mei"/></notatedMusic>
           <div type="underlay">
           <lg type="stanza">
             <l>Go thou Emblem of my heart,</l>

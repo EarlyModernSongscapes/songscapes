@@ -29,9 +29,7 @@
       <body>
         <div xml:id="song25">
           <head xml:lang="grc">Τῶν ἈΝΑΚΡΈΟΝΤΟΣ εἴς Λύραν. α´.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/Θέλω_λέγειν_Ἀτρείδας-L638_1.mei"/></notatedMusic>
           <div type="underlay" xml:lang="grc">
           <lg type="stanza">
             <l>Θέλω λέγειν Ἀτρείδας,</l>

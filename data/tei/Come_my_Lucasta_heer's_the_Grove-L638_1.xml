@@ -29,9 +29,7 @@
       <body>
         <div xml:id="song24">
           <head rend="italic">Love and Loyalty.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/Come_my_Lucasta_heer's_the_Grove-L638_1.mei"/></notatedMusic>
           <div type="underlay">
           <lg type="stanza">
             <l>Come my <hi rend="roman">Lucasta</hi> heer's the Grove,</l>

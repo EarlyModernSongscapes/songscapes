@@ -29,9 +29,7 @@
       <body>
         <div xml:id="song05">
           <head rend="italic">To his Mistress going to Sea.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/Farewell_fair_Saint_may_not_the_sea_and_wind-L638_1.mei"/></notatedMusic>
           <div type="underlay">
           <lg type="stanza">
             <l>Farewell fair Saint, may not the sea and wind</l>

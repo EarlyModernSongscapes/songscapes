@@ -29,9 +29,7 @@
       <body>
         <div xml:id="song19">
           <head rend="italic">The Selfe Banished.</head>
-            <notatedMusic>
-            <!-- MEI goes here -->
-          </notatedMusic>
+            <notatedMusic><xi:include href="../mei/It_is_not_that_I_love_you_lesse-L638_1.mei"/></notatedMusic>
           <div type="underlay">
           <lg type="stanza">
             <l>It is not that I love you lesse,</l>

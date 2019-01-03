@@ -345,7 +345,7 @@
                                 <beam xml:id="m-210">
                                     <note xml:id="m-209" dots="1" dur="8" dur.ges="192p" oct="5" pname="c" pnum="72" stem.dir="down">
                                         <verse xml:id="m-217" n="1">
-                                            <syl xml:id="m-218" wordpos="t">tri</syl>
+                                            <syl xml:id="m-218" wordpos="t" fontstyle="italic">tri</syl>
                                         </verse>
                                     </note>
                                     <note xml:id="m-211" dur="16" dur.ges="64p" oct="5" pname="c" pnum="72" stem.dir="down">

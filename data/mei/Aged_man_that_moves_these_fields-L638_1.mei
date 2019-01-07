@@ -274,12 +274,12 @@
                                 </beam>
                                 <note xml:id="m-167" dots="1" dur="4" dur.ges="384p" oct="5" pname="c" pnum="72" stem.dir="down">
                                     <verse xml:id="m-173" n="1">
-                                        <syl xml:id="m-174" con="d" wordpos="i">Past</syl>
+                                        <syl xml:id="m-174" con="d" wordpos="i">Pas</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-168" dur="8" dur.ges="128p" oct="4" pname="b" pnum="71" stem.dir="down">
                                     <verse xml:id="m-175" n="1">
-                                        <syl xml:id="m-176" wordpos="t">ure</syl>
+                                        <syl xml:id="m-176" wordpos="t">ture</syl>
                                     </verse>
                                 </note>
                             </layer>

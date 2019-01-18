@@ -179,7 +179,7 @@
                         <tie xml:id="m-100" endid="#m-129" startid="#m-99"/>
                         <tie xml:id="m-116" endid="#m-135" startid="#m-115"/>
                     </measure>
-                    <scoreDef xml:id="m-137" meter.count="4" meter.unit="4"/>
+                    <scoreDef xml:id="m-137" meter.count="2" meter.unit="2"/>
                     <measure xml:id="m-117" n="4">
                         <staff xml:id="m-118" n="1">
                             <layer xml:id="m-119" n="1">

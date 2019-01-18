@@ -187,7 +187,7 @@
                             </layer>
                         </staff>
                     </measure>
-                    <scoreDef xml:id="m-137" meter.count="4" meter.unit="4"/>
+                    <scoreDef xml:id="m-137" meter.count="2" meter.unit="2"/>
                     <measure xml:id="m-121" n="3">
                         <staff xml:id="m-122" n="1">
                             <layer xml:id="m-123" n="1">

@@ -439,6 +439,7 @@
                         </staff>
                     </measure>
                     <sb xml:id="m-277"/>
+                    <scoreDef xml:id= "m-137" meter.count="4" meter.unit="2"/>
                     <measure xml:id="m-276" metcon="false" n="10">
                         <staff xml:id="m-278" n="1">
                             <layer xml:id="m-279" n="1">
@@ -482,6 +483,7 @@
                         <slur xml:id="m-282" layer="1" staff="1" tstamp="2" tstamp2="0m+4" startid="m-283" endid="m-287"/>
                         <slur xml:id="m-294" layer="1" staff="2" tstamp="1" tstamp2="0m+3" startid="m-295" endid="m-297"/>
                     </measure>
+                    <scoreDef xml:id="m-137" meter.count="2" meter.unit="2"/>
                     <measure xml:id="m-305" n="11">
                         <staff xml:id="m-306" n="1">
                             <layer xml:id="m-307" n="1">

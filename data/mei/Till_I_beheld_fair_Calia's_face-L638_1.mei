@@ -524,7 +524,7 @@
                         <staff xml:id="m-320" n="1">
                             <layer xml:id="m-321" n="1">
                                 <note xml:id="m-322" dur="4" dur.ges="256p" oct="4" pname="g" pnum="66" stem.dir="up">
-                                    <accid xml:id="m-323" accid="f"/>
+                                    <accid xml:id="m-323" accid="n"/>
                                     <verse xml:id="m-327" n="1">
                                         <syl xml:id="m-328" wordpos="i">a</syl>
                                     </verse>
@@ -535,7 +535,7 @@
                                     </verse>
                                 </note>
                                 <note xml:id="m-325" dur="8" dur.ges="128p" oct="4" pname="g" pnum="66" stem.dir="up">
-                                    <accid xml:id="m-326" accid.ges="f"/>
+                                  
                                     <verse xml:id="m-341" n="1">
                                         <syl xml:id="m-342" con="d" wordpos="i">re</syl>
                                     </verse>

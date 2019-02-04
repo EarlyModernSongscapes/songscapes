@@ -90,6 +90,7 @@
                             </layer>
                         </staff>
                         <tie xml:id="m-45" endid="#m-63" startid="#m-44"/>
+                        <slur xml:id="m-44" startid="m-44" endid="m-69" />
                         <anchoredText xml:id="m-58">
                             <title xml:id="m-59">He that loves a rosie cheek</title>
                         </anchoredText>

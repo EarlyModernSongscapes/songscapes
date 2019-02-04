@@ -555,7 +555,7 @@
                         <staff xml:id="m-332" n="1">
                             <layer xml:id="m-333" n="1">
                                 <note xml:id="m-335" dur="4" dur.ges="256p" oct="4" pname="b" pnum="70" stem.dir="down">
-                                    <accid xml:id="m-336" accid="f" func="caution"/>
+                                    <accid xml:id="m-336" func="caution"/>
                                     <verse xml:id="m-339" n="1">
                                         <syl xml:id="m-340" wordpos="i">Truth</syl>
                                     </verse>

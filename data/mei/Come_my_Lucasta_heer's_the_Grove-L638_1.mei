@@ -670,6 +670,7 @@
                                 <note xml:id="m-406" dur="2" dur.ges="512p" oct="3" pname="g" pnum="55" stem.dir="down"/>
                             </layer>
                         </staff>
+                        <tie  startid="m-394" endid="#m-395"/>
                         <tie xml:id="m-404" endid="#m-405" startid="#m-403"/>
                         <slur xml:id="m-393" layer="1" staff="1" tstamp="1" tstamp2="0m+2.5" startid="m-394"/>
                         <dir staff="1" startid="#m-396" place="above">𝄋</dir>

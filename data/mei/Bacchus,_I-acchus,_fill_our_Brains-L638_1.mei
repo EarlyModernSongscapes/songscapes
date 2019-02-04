@@ -769,7 +769,7 @@
                         </staff>
                         <slur xml:id="m-441" layer="1" staff="1" tstamp="2" tstamp2="0m+3.5" startid="m-442" endid="m-443"/>
                     </measure>
-                    <measure xml:id="m-457" metcon="false" n="22">
+                    <measure xml:id="m-457" metcon="false" n="22" right="rptend" join="#m22b">
                         <staff xml:id="m-458" n="1">
                             <layer xml:id="m-459" n="1">
                                 <note xml:id="m-460" dots="1" dur="1" dur.ges="1536p" oct="4" pname="f" pnum="65" stem.dir="up">
@@ -778,11 +778,6 @@
                                     </verse>
                                 </note>
                                 <note xml:id="m-462" dur="1" dur.ges="1024p" oct="4" pname="f" pnum="65" stem.dir="up"/>
-                                <note xml:id="m-463" dur="2" dur.ges="512p" oct="5" pname="c" pnum="72" stem.dir="down">
-                                    <verse xml:id="m-466" n="1">
-                                        <syl xml:id="m-467" wordpos="i">'Tis</syl>
-                                    </verse>
-                                </note>
                             </layer>
                         </staff>
                         <staff xml:id="m-468" n="2">
@@ -793,6 +788,23 @@
                                     </verse>
                                 </note>
                                 <note xml:id="m-472" dur="1" dur.ges="1024p" oct="2" pname="f" pnum="41" stem.dir="up"/>
+                            </layer>
+                        </staff>
+                        <tie xml:id="m-461" endid="#m-462" startid="#m-460"/>
+                        <tie xml:id="m-471" endid="#m-472" startid="#m-470"/>
+                    </measure>
+                    <measure xml:id="m22b" metcon="false" n="22" left="rptstart" join="#m-457">
+                        <staff n="1">
+                            <layer n="1">
+                                <note xml:id="m-463" dur="2" dur.ges="512p" oct="5" pname="c" pnum="72" stem.dir="down">
+                                    <verse xml:id="m-466" n="1">
+                                        <syl xml:id="m-467" wordpos="i">'Tis</syl>
+                                    </verse>
+                                </note>
+                            </layer>
+                        </staff>
+                        <staff n="2">
+                            <layer n="1">
                                 <note xml:id="m-473" dur="2" dur.ges="512p" oct="3" pname="f" pnum="53" stem.dir="down">
                                     <verse xml:id="m-476" n="1">
                                         <syl xml:id="m-477" wordpos="i">'Tis</syl>
@@ -800,8 +812,6 @@
                                 </note>
                             </layer>
                         </staff>
-                        <tie xml:id="m-461" endid="#m-462" startid="#m-460"/>
-                        <tie xml:id="m-471" endid="#m-472" startid="#m-470"/>
                     </measure>
                     <measure xml:id="m-478" n="23">
                         <staff xml:id="m-479" n="1">

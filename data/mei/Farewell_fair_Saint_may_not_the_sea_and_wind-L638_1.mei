@@ -1152,7 +1152,7 @@
                                         </verse>
                                     </note>
                                     <note xml:id="m-700" dur="8" dur.ges="128p" oct="5" pname="c" pnum="73" stem.dir="down">
-                                        <accid xml:id="m-701" accid="s" func="caution"/>
+                                        <accid xml:id="m-701" func="caution"/>
                                         <verse xml:id="m-714" n="1">
                                             <syl xml:id="m-715" wordpos="t">ers</syl>
                                         </verse>
@@ -1383,7 +1383,7 @@
                                         </verse>
                                     </note>
                                     <note xml:id="m-845" dur="16" dur.ges="64p" oct="5" pname="c" pnum="73" stem.dir="down">
-                                        <accid xml:id="m-846" accid="s" func="caution"/>
+                                        <accid xml:id="m-846" func="caution"/>
                                         <verse xml:id="m-860" n="1">
                                             <syl xml:id="m-861" wordpos="i">in</syl>
                                         </verse>
@@ -1397,7 +1397,7 @@
                                         </verse>
                                     </note>
                                     <note xml:id="m-850" dur="16" dur.ges="64p" oct="5" pname="c" pnum="73" stem.dir="down">
-                                        <accid xml:id="m-851" accid="s" func="caution"/>
+                                        <accid xml:id="m-851" func="caution"/>
                                         <verse xml:id="m-864" n="1">
                                             <syl xml:id="m-865" wordpos="i">a</syl>
                                         </verse>

@@ -1037,7 +1037,7 @@
                                 </beam>
                                 <note xml:id="m-637" dur="8" dur.ges="128p" oct="4" pname="a" pnum="69" stem.dir="up">
                                     <verse xml:id="m-654" n="1">
-                                        <syl xml:id="m-655" con="d" wordpos="i">Weep</syl>
+                                        <syl xml:id="m-655" con="d" wordpos="i">weep</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-638" dur="4" dur.ges="256p" oct="4" pname="g" pnum="67" stem.dir="up"/>

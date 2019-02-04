@@ -1892,7 +1892,7 @@
                                     </verse>
                                 </note>
                                 <note xml:id="m-1152" dur="8" dur.ges="128p" oct="4" pname="f" pnum="66" stem.dir="up">
-                                    <accid xml:id="m-1153" accid="s" func="caution"/>
+                                    <accid xml:id="m-1153" func="caution"/>
                                     <verse xml:id="m-1158" n="1">
                                         <syl xml:id="m-1159" wordpos="t">ly</syl>
                                     </verse>

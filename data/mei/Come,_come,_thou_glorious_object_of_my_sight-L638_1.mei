@@ -1699,7 +1699,7 @@
                                         </verse>
                                     </note>
                                     <note xml:id="m-1033" dur="16" dur.ges="64p" oct="5" pname="c" pnum="73" stem.dir="down">
-                                        <accid xml:id="m-1034" accid="s" func="caution"/>
+                                        <accid xml:id="m-1034" func="caution"/>
                                         <verse xml:id="m-1059" n="1">
                                             <syl xml:id="m-1060" con="d" wordpos="i">a</syl>
                                         </verse>

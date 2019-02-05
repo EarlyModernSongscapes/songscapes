@@ -193,7 +193,7 @@
                             <layer xml:id="m-123" n="1">
                                 <note xml:id="m-124" dur="1" dur.ges="1024p" oct="4" pname="b" pnum="71" stem.dir="down">
                                     <verse xml:id="m-128" n="1">
-                                        <syl xml:id="m-129" wordpos="i">caufe</syl>
+                                        <syl xml:id="m-129" wordpos="i">cause</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-126" dots="1" dur="4" dur.ges="384p" oct="4" pname="a" pnum="69" stem.dir="up">
@@ -208,7 +208,7 @@
                             <layer xml:id="m-133" n="1">
                                 <note xml:id="m-134" dur="1" dur.ges="1024p" oct="4" pname="g" pnum="67" stem.dir="up">
                                     <verse xml:id="m-137" n="1">
-                                        <syl xml:id="m-138" wordpos="i">caufe</syl>
+                                        <syl xml:id="m-138" wordpos="i">cause</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-135" dur="2" dur.ges="512p" oct="4" pname="f" pnum="66" stem.dir="up">
@@ -223,7 +223,7 @@
                             <layer xml:id="m-142" n="1">
                                 <note xml:id="m-143" dur="1" dur.ges="1024p" oct="3" pname="g" pnum="55" stem.dir="down">
                                     <verse xml:id="m-145" n="1">
-                                        <syl xml:id="m-146" wordpos="i">caufe</syl>
+                                        <syl xml:id="m-146" wordpos="i">cause</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-144" dur="2" dur.ges="512p" oct="3" pname="d" pnum="50" stem.dir="down">

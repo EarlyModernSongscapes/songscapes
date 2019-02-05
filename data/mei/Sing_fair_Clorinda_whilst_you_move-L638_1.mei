@@ -1116,7 +1116,7 @@
                                 <note xml:id="m-686" dur="2" dur.ges="512p" oct="3" pname="e" pnum="51" stem.dir="down">
                                     <accid xml:id="m-687" accid="f"/>
                                     <verse xml:id="m-689" n="1">
-                                        <syl xml:id="m-690" wordpos="i">spheres</syl>
+                                        <syl xml:id="m-690" wordpos="i">spheares</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-688" dur="2" dur.ges="512p" oct="3" pname="f" pnum="53" stem.dir="down">
@@ -1156,7 +1156,7 @@
                             <layer xml:id="m-709" n="1">
                                 <note xml:id="m-710" dur="4" dur.ges="256p" oct="4" pname="a" pnum="69" stem.dir="up">
                                     <verse xml:id="m-716" n="1">
-                                        <syl xml:id="m-717" wordpos="i">spheres</syl>
+                                        <syl xml:id="m-717" wordpos="i">spheares</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-711" dur="4" dur.ges="256p" oct="4" pname="b" pnum="70" stem.dir="down">
@@ -1765,13 +1765,13 @@
                                         </verse>
                                     </note>
                                     <note xml:id="m-1079" dur="8" dur.ges="128p" oct="4" pname="b" pnum="71" stem.dir="down">
-                                        <accid xml:id="m-1080" accid="n"/>
+                                        
                                         <verse xml:id="m-1089" n="1">
                                             <syl xml:id="m-1090" wordpos="i">can</syl>
                                         </verse>
                                     </note>
                                     <note xml:id="m-1081" dur="8" dur.ges="128p" oct="4" pname="b" pnum="71" stem.dir="down">
-                                        <accid xml:id="m-1082" accid="n"/>
+                                        
                                         <verse xml:id="m-1091" n="1">
                                             <syl xml:id="m-1092" con="d" wordpos="i">pro</syl>
                                         </verse>

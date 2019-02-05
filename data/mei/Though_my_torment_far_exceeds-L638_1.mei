@@ -627,7 +627,7 @@
                         </staff>
                         <slur xml:id="m-336" layer="1" staff="1" tstamp="1.5" tstamp2="0m+1.75" startid="m-337" endid="m-339"/>
                         <slur xml:id="m-340" layer="1" staff="1" tstamp="2" tstamp2="1m+1" startid="m-341" endid="m-398"/>
-                        <slur xml:id="m-356" layer="1" staff="2" tstamp="2" tstamp2="1m+1" startid="m-357" endid="m-413"/>
+                        <slur xml:id="m-356" layer="1" staff="2" tstamp="2" tstamp2="1m+1" startid="m-357" endid="m-415"/>
                         <slur xml:id="m-373" layer="1" staff="3" tstamp="2" tstamp2="1m+1" startid="m-374" endid="m-427"/>
                         <slur xml:id="m-389" layer="1" staff="4" tstamp="2" tstamp2="1m+1" startid="m-390" endid="m-439"/>
                     </measure>
@@ -657,6 +657,7 @@
                                 </note>
                             </layer>
                         </staff>
+                        
                         <staff xml:id="m-411" n="2">
                             <layer xml:id="m-412" n="1">
                                 <beam xml:id="m-414">
@@ -707,6 +708,7 @@
                                 <note xml:id="m-441" dur="2" dur.ges="512p" oct="2" pname="a" pnum="45" stem.dir="up"/>
                             </layer>
                         </staff>
+                        <slur layer="1" staff="1" startid="m-401" endid="m-402"/>
                     </measure>
                     <measure xml:id="m-442" n="9">
                         <staff xml:id="m-443" n="1">
@@ -1009,9 +1011,9 @@
                                 <note xml:id="m-629" dur="2" dur.ges="512p" oct="3" pname="c" pnum="48" stem.dir="up"/>
                             </layer>
                         </staff>
-                        <slur xml:id="m-574" layer="1" staff="1" tstamp="2" tstamp2="0m+2.75" startid="m-575" endid="m-580"/>
-                        <slur xml:id="m-592" layer="1" staff="2" tstamp="2" tstamp2="0m+2.75" startid="m-593" endid="m-598"/>
-                        <slur xml:id="m-610" layer="1" staff="3" tstamp="2" tstamp2="0m+2.75" startid="m-611" endid="m-616"/>
+                        <slur xml:id="m-574" layer="1" staff="1" tstamp="2" tstamp2="0m+2.75" startid="m-575" endid="m-633"/>
+                        <slur xml:id="m-592" layer="1" staff="2" tstamp="2" tstamp2="0m+2.75" startid="m-593" endid="m-646"/>
+                        <slur xml:id="m-610" layer="1" staff="3" tstamp="2" tstamp2="0m+2.75" startid="m-611" endid="m-614"/>
                     </measure>
                     <measure xml:id="m-630" n="13">
                         <staff xml:id="m-631" n="1">

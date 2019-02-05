@@ -482,10 +482,14 @@
                                 <note xml:id="m-296" dots="1" dur="2" dur.ges="768p" oct="4" pname="b" pnum="70" stem.dir="down">
                                     <accid xml:id="m-297" accid.ges="f"/>
                                     <verse xml:id="m-303" n="1">
-                                        <syl xml:id="m-304" wordpos="i">Beauties</syl>
+                                        <syl xml:id="m-304" wordpos="i">Beau</syl>
                                     </verse>
                                 </note>
-                                <note xml:id="m-299" dur="4" dur.ges="256p" oct="4" pname="a" pnum="69" stem.dir="up"/>
+                                <note xml:id="m-299" dur="4" dur.ges="256p" oct="4" pname="a" pnum="69" stem.dir="up">
+                                <verse  n="1">
+                                    <syl  wordpos="t">ties</syl>
+                                </verse>
+                                </note>
                                 <note xml:id="m-300" dur="4" dur.ges="256p" oct="4" pname="b" pnum="70" stem.dir="down">
                                     <accid xml:id="m-301" accid.ges="f"/>
                                 </note>

@@ -503,11 +503,13 @@
                                     <verse xml:id="m-303" n="1">
                                         <syl xml:id="m-304" con="d" wordpos="i">wi</syl>
                                     </verse>
-                                    <verse xml:id="m-305" n="1">
-                                        <syl xml:id="m-306" wordpos="t">ly</syl>
-                                    </verse>
+                                    
                                 </note>
-                                <note xml:id="m-300" dur="4" dur.ges="256p" oct="4" pname="g" pnum="67" stem.dir="up"/>
+                                <note xml:id="m-300" dur="4" dur.ges="256p" oct="4" pname="g" pnum="67" stem.dir="up">
+                                <verse xml:id="m-305" n="1">
+                                    <syl xml:id="m-306" wordpos="t">ly</syl>
+                                </verse>
+                                </note>
                             </layer>
                         </staff>
                         <staff xml:id="m-307" n="3">
@@ -624,7 +626,7 @@
                                     </verse>
                                 </note>
                                 <note xml:id="m-373" dots="1" dur="2" dur.ges="768p" oct="3" pname="c" pnum="48" stem.dir="up">
-                                    <accid xml:id="m-374" accid="n"/>
+                                    
                                     <verse xml:id="m-378" n="1">
                                         <syl xml:id="m-379" wordpos="i">make</syl>
                                     </verse>

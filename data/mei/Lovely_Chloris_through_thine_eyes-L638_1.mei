@@ -400,7 +400,7 @@
                                 </note>
                             </layer>
                         </staff>
-                        <slur xml:id="m-234" layer="1" staff="1" tstamp="2" tstamp2="0m+2.5" startid="m-235" endid="m-237"/>
+                        <slur xml:id="m-234" layer="1" staff="1" tstamp="2" tstamp2="0m+2.5" startid="m-235" endid="m-238"/>
                     </measure>
                     <measure xml:id="m-253" n="14">
                         <staff xml:id="m-254" n="1">
@@ -539,7 +539,7 @@
                                 <note xml:id="m-339" dur="4" dur.ges="256p" oct="3" pname="f" pnum="53" stem.dir="down"/>
                             </layer>
                         </staff>
-                        <slur xml:id="m-325" layer="1" staff="1" tstamp="3" tstamp2="0m+3.75" startid="m-326" endid="m-328"/>
+                        <slur xml:id="m-325" layer="1" staff="1" tstamp="3" tstamp2="0m+3.75" startid="m-323" endid="m-328"/>
                     </measure>
                     <measure xml:id="m-340" n="19">
                         <staff xml:id="m-341" n="1">
@@ -665,7 +665,7 @@
                                 <note xml:id="m-415" dur="4" dur.ges="256p" oct="3" pname="f" pnum="53" stem.dir="down"/>
                             </layer>
                         </staff>
-                        <slur xml:id="m-404" layer="1" staff="1" tstamp="2.5" tstamp2="0m+3.5" startid="m-405" endid="m-409"/>
+                        <slur xml:id="m-404" layer="1" staff="1" tstamp="2.5" tstamp2="0m+3.5" startid="m-405" endid="m-419"/>
                     </measure>
                     <measure xml:id="m-416" n="24">
                         <staff xml:id="m-417" n="1">

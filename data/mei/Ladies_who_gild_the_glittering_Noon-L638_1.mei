@@ -419,7 +419,7 @@
                                 </note>
                             </layer>
                         </staff>
-                        <slur xml:id="m-240" layer="1" staff="1" tstamp="1" tstamp2="0m+1.5" startid="m-241" endid="m-243"/>
+                        <slur xml:id="m-240" layer="1" staff="1" tstamp="1" tstamp2="0m+1.5" startid="m-241" endid="m-244"/>
                     </measure>
                     <sb xml:id="m-258"/>
                     <measure xml:id="m-257" metcon="false" n="15">

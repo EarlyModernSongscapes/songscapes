@@ -124,8 +124,6 @@
                                 <note xml:id="m-81" dur="8" dur.ges="128p" oct="3" pname="e" pnum="52" stem.dir="down"/>
                             </layer>
                         </staff>
-                        <harm xml:id="m-77" staff="2" tstamp="1">C</harm>
-                        <!-- this may be a verovio hack... -->
                         <dir staff="2" place="below" startid="#m-79">#14</dir>
                     </measure>
                     <measure xml:id="m-82" n="3">

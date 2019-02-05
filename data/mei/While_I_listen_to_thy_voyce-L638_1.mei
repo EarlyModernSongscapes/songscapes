@@ -176,7 +176,7 @@
                         <staff xml:id="m-112" n="1">
                             <layer xml:id="m-113" n="1">
                                 <note xml:id="m-114" dur="4" dur.ges="256p" oct="4" pname="a" pnum="68" stem.dir="up">
-                                    <accid xml:id="m-115" accid="f"/>
+
                                 </note>
                                 <note xml:id="m-116" dur="4" dur.ges="256p" oct="4" pname="g" pnum="67" stem.dir="up">
                                     <verse xml:id="m-120" n="1">
@@ -416,7 +416,7 @@
                         <staff xml:id="m-260" n="1">
                             <layer xml:id="m-261" n="1">
                                 <note xml:id="m-262" dur="4" dur.ges="256p" oct="4" pname="a" pnum="68" stem.dir="up">
-                                    <accid xml:id="m-263" accid="f"/>
+                                    
                                 </note>
                                 <beam xml:id="m-265">
                                     <note xml:id="m-264" dots="1" dur="8" dur.ges="192p" oct="4" pname="g" pnum="67" stem.dir="up">
@@ -744,7 +744,7 @@
                                     </verse>
                                 </note>
                                 <note xml:id="m-463" dur="8" dur.ges="128p" oct="4" pname="b" pnum="71" stem.dir="down">
-                                    <accid xml:id="m-464" accid="n"/>
+                                    
                                     <verse xml:id="m-474" n="1">
                                         <syl xml:id="m-475" wordpos="i">the</syl>
                                     </verse>
@@ -763,7 +763,7 @@
                                 </beam>
                                 <beam xml:id="m-470">
                                     <note xml:id="m-468" dots="1" dur="8" dur.ges="192p" oct="4" pname="b" pnum="71" stem.dir="down">
-                                        <accid xml:id="m-469" accid="n" func="caution"/>
+                                        
                                         <verse xml:id="m-480" n="1">
                                             <syl xml:id="m-481" wordpos="i">doe</syl>
                                         </verse>

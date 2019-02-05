@@ -497,7 +497,7 @@
                                     </note>
                                 </beam>
                                 <note xml:id="m-301" dur="2" dur.ges="512p" oct="4" pname="b" pnum="71" stem.dir="down">
-                                    <accid xml:id="m-302" accid="n"/>
+                                    
                                     <verse xml:id="m-309" n="1">
                                         <syl xml:id="m-310" wordpos="i">weep,</syl>
                                     </verse>

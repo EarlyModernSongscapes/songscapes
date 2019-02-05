@@ -345,7 +345,7 @@
                                     </note>
                                 </beam>
                                 <note xml:id="m-212" dots="1" dur="4" dur.ges="384p" oct="4" pname="f" pnum="66" stem.dir="up">
-                                    <accid xml:id="m-213" accid="s" func="caution"/>
+                                   
                                     <verse xml:id="m-227" n="1">
                                         <syl xml:id="m-228" con="d" wordpos="i" fontstyle="italic">ἠ</syl>
                                     </verse>

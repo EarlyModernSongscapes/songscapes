@@ -37,12 +37,18 @@
     <body xml:id="m-25">
         <mdiv xml:id="m-26">
             <score xml:id="m-27">
-                <scoreDef xml:id="m-28" lyric.name="Plantin MT Std" meter.count="2" meter.unit="2" music.name="Opus Std" page.botmar="15mm" page.height="279.4mm" page.leftmar="15mm" page.rightmar="15mm" page.topmar="15mm" page.width="215.9mm" ppq="256" text.name="Plantin MT Std">
+                <scoreDef xml:id="m-28" lyric.name="Plantin MT Std" meter.count="4" meter.unit="4" music.name="Opus Std" page.botmar="15mm" page.height="279.4mm" page.leftmar="15mm" page.rightmar="15mm" page.topmar="15mm" page.width="215.9mm" ppq="256" text.name="Plantin MT Std">
                     <staffGrp xml:id="m-29">
                         <staffDef xml:id="m-30" clef.line="2" clef.shape="G" key.mode="minor" key.sig="1f" lines="5" n="1">
+                            <!-- keyboard.piano.grand.bright -->
+                            <instrDef xml:id="m-32" midi.channel="1" midi.pan="63" midi.volume="100"/>
                         </staffDef>
-                        <staffDef xml:id="m-33" clef.line="4" clef.shape="F" key.mode="minor" key.sig="1f" lines="5" n="2">
-                        </staffDef>
+                        <staffGrp xml:id="m-36" n="1" symbol="bracket">
+                            <staffDef xml:id="m-33" clef.line="4" clef.shape="F" key.mode="minor" key.sig="1f" lines="5" n="2">
+                                <!-- keyboard.piano.grand.bright -->
+                                <instrDef xml:id="m-35" midi.channel="1" midi.pan="63" midi.volume="100"/>
+                            </staffDef>
+                        </staffGrp>
                     </staffGrp>
                 </scoreDef>
                 <section xml:id="m-36">
@@ -97,7 +103,10 @@
                         </staff>
                         <staff xml:id="m-68" n="2">
                             <layer xml:id="m-69" n="1">
-                                <note xml:id="m-70" dur="2" dur.ges="512p" oct="2" pname="g" pnum="43" stem.dir="up"/>
+                                <note xml:id="m-71" dur="2" dur.ges="512p" oct="2" pname="g" pnum="43" stem.dir="up"><verse xml:id="m-64" n="1">
+                                    <syl xml:id="m-65" wordpos="i">#34</syl>
+                                </verse>
+                                </note>
                                 <note xml:id="m-71" dur="2" dur.ges="512p" oct="3" pname="d" pnum="50" stem.dir="down"/>
                             </layer>
                         </staff>

@@ -38,6 +38,7 @@
             <score xml:id="m-25">
                 <scoreDef xml:id="m-26" lyric.name="Plantin MT Std" meter.count="4" meter.unit="2" music.name="Opus Std" page.botmar="15mm" page.height="279.4mm" page.leftmar="15mm" page.rightmar="15mm" page.topmar="15mm" page.width="215.9mm" ppq="256" text.name="Plantin MT Std">
                     <staffGrp xml:id="m-27">
+                        <staffGrp n="1" symbol="bracket">
                         <staffDef xml:id="m-28" clef.line="2" clef.shape="G" key.mode="major" key.sig="0" lines="5" n="1">
                             <!-- keyboard.piano.grand.bright -->
                             <instrDef xml:id="m-30" midi.channel="1" midi.pan="63" midi.volume="100"/>
@@ -50,10 +51,13 @@
                             <!-- keyboard.piano.grand.bright -->
                             <instrDef xml:id="m-36" midi.channel="1" midi.pan="63" midi.volume="100"/>
                         </staffDef>
+                        </staffGrp>
+                        <staffGrp n="1" symbol="bracket">
                         <staffDef xml:id="m-37" clef.line="4" clef.shape="F" key.mode="major" key.sig="0" lines="5" n="4">
                             <!-- keyboard.piano.grand.bright -->
                             <instrDef xml:id="m-39" midi.channel="1" midi.pan="63" midi.volume="100"/>
                         </staffDef>
+                    </staffGrp>
                     </staffGrp>
                 </scoreDef>
                 <section xml:id="m-40">
@@ -187,7 +191,7 @@
                             </layer>
                         </staff>
                     </measure>
-                    <scoreDef xml:id="m-137" meter.count="2" meter.unit="2"/>
+                    <scoreDef xml:id="m-137" meter.count="4" meter.unit="4"/>
                     <measure xml:id="m-121" n="3">
                         <staff xml:id="m-122" n="1">
                             <layer xml:id="m-123" n="1">

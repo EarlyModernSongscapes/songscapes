@@ -39,6 +39,7 @@
             <score xml:id="m-25">
                 <scoreDef xml:id="m-26" lyric.name="Plantin MT Std" meter.count="4" meter.unit="2" music.name="Opus Std" page.botmar="15mm" page.height="279.4mm" page.leftmar="15mm" page.rightmar="15mm" page.topmar="15mm" page.width="215.9mm" ppq="256" text.name="Plantin MT Std">
                     <staffGrp xml:id="m-27">
+                        <staffGrp n="1" symbol="bracket">
                         <staffDef xml:id="m-28" clef.line="2" clef.shape="G" key.mode="major" key.sig="1f" lines="5" n="1">
                             <!-- keyboard.piano.grand.bright -->
                             <instrDef xml:id="m-30" midi.channel="1" midi.pan="63" midi.volume="100"/>
@@ -47,10 +48,13 @@
                             <!-- keyboard.piano.grand.bright -->
                             <instrDef xml:id="m-33" midi.channel="1" midi.pan="63" midi.volume="100"/>
                         </staffDef>
+                        </staffGrp>
+                        <staffGrp n="1" symbol="bracket">
                         <staffDef xml:id="m-34" clef.line="4" clef.shape="F" key.mode="major" key.sig="1f" lines="5" n="3">
                             <!-- keyboard.piano.grand.bright -->
                             <instrDef xml:id="m-36" midi.channel="1" midi.pan="63" midi.volume="100"/>
                         </staffDef>
+                    </staffGrp>
                     </staffGrp>
                 </scoreDef>
                 <section xml:id="m-37">
@@ -179,7 +183,7 @@
                         <tie xml:id="m-100" endid="#m-129" startid="#m-99"/>
                         <tie xml:id="m-116" endid="#m-135" startid="#m-115"/>
                     </measure>
-                    <scoreDef xml:id="m-137" meter.count="2" meter.unit="2"/>
+                    <scoreDef xml:id="m-137" meter.count="4" meter.unit="4"/>
                     <measure xml:id="m-117" n="4">
                         <staff xml:id="m-118" n="1">
                             <layer xml:id="m-119" n="1">
@@ -483,7 +487,7 @@
                         <slur xml:id="m-282" layer="1" staff="1" tstamp="2" tstamp2="0m+4" startid="m-283" endid="m-287"/>
                         <slur xml:id="m-294" layer="1" staff="2" tstamp="1" tstamp2="0m+3" startid="m-295" endid="m-297"/>
                     </measure>
-                    <scoreDef xml:id="m-137" meter.count="2" meter.unit="2"/>
+                    <scoreDef xml:id="m-137" meter.count="4" meter.unit="4"/>
                     <measure xml:id="m-305" n="11">
                         <staff xml:id="m-306" n="1">
                             <layer xml:id="m-307" n="1">

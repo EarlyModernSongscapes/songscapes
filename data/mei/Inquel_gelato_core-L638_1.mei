@@ -43,10 +43,12 @@
                             <!-- keyboard.piano.grand.bright -->
                             <instrDef xml:id="m-30" midi.channel="1" midi.pan="63" midi.volume="100"/>
                         </staffDef>
+                        <staffGrp n="1" symbol="bracket">
                         <staffDef xml:id="m-31" clef.line="4" clef.shape="F" key.mode="major" key.sig="1f" lines="5" n="2">
                             <!-- keyboard.piano.grand.bright -->
                             <instrDef xml:id="m-33" midi.channel="1" midi.pan="63" midi.volume="100"/>
                         </staffDef>
+                    </staffGrp>
                     </staffGrp>
                 </scoreDef>
                 <section xml:id="m-34">
@@ -457,7 +459,7 @@
                         </staff>
                     </measure>
                     <sb xml:id="m-278"/>
-                    <scoreDef xml:id="m-296" meter.count="2" meter.unit="2"/>
+                    <scoreDef xml:id="m-296" meter.count="4" meter.unit="4"/>
                     <measure xml:id="m-277" left="rptstart" n="14">
                         <staff xml:id="m-279" n="1">
                             <layer xml:id="m-280" n="1">
@@ -938,7 +940,7 @@
                             </layer>
                         </staff>
                     </measure>
-                    <scoreDef xml:id="m-597" meter.count="2" meter.unit="2"/>
+                    <scoreDef xml:id="m-597" meter.count="4" meter.unit="4"/>
                     <measure xml:id="m-572" n="30">
                         <staff xml:id="m-573" n="1">
                             <layer xml:id="m-574" n="1">

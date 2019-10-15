@@ -649,34 +649,45 @@
                             </layer>
                         </staff>
                     </measure>
-                    <measure xml:id="m-390" metcon="false" n="26">
+                    <measure xml:id="m-390" n="26" right="dashed">
                         <staff xml:id="m-391" n="1">
                             <layer xml:id="m-392" n="1">
                                 <note xml:id="m-394" dots="1" dur="1" dur.ges="1536p" oct="5" pname="e" pnum="76" stem.dir="down">
-                                    <verse xml:id="m-397" n="1">
-                                        <syl xml:id="m-398" wordpos="i">I,</syl>
-                                    </verse>
-                                </note>
-                                <note xml:id="m-395" dur="1" dur.ges="1024p" oct="5" pname="e" pnum="76" stem.dir="down"/>
-                                <note xml:id="m-396" dur="2" dur.ges="512p" oct="5" pname="e" pnum="76" stem.dir="down">
-                                    <verse xml:id="m-399" n="1">
-                                        <syl xml:id="m-400" wordpos="i">the</syl>
+                                    <verse xml:id="m-395" n="1">
+                                        <syl xml:id="m-396" wordpos="i">I,</syl>
                                     </verse>
                                 </note>
                             </layer>
                         </staff>
-                        <staff xml:id="m-401" n="2">
-                            <layer xml:id="m-402" n="1">
-                                <note xml:id="m-403" dots="1" dur="1" dur.ges="1536p" oct="3" pname="a" pnum="57" stem.dir="down"/>
-                                <note xml:id="m-405" dur="1" dur.ges="1024p" oct="3" pname="a" pnum="57" stem.dir="down"/>
-                                <note xml:id="m-406" dur="2" dur.ges="512p" oct="3" pname="g" pnum="55" stem.dir="down"/>
+                        <staff xml:id="m-397" n="2">
+                            <layer xml:id="m-398" n="1">
+                                <note xml:id="m-399" dots="1" dur="1" dur.ges="1536p" oct="3" pname="a" pnum="57" stem.dir="down"/>
                             </layer>
                         </staff>
-                        <tie  startid="m-394" endid="#m-395"/>
-                        <tie xml:id="m-404" endid="#m-405" startid="#m-403"/>
-                        <slur xml:id="m-393" layer="1" staff="1" tstamp="1" tstamp2="0m+2.5" startid="m-394"/>
-                        <dir staff="1" startid="#m-396" place="above">𝄋</dir>
+                        <tie xml:id="m-400" endid="#m-410" startid="#m-399"/>
+                        <tie endid="#m-394" startid="#m-404"/>
                     </measure>
+                    <measure xml:id="m-401" n="27">
+                        <staff xml:id="m-402" n="1">
+                            <layer xml:id="m-403" n="1">
+                                <note xml:id="m-404" dur="1" dur.ges="1024p" oct="5" pname="e" pnum="76" stem.dir="down"/>
+                                <note xml:id="m-405" dur="2" dur.ges="512p" oct="5" pname="e" pnum="76" stem.dir="down">
+                                    <verse xml:id="m-406" n="1">
+                                        <syl xml:id="m-407" wordpos="i">the</syl>
+                                    </verse>
+                                </note>
+                            </layer>
+                        </staff>
+                        <staff xml:id="m-408" n="2">
+                            <layer xml:id="m-409" n="1">
+                                <note xml:id="m-410" dur="1" dur.ges="1024p" oct="3" pname="a" pnum="57" stem.dir="down"/>
+                                <note xml:id="m-411" dur="2" dur.ges="512p" oct="3" pname="g" pnum="55" stem.dir="down"/>
+                            </layer>
+                        </staff>
+                        <dir staff="1" startid="#m-405" place="above">D.S.</dir>
+                    </measure>
+                        
+            
                     <sb xml:id="m-408"/>
                     <measure xml:id="m-407" n="27">
                         <staff xml:id="m-409" n="1">
@@ -753,25 +764,35 @@
                         </staff>
                         <slur xml:id="m-439" layer="1" staff="1" tstamp="1" tstamp2="0m+2" startid="m-440" endid="m-442"/>
                     </measure>
-                    <measure xml:id="m-452" metcon="false" n="30" right="end">
+                    <measure xml:id="m-452" n="30" right="dashed">
                         <staff xml:id="m-453" n="1">
                             <layer xml:id="m-454" n="1">
                                 <note xml:id="m-455" dots="1" dur="1" dur.ges="1536p" oct="5" pname="d" pnum="74" stem.dir="down">
-                                    <verse xml:id="m-460" n="1">
-                                        <syl xml:id="m-461" wordpos="t">fense.</syl>
+                                    <verse xml:id="m-459" n="1">
+                                        <syl xml:id="m-460" wordpos="t">fense.</syl>
                                     </verse>
                                 </note>
-                                <note xml:id="m-457" dots="1" dur="1" dur.ges="1536p" oct="5" pname="d" pnum="74" stem.dir="down"/>
                             </layer>
                         </staff>
-                        <staff xml:id="m-462" n="2">
-                            <layer xml:id="m-463" n="1">
-                                <note xml:id="m-464" dots="1" dur="1" dur.ges="1536p" oct="3" pname="d" pnum="50" stem.dir="down"/>
-                                <note xml:id="m-466" dots="1" dur="1" dur.ges="1536p" oct="3" pname="d" pnum="50" stem.dir="down"/>
+                        <staff xml:id="m-461" n="2">
+                            <layer xml:id="m-462" n="1">
+                                <note xml:id="m-463" dots="1" dur="1" dur.ges="1536p" oct="3" pname="d" pnum="50" stem.dir="down"/>
                             </layer>
                         </staff>
-                        <tie xml:id="m-456" endid="#m-457" startid="#m-455"/>
-                        <tie xml:id="m-465" endid="#m-466" startid="#m-464"/>
+                        <tie xml:id="m-456" endid="#m-468" startid="#m-455"/>
+                        <tie xml:id="m-464" endid="#m-471" startid="#m-463"/>
+                    </measure>
+                    <measure xml:id="m-465" n="31" right="end">
+                        <staff xml:id="m-466" n="1">
+                            <layer xml:id="m-467" n="1">
+                                <note xml:id="m-468" dots="1" dur="1" dur.ges="1536p" oct="5" pname="d" pnum="74" stem.dir="down"/>
+                            </layer>
+                        </staff>
+                        <staff xml:id="m-469" n="2">
+                            <layer xml:id="m-470" n="1">
+                                <note xml:id="m-471" dots="1" dur="1" dur.ges="1536p" oct="3" pname="d" pnum="50" stem.dir="down"/>
+                            </layer>
+                        </staff>
                     </measure>
                 </section>
             </score>

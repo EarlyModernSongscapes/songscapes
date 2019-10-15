@@ -96,7 +96,7 @@
                                         <syl xml:id="m-67" con="d" wordpos="i" fontstyle="italic">λέ</syl>
                                     </verse>
                                 </note>
-                                <beam xml:id="m-62">
+                                
                                     <note xml:id="m-61" dur="8" dur.ges="128p" oct="4" pname="b" pnum="71" stem.dir="down">
                                         <verse xml:id="m-68" n="1">
                                             <syl xml:id="m-69" wordpos="t" fontstyle="italic">γειν</syl>
@@ -107,7 +107,7 @@
                                             <syl xml:id="m-83" con="d" wordpos="i" fontstyle="italic">Ἀ</syl>
                                         </verse>
                                     </note>
-                                </beam>
+                                
                                 <note xml:id="m-64" dur="2" dur.ges="512p" oct="5" pname="d" pnum="74" stem.dir="down">
                                     <verse xml:id="m-84" n="1">
                                         <syl xml:id="m-85" con="d" wordpos="m" fontstyle="italic">τρεί</syl>
@@ -278,7 +278,7 @@
                         <staff xml:id="m-168" n="1">
                             <layer xml:id="m-169" n="1">
                                 <note xml:id="m-170" dur="4" dur.ges="256p" oct="4" pname="b" pnum="71" stem.dir="down"/>
-                                <beam xml:id="m-173">
+                                
                                     <note xml:id="m-171" dots="1" dur="8" dur.ges="192p" oct="4" pname="f" pnum="66" stem.dir="up">
                                         <accid xml:id="m-172" accid="s"/>
                                         <verse xml:id="m-179" n="1">
@@ -290,7 +290,7 @@
                                             <syl xml:id="m-194" con="d" wordpos="i" fontstyle="italic">Ἔ</syl>
                                         </verse>
                                     </note>
-                                </beam>
+                                
                                 <note xml:id="m-175" dur="2" dur.ges="512p" oct="4" pname="a" pnum="69" stem.dir="up">
                                     <verse xml:id="m-195" n="1">
                                         <syl xml:id="m-196" con="d" wordpos="m" fontstyle="italic">ρω</syl>
@@ -336,7 +336,7 @@
                         <staff xml:id="m-204" n="1">
                             <layer xml:id="m-205" n="1">
                                 <note xml:id="m-206" dur="4" dur.ges="256p" oct="4" pname="g" pnum="67" stem.dir="up"/>
-                                <beam xml:id="m-209">
+                                
                                     <note xml:id="m-207" dur="8" dur.ges="128p" oct="4" pname="f" pnum="66" stem.dir="up">
                                         <accid xml:id="m-208" accid="s"/>
                                     </note>
@@ -345,7 +345,7 @@
                                             <syl xml:id="m-218" wordpos="t" fontstyle="italic">νον</syl>
                                         </verse>
                                     </note>
-                                </beam>
+                                
                                 <note xml:id="m-212" dots="1" dur="4" dur.ges="384p" oct="4" pname="f" pnum="66" stem.dir="up">
                                    
                                     <verse xml:id="m-227" n="1">
@@ -361,6 +361,7 @@
                                 <note xml:id="m-222" dur="2" dur.ges="512p" oct="2" pname="b" pnum="47" stem.dir="up"/>
                             </layer>
                         </staff>
+                        <slur layer="1" staff="1" startid="m-191" endid="m-207"/>
                         <slur xml:id="m-211" layer="1" staff="1" tstamp="3" tstamp2="0m+4.5" startid="m-212" endid="m-214"/>
                     </measure>
                     <measure xml:id="m-223" n="13">
@@ -434,7 +435,7 @@
                         <staff xml:id="m-264" n="1">
                             <layer xml:id="m-265" n="1">
                                 <note xml:id="m-266" dur="4" dur.ges="256p" oct="4" pname="a" pnum="69" stem.dir="up"/>
-                                <beam xml:id="m-268">
+                                
                                     <note xml:id="m-267" dur="8" dur.ges="128p" oct="4" pname="g" pnum="67" stem.dir="up">
                                         <verse xml:id="m-274" n="1">
                                             <syl xml:id="m-275" wordpos="t" fontstyle="italic">μα</syl>
@@ -445,7 +446,7 @@
                                             <syl xml:id="m-289" con="d" wordpos="i" fontstyle="italic">Ἄ</syl>
                                         </verse>
                                     </note>
-                                </beam>
+                                
                                 <note xml:id="m-270" dur="2" dur.ges="512p" oct="4" pname="b" pnum="71" stem.dir="down">
                                     <verse xml:id="m-290" n="1">
                                         <syl xml:id="m-291" con="d" wordpos="m" fontstyle="italic">βου</syl>
@@ -536,7 +537,7 @@
                                         <syl xml:id="m-336" con="d" wordpos="i" fontstyle="italic">Ἤ</syl>
                                     </verse>
                                 </note>
-                                <beam xml:id="m-331">
+                                
                                     <note xml:id="m-330" dur="8" dur.ges="128p" oct="4" pname="b" pnum="71" stem.dir="down">
                                         <verse xml:id="m-337" n="1">
                                             <syl xml:id="m-338" con="d" wordpos="m" fontstyle="italic">μει</syl>
@@ -547,7 +548,7 @@
                                             <syl xml:id="m-340" wordpos="t" fontstyle="italic">ψα</syl>
                                         </verse>
                                     </note>
-                                </beam>
+                                
                                 <note xml:id="m-333" dots="1" dur="4" dur.ges="384p" oct="5" pname="d" pnum="74" stem.dir="down">
                                     <verse xml:id="m-341" n="1">
                                         <syl xml:id="m-342" con="d" wordpos="i" fontstyle="italic">νεῦ</syl>
@@ -595,6 +596,7 @@
                                 <note xml:id="m-368" dur="2" dur.ges="512p" oct="2" pname="g" pnum="43" stem.dir="up"/>
                             </layer>
                         </staff>
+                        <slur layer="1" startid="m-353" endid="m-359"/>
                         <tie xml:id="m-354" endid="#m-355" startid="#m-353"/>
                         <tie xml:id="m-369" endid="#m-383" startid="#m-368"/>
                     </measure>
@@ -670,7 +672,7 @@
                                         <syl xml:id="m-419" con="d" wordpos="i" fontstyle="italic">Κἀ</syl>
                                     </verse>
                                 </note>
-                                <beam xml:id="m-409">
+                                
                                     <note xml:id="m-408" dur="8" dur.ges="128p" oct="5" pname="e" pnum="76" stem.dir="down">
                                         <verse xml:id="m-420" n="1">
                                             <syl xml:id="m-421" wordpos="t" fontstyle="italic">γὼ</syl>
@@ -682,7 +684,7 @@
                                             <syl xml:id="m-423" wordpos="i" fontstyle="italic">μὲν</syl>
                                         </verse>
                                     </note>
-                                </beam>
+                                
                             </layer>
                         </staff>
                         <staff xml:id="m-424" n="2">
@@ -713,14 +715,13 @@
                                         <syl xml:id="m-445" con="d" wordpos="i" fontstyle="italic">ἄθ</syl>
                                     </verse>
                                 </note>
-                                <beam xml:id="m-438">
-                                    <note xml:id="m-437" dur="8" dur.ges="128p" oct="5" pname="d" pnum="74" stem.dir="down"/>
+                                
+                                <note xml:id="m-437" dur="8" dur.ges="128p" oct="5" pname="d" pnum="74" stem.dir="down"/>
                                     <note xml:id="m-439" dur="8" dur.ges="128p" oct="5" pname="e" pnum="76" stem.dir="down">
                                         <verse xml:id="m-446" n="1">
                                             <syl xml:id="m-447" wordpos="t" fontstyle="italic">λους</syl>
                                         </verse>
                                     </note>
-                                </beam>
                             </layer>
                         </staff>
                         <staff xml:id="m-448" n="2">
@@ -734,6 +735,7 @@
                                 </beam>
                             </layer>
                         </staff>
+                        <slur layer="1" startid="m-435" endid="m-437"/>
                     </measure>
                     <measure xml:id="m-456" n="26">
                         <staff xml:id="m-457" n="1">
@@ -776,7 +778,7 @@
                                         <syl xml:id="m-484" wordpos="t" fontstyle="italic">ρη</syl>
                                     </verse>
                                 </note>
-                                <beam xml:id="m-479">
+                                
                                     <note xml:id="m-478" dur="8" dur.ges="128p" oct="5" pname="c" pnum="72" stem.dir="down">
                                         <verse xml:id="m-485" n="1">
                                             <syl xml:id="m-486" wordpos="i" fontstyle="italic">δέ</syl>
@@ -787,7 +789,7 @@
                                             <syl xml:id="m-503" con="d" wordpos="i" fontstyle="italic">Ἔ</syl>
                                         </verse>
                                     </note>
-                                </beam>
+                                
                             </layer>
                         </staff>
                         <staff xml:id="m-487" n="2">
@@ -797,7 +799,7 @@
                                 <note xml:id="m-491" dur="4" dur.ges="256p" oct="3" pname="a" pnum="57" stem.dir="down"/>
                             </layer>
                         </staff>
-                        <dir staff="1" startid="#m-475" place="above">𝄋</dir>
+                        <dir staff="1" startid="#m-475" place="above">D.S.</dir>
                     </measure>
                     <measure xml:id="m-492" n="28">
                         <staff xml:id="m-493" n="1">
@@ -807,7 +809,7 @@
                                         <syl xml:id="m-505" con="d" wordpos="m" fontstyle="italic">ρω</syl>
                                     </verse>
                                 </note>
-                                <beam xml:id="m-498">
+                                
                                     <note xml:id="m-497" dur="8" dur.ges="128p" oct="4" pname="b" pnum="71" stem.dir="down"/>
                                     <note xml:id="m-499" dur="8" dur.ges="128p" oct="5" pname="c" pnum="72" stem.dir="down">
                                         <verse xml:id="m-506" n="1">
@@ -824,7 +826,7 @@
                                             <syl xml:id="m-526" con="d" wordpos="m" fontstyle="italic">τε</syl>
                                         </verse>
                                     </note>
-                                </beam>
+                                
                             </layer>
                         </staff>
                         <staff xml:id="m-508" n="2">
@@ -1053,6 +1055,7 @@
                                 </note>
                             </layer>
                         </staff>
+                        <slur layer="1" startid="m-634" endid="m-637"/>
                     </measure>
                     <measure xml:id="m-650" n="38">
                         <staff xml:id="m-651" n="1">
@@ -1249,6 +1252,7 @@
                                 <note xml:id="m-762" dur="2" dur.ges="512p" oct="4" pname="c" pnum="60" stem.dir="down"/>
                             </layer>
                         </staff>
+                        
                     </measure>
                     <sb xml:id="m-765"/>
                     <measure xml:id="m-764" n="46">
@@ -1277,6 +1281,7 @@
                                 <note xml:id="m-782" dur="1" dur.ges="1024p" oct="3" pname="c" pnum="48" stem.dir="up"/>
                             </layer>
                         </staff>
+                        <slur layer="1" startid="m-754" endid="m-779"/>
                     </measure>
                     <measure xml:id="m-783" n="47">
                         <staff xml:id="m-784" n="1">
@@ -1305,6 +1310,7 @@
                                 <note xml:id="m-802" dur="8" dur.ges="128p" oct="3" pname="c" pnum="48" stem.dir="up"/>
                             </layer>
                         </staff>
+                        <slur layer="1" startid="m-788" endid="m-791"/>
                     </measure>
                     <measure xml:id="m-803" n="48">
                         <staff xml:id="m-804" n="1">
@@ -1347,13 +1353,23 @@
                         <staff xml:id="m-828" n="2">
                             <layer xml:id="m-829" n="1">
                                 <note xml:id="m-830" dur="1" dur.ges="1024p" oct="2" pname="a" pnum="45" stem.dir="up">
-                                    <verse xml:id="m-831" n="1">
-                                        <syl xml:id="m-832" wordpos="i">7#5</syl>
-                                    </verse>
+                                    
                                 </note>
                             </layer>
                         </staff>
                         <tie xml:id="m-822" endid="#m-823" startid="#m-821"/>
+                        <slur layer="1" startid="m-821" endid="m-827"/>
+                        <harm xml:id="m-830" place="above" staff="2" tstamp="1">
+                            <fb>
+                                <f>7</f>
+                                
+                            </fb>
+                        </harm>
+                        <harm place="above" staff="2" tstamp="2">
+                            <fb>
+                                <f>5</f>
+                            </fb>
+                        </harm>
                     </measure>
                     <measure xml:id="m-833" n="50">
                         <staff xml:id="m-834" n="1">

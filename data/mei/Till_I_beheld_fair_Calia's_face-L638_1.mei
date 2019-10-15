@@ -607,19 +607,33 @@
                         </staff>
                         <slur xml:id="m-357" layer="1" staff="1" tstamp="1" tstamp2="0m+2" startid="m-358" endid="m-361"/>
                     </measure>
-                    <measure xml:id="m-372" metcon="false" n="23" right="end">
+                    <measure xml:id="m-372" n="23" right="dashed">
                         <staff xml:id="m-373" n="1">
                             <layer xml:id="m-374" n="1">
-                                <note xml:id="m-375" dots="1" dur="1" dur.ges="1536p" oct="4" pname="a" pnum="69" stem.dir="up">
-                                    <verse xml:id="m-376" n="1">
-                                        <syl xml:id="m-377" wordpos="i">love.</syl>
+                                <note xml:id="m-375" dots="1" dur="2" dur.ges="768p" oct="4" pname="a" pnum="69" stem.dir="up">
+                                    <verse xml:id="m-377" n="1">
+                                        <syl xml:id="m-378" wordpos="i">love.</syl>
                                     </verse>
                                 </note>
                             </layer>
                         </staff>
-                        <staff xml:id="m-378" n="2">
-                            <layer xml:id="m-379" n="1">
-                                <note xml:id="m-380" dots="1" dur="1" dur.ges="1536p" oct="2" pname="a" pnum="45" stem.dir="up"/>
+                        <staff xml:id="m-379" n="2">
+                            <layer xml:id="m-380" n="1">
+                                <note xml:id="m-381" dots="1" dur="2" dur.ges="768p" oct="2" pname="a" pnum="45" stem.dir="up"/>
+                            </layer>
+                        </staff>
+                        <tie xml:id="m-376" endid="#m-386" startid="#m-375"/>
+                        <tie xml:id="m-382" endid="#m-389" startid="#m-381"/>
+                    </measure>
+                    <measure xml:id="m-383" n="24" right="end">
+                        <staff xml:id="m-384" n="1">
+                            <layer xml:id="m-385" n="1">
+                                <note xml:id="m-386" dots="1" dur="2" dur.ges="768p" oct="4" pname="a" pnum="69" stem.dir="up"/>
+                            </layer>
+                        </staff>
+                        <staff xml:id="m-387" n="2">
+                            <layer xml:id="m-388" n="1">
+                                <note xml:id="m-389" dots="1" dur="2" dur.ges="768p" oct="2" pname="a" pnum="45" stem.dir="up"/>
                             </layer>
                         </staff>
                     </measure>

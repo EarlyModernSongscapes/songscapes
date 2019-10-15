@@ -102,13 +102,23 @@
                         </staff>
                         <staff xml:id="m-65" n="2">
                             <layer xml:id="m-66" n="1">
-                                <note xml:id="m-71" dur="2" dur.ges="512p" oct="2" pname="g" pnum="43" stem.dir="up"><verse xml:id="m-64" n="1">
-                                    <syl xml:id="m-65" wordpos="i">#34</syl>
-                                </verse>
+                                <note xml:id="m-71" dur="2" dur.ges="512p" oct="2" pname="g" pnum="43" stem.dir="up">
+                                   
                                 </note>
                                 <note xml:id="m-68" dur="2" dur.ges="512p" oct="3" pname="d" pnum="50" stem.dir="down"/>
                             </layer>
                         </staff>
+                        <harm xml:id="m-71" place="above" staff="2" tstamp="1">
+                            <fb>
+                                <f>3</f>
+                                <f>♮</f>
+                            </fb>
+                        </harm>
+                        <harm place="above" staff="2" tstamp="2">
+                            <fb>
+                                <f>4</f>
+                            </fb>
+                        </harm>
                     </measure>
                     <measure xml:id="m-69" n="3">
                         <staff xml:id="m-70" n="1">

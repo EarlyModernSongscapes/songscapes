@@ -113,12 +113,12 @@
                                     </verse>
                                 </note>
                                 <beam xml:id="m-73">
-                                    <note xml:id="m-72" dur="8" dur.ges="128p" oct="4" pname="g" pnum="67" stem.dir="up">
+                                    <note xml:id="m-72" dur="8" dur.ges="128p" oct="4" pname="g" pnum="67" stem.dir="down">
                                         <verse xml:id="m-89" n="1">
                                             <syl xml:id="m-90" con="d" wordpos="i">de</syl>
                                         </verse>
                                     </note>
-                                    <note xml:id="m-74" dur="8" dur.ges="128p" oct="4" pname="a" pnum="69" stem.dir="up"/>
+                                    <note xml:id="m-74" dur="8" dur.ges="128p" oct="4" pname="a" pnum="69" stem.dir="down"/>
                                 </beam>
                                 <beam xml:id="m-77">
                                     <note xml:id="m-75" dur="8" dur.ges="128p" oct="4" pname="b" pnum="70" stem.dir="down">
@@ -631,7 +631,7 @@
                                 <note xml:id="m-386" dur="2" dur.ges="512p" oct="3" pname="c" pnum="48" stem.dir="up"/>
                             </layer>
                         </staff>
-                        <slur xml:id="m-375" layer="1" staff="1" tstamp="2" tstamp2="0m+3.5" startid="m-376" endid="m-377"/>
+                        <slur xml:id="m-375" layer="1" staff="1" tstamp="2" tstamp2="0m+3.5" startid="m-374" endid="m-376"/>
                     </measure>
                     <measure xml:id="m-387" n="24" right="end">
                         <staff xml:id="m-388" n="1">

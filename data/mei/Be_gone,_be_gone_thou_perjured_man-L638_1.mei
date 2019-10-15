@@ -530,16 +530,17 @@
                                         <syl xml:id="m-323" wordpos="i">ther's</syl>
                                     </verse>
                                 </note>
+                                <beam xml:id="m-320">
                                 <note xml:id="m-317" dur="8" dur.ges="128p" oct="5" pname="c" pnum="72" stem.dir="down">
                                     <verse xml:id="m-324" n="1">
                                         <syl xml:id="m-325" wordpos="i">no</syl>
                                     </verse>
                                 </note>
-                                <beam xml:id="m-320">
-                                    <note xml:id="m-318" dur="8" dur.ges="128p" oct="4" pname="b" pnum="70" stem.dir="up">
+                                
+                                    <note xml:id="m-318" dur="8" dur.ges="128p" oct="4" pname="b" pnum="70" stem.dir="down">
                                         <accid xml:id="m-319" accid.ges="f"/>
                                     </note>
-                                    <note xml:id="m-321" dur="8" dur.ges="128p" oct="4" pname="a" pnum="69" stem.dir="up"/>
+                                    <note xml:id="m-321" dur="8" dur.ges="128p" oct="4" pname="a" pnum="69" stem.dir="down"/>
                                 </beam>
                             </layer>
                         </staff>

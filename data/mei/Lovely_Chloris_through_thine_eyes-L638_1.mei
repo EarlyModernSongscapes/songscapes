@@ -223,7 +223,7 @@
                                         <syl xml:id="m-147" wordpos="t">els</syl>
                                     </verse>
                                 </note>
-                                <beam xml:id="m-141">
+                                
                                     <note xml:id="m-140" dur="8" dur.ges="128p" oct="5" pname="c" pnum="72" stem.dir="down">
                                         <verse xml:id="m-148" n="1">
                                             <syl xml:id="m-149" wordpos="i">of</syl>
@@ -235,7 +235,7 @@
                                             <syl xml:id="m-151" wordpos="i">the</syl>
                                         </verse>
                                     </note>
-                                </beam>
+                                
                             </layer>
                         </staff>
                         <staff xml:id="m-152" n="2">
@@ -382,7 +382,7 @@
                                     </note>
                                     <note xml:id="m-237" dur="8" dur.ges="128p" oct="5" pname="c" pnum="72" stem.dir="down"/>
                                 </beam>
-                                <beam xml:id="m-240">
+                                
                                     <note xml:id="m-238" dots="1" dur="8" dur.ges="192p" oct="4" pname="b" pnum="70" stem.dir="up">
                                         <accid xml:id="m-239" accid.ges="f"/>
                                     </note>
@@ -391,7 +391,7 @@
                                             <syl xml:id="m-247" wordpos="i">the</syl>
                                         </verse>
                                     </note>
-                                </beam>
+                                
                             </layer>
                         </staff>
                         <staff xml:id="m-248" n="2">

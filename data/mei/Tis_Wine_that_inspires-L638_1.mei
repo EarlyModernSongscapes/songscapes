@@ -156,7 +156,7 @@
                                         <syl xml:id="m-100" wordpos="i">fires,</syl>
                                     </verse>
                                 </note>
-                                <beam xml:id="m-97">
+                                
                                     <note xml:id="m-96" dur="8" dur.ges="128p" oct="4" pname="g" pnum="67" stem.dir="up">
                                         <verse xml:id="m-101" n="1">
                                             <syl xml:id="m-102" con="d" wordpos="i">teach</syl>
@@ -167,7 +167,7 @@
                                             <syl xml:id="m-104" wordpos="t">es</syl>
                                         </verse>
                                     </note>
-                                </beam>
+                                
                             </layer>
                         </staff>
                         <staff xml:id="m-105" n="2">

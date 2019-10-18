@@ -2563,7 +2563,7 @@
                             </layer>
                         </staff>
                         <slur xml:id="m-1545" layer="1" staff="1" tstamp="2" tstamp2="0m+2.25" startid="m-1546" endid="m-1548"/>
-                        <slur  layer="1" staff="1"  startid="m-1550" endid="m-1553"/>
+                        <slur xml:id="m-1545a" layer="1" staff="1"  startid="m-1550" endid="m-1553"/>
                     </measure>
                     <measure xml:id="m-1566" n="69">
                         <staff xml:id="m-1567" n="1">
@@ -3003,7 +3003,7 @@
                                         <syl xml:id="m-1845" wordpos="i">that</syl>
                                     </verse>
                                 </note>
-                                <beam>
+                                <beam xml:id="m-1835a">
                                     <note xml:id="m-1835" dots="1" dur="8" dur.ges="192p" oct="4" pname="a" pnum="69" stem.dir="down">
                                         <verse xml:id="m-1846" n="1">
                                             <syl xml:id="m-1847" wordpos="i">live</syl>

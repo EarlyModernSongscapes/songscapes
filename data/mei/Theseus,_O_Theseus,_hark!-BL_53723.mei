@@ -2462,7 +2462,7 @@
                                 <note xml:id="m-1504" dur="4" dur.ges="256p" oct="3" pname="a" pnum="57" stem.dir="down"/>
                             </layer>
                         </staff>
-                        <slur layer="1" staff="1" startid="m-1485" endid="m-1488"/>
+                        <slur xml:id="m-1485a" layer="1" staff="1" startid="m-1485" endid="m-1488"/>
                     </measure>
                     <measure xml:id="m-1505" n="62">
                         <staff xml:id="m-1506" n="1">
@@ -2987,7 +2987,7 @@
                                 <note xml:id="m-1828" dur="2" dur.ges="512p" oct="3" pname="c" pnum="48" stem.dir="up"/>
                             </layer>
                         </staff>
-                        <slur layer="1" staff="1" startid="m-1808" endid="m-1811"/>
+                        <slur xml:id="m-1808a" layer="1" staff="1" startid="m-1808" endid="m-1811"/>
                     </measure>
                     <measure xml:id="m-1829" n="75">
                         <staff xml:id="m-1830" n="1">

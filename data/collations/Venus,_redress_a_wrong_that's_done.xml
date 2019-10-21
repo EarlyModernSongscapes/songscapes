@@ -135,7 +135,8 @@
                           https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-57"/>
                         <!-- m. 1, treble -->
                         <mei:rdg source="#M-BL_53723" target="
-                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-42"/>
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-41
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-43"/>
                       </mei:app>
                       <mei:app>
                         <!-- mm. 1-2, bass-->
@@ -149,13 +150,22 @@
                       <mei:app>
                         <!-- m. 2, treble -->
                         <mei:rdg source="#M-L638_1" target="
-                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-61
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-60
                           https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-62
-                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-80"/>
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-63
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-80
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-82
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-84
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-85"/>
                         <!-- m. 2, treble -->
                         <mei:rdg source="#M-BL_53723" target="
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-61a
                           https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-62
-                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-64"/>
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-64
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-66
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-66a
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-67
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-87"/>
                       </mei:app>
                       <mei:app>
                         <!-- m. 3, treble -->
@@ -190,13 +200,15 @@
                         <!-- m. 4, treble -->
                         <mei:rdg source="#M-L638_1" target="
                           https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-109
-                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-111
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-110
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-112
                           https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-113
                           https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-114"/>
                         <!-- mm. 3-4, treble -->
                         <mei:rdg source="#M-BL_53723" target="
                           https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-93
-                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-95
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-94
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-96
                           https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-123"/>
                       </mei:app>
                       <mei:app>
@@ -213,7 +225,8 @@
                         <!-- m. 7, treble -->
                         <mei:rdg source="#M-L638_1" target="
                           https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-187
-                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-189"/>
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-188
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-190"/>
                         <!-- m. 7, treble -->
                         <mei:rdg source="#M-BL_53723" target="
                           https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-185
@@ -244,7 +257,8 @@
                         <!-- mm. 9-10, treble -->
                         <mei:rdg source="#M-L638_1" target="
                           https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-234
-                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-236
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-235
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-237
                           https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-238
                           https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-240
                           https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-241
@@ -252,7 +266,8 @@
                         <!-- mm. 9-10, treble -->
                         <mei:rdg source="#M-BL_53723" target="
                           https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-229
-                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-232
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-231
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-233
                           https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-234
                           https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-254
                           https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-255
@@ -275,12 +290,12 @@
                       <mei:app>
                         <!-- m. 11, treble -->
                         <mei:rdg source="#M-L638_1" target="
-                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-285
-                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-288
-                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-291"/>
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-287
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-289
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-290
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-292"/>
                         <!-- mm. 11-12, treble -->
                         <mei:rdg source="#M-BL_53723" target="
-                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-278
                           https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-294"/>
                       </mei:app>
                       <mei:app>
@@ -324,12 +339,14 @@
                       <mei:app>
                         <!-- m. 14, treble -->
                         <mei:rdg source="#M-L638_1" target="
-                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-367
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-366
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-368
                           https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-369
                           https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-370"/>
                         <!-- m. 15-16, treble -->
                         <mei:rdg source="#M-BL_53723" target="
-                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-364
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-363
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-365
                           https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-366
                           https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-384"/>
                       </mei:app>
@@ -349,13 +366,14 @@
                       <mei:app>
                         <!-- m. 15, treble -->
                         <mei:rdg source="#M-L638_1" target="
-                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-395
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-394
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-396
                           https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-L638_1/view#m-397"/>
                         <!-- mm. 16-17, treble -->
                         <mei:rdg source="#M-BL_53723" target="
                           https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-388
                           https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-389
-                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-405
+                          https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-406
                           https://ems.digitalscholarship.utsc.utoronto.ca/islandora/object/ems%3Avrawtd/datastream/MEI-BL_53723/view#m-408"/>
                       </mei:app>
                       <mei:app type="barline">

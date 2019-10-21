@@ -129,8 +129,8 @@
                                 <note xml:id="m-83" dur="4" dur.ges="256p" oct="4" pname="c" pnum="60" stem.dir="down"/>
                             </layer>
                         </staff>
-                        <slur layer="1" lform="dashed" staff="1" startid="m-61" endid="m-63"/>
-                        <slur layer="1" lform="dashed" staff="1" startid="m-66" endid="m-68"/>
+                        <slur xml:id="m-61a" layer="1" lform="dashed" staff="1" startid="m-61" endid="m-63"/>
+                        <slur xml:id="m-66a" layer="1" lform="dashed" staff="1" startid="m-66" endid="m-68"/>
                     </measure>
                     <measure xml:id="m-84" n="3">
                         <staff xml:id="m-85" n="1">

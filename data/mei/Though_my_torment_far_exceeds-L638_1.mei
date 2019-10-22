@@ -629,7 +629,7 @@
                         <slur xml:id="m-340" layer="1" staff="1" tstamp="2" tstamp2="1m+1" startid="m-341" endid="m-398"/>
                         <slur xml:id="m-356" layer="1" staff="2" tstamp="2" tstamp2="1m+1" startid="m-357" endid="m-415"/>
                         <slur xml:id="m-373" layer="1" staff="3" tstamp="2" tstamp2="1m+1" startid="m-374" endid="m-427"/>
-                        <slur xml:id="m-389" layer="1" staff="4" tstamp="2" tstamp2="1m+1" startid="m-390" endid="m-439"/>
+                        
                     </measure>
                     <measure xml:id="m-395" n="8">
                         <staff xml:id="m-396" n="1">
@@ -839,7 +839,7 @@
                                 <note xml:id="m-520" dur="4" dur.ges="256p" oct="3" pname="c" pnum="48" stem.dir="up"/>
                             </layer>
                         </staff>
-                        <dir staff="1" startid="#m-464" place="above">𝄋</dir>
+                        <dir staff="1" startid="#m-464" place="above">D.S.</dir>
                     </measure>
                     <pb xml:id="m-523" n="2"/>
                     <sb xml:id="m-522"/>
@@ -995,12 +995,13 @@
                                     <note xml:id="m-614" dur="8" dur.ges="128p" oct="3" pname="e" pnum="51" stem.dir="up">
                                         <accid xml:id="m-615" accid="f"/>
                                     </note>
+                                </beam>
                                     <note xml:id="m-616" dur="8" dur.ges="128p" oct="3" pname="c" pnum="48" stem.dir="up">
                                         <verse xml:id="m-623" n="1">
                                             <syl xml:id="m-624" wordpos="i">and</syl>
                                         </verse>
                                     </note>
-                                </beam>
+                                
                             </layer>
                         </staff>
                         <staff xml:id="m-625" n="4">
@@ -1081,7 +1082,7 @@
                             </layer>
                         </staff>
                     </measure>
-                    <measure xml:id="m-670" n="14">
+                    <measure xml:id="m-670" n="14" right="dashed">
                         <staff xml:id="m-671" n="1">
                             <layer xml:id="m-672" n="1">
                                 <note xml:id="m-673" dur="1" dur.ges="1024p" oct="4" pname="g" pnum="67" stem.dir="up">

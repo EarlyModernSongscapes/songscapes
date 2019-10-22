@@ -2802,7 +2802,7 @@
                                     </verse>
                                 </note>
                                 
-                                    <note xml:id="m-1718" dots="1" dur="8" dur.ges="192p" oct="5" pname="c" pnum="72" stem.dir="up">
+                                    <note xml:id="m-1718" dots="1" dur="8" dur.ges="192p" oct="5" pname="c" pnum="72" stem.dir="down">
                                         <verse xml:id="m-1725" n="1">
                                             <syl xml:id="m-1726" wordpos="i">back</syl>
                                         </verse>
@@ -2994,14 +2994,14 @@
                                     </note>
                                     <note xml:id="m-1830" dur="8" dur.ges="128p" oct="5" pname="f" pnum="77" stem.dir="down"/>
                                 </beam>
-                                <beam xml:id="m-1832">
+                                
                                     <note xml:id="m-1831" dots="1" dur="8" dur.ges="192p" oct="5" pname="e" pnum="76" stem.dir="down"/>
                                     <note xml:id="m-1833" dur="16" dur.ges="64p" oct="5" pname="d" pnum="74" stem.dir="down">
                                         <verse xml:id="m-1844" n="1">
                                             <syl xml:id="m-1845" wordpos="i">by</syl>
                                         </verse>
                                     </note>
-                                </beam>
+                                
                             </layer>
                         </staff>
                         <staff xml:id="m-1846" n="3">
@@ -3080,6 +3080,7 @@
                         <tie xml:id="m-1889" endid="#m-1890" startid="#m-1888"/>
                         <slur xml:id="m-1857" layer="1" staff="1" tstamp="2.5" tstamp2="0m+2.875"/>
                         <slur xml:id="m-1873" layer="1" staff="2" tstamp="2" tstamp2="0m+2.5" startid="m-1874" endid="m-1875"/>
+                        <slur layer="1" startid="m-1858" endid="m-1859"/>
                     </measure>
                     <measure xml:id="m-1895" n="71">
                         <staff xml:id="m-1896" n="1">

@@ -839,12 +839,16 @@
                                     <note xml:id="m-514" dur="8" dur.ges="128p" oct="2" pname="g" pnum="43" stem.dir="up"/>
                                 </beam>
                                 <note xml:id="m-515" dur="2" dur.ges="512p" oct="3" pname="d" pnum="50" stem.dir="down">
-                                    <verse xml:id="m-517" n="1">
-                                        <syl xml:id="m-518" wordpos="i">3</syl>
-                                    </verse>
+                                   
                                 </note>
                             </layer>
                         </staff>
+                        <harm place="above" staff="3" tstamp="3">
+                            <fb>
+                                <f>3</f>
+                                <f>#</f>
+                            </fb>
+                        </harm>
                         <tie xml:id="m-516" endid="#m-537" startid="#m-515"/>
                     </measure>
                     <sb xml:id="m-520"/>

@@ -38,7 +38,7 @@
             <docTitle>
               <titlePart type="main">AYRES AND DIALOGUES, For One, Two, and Three Voyces.</titlePart>
             </docTitle>
-            <byline>BY <graphic url="#"><!-- engraving --></graphic> HENRY LAWES Servant to his late <choice><abbr>Ma:<hi rend="sup">tie</hi></abbr><expan>Majestie</expan></choice> in his publick and private Musick. W. Faitharne fecit</byline>
+            <byline>BY <!--<graphic url="#">engraving</graphic>--> HENRY LAWES Servant to his late <choice><abbr>Ma:<hi rend="sup">tie</hi></abbr><expan>Majestie</expan></choice> in his publick and private Musick. W. Faitharne fecit</byline>
             <docEdition>The First Booke.</docEdition>
             <docImprint>LONDON, Printed by <hi rend="italic">T. H<corr>.</corr></hi> for <hi rend="italic">John Playford</hi>, and are to be sold at his Shop, in the Inner Temple, near the Church door. <date>1653</date>.</docImprint>
           </titlePage>
@@ -535,66 +535,66 @@
     <div type="table">
       <list type="litany" rend="simple">
         <head rend="center"><hi rend="italic">The </hi>TABLE, <hi rend="italic">With the Names of those who were Authors of the Verses</hi>.</head>
-        <item n="A."><title><hi rend="italic">Ariadne</hi></title> <seg type="toc_page"><hi rend="italic">Pag.</hi> 1</seg> <name type="poet">- Mr. <hi rend="italic">William Cartwright</hi> of <hi rend="italic">Christ-Church Oxford</hi>.</name></item>
-        <item><title>Am <hi rend="italic">I</hi> dispis'd because you say</title> <seg type="toc_page">19</seg> <name type="poet">- Mr. <hi rend="italic">Robert Herick</hi>.</name></item>
-        <item><title><hi rend="italic">Amarantha</hi> sweet and fair</title> <seg type="toc_page">15</seg> <name type="poet">- Col. <hi rend="italic">Richard Lovelace</hi>.</name></item>
-        <item><title>Ask me why I send you here</title> <seg type="toc_page">24</seg> <name type="poet">- Mr. <hi rend="italic">Herick</hi>.</name></item>
-        <item n="B."><title>Be gone, be gone thou perjur'd man</title> <seg type="toc_page">35</seg> <name type="poet">- <hi rend="italic">Henry Lawes</hi>.</name></item>
-        <item n="C."><title>Careless of Love, and free from Fears</title> <seg type="toc_page">11</seg> <name type="poet">- <hi rend="italic">Carew Raleigh</hi>, Esquire.</name></item>
-        <item><title><hi rend="italic">Chloris</hi> your self you so excell</title> <seg type="toc_page">14</seg> <name type="poet">- <hi rend="italic">Edmond Waller</hi>, Esquire.</name></item>
-        <item><title><hi rend="italic">Cælia</hi> thy bright Angel's Face</title> <seg type="toc_page">17</seg> <name type="poet">- <hi rend="italic">Thomas</hi> Earle of <hi rend="italic">Winchilsea</hi>.</name></item>
-        <item><title>Canst thou love me, and yet doubt</title> <seg type="toc_page">23</seg> <name type="poet">- <hi rend="italic">William</hi> Earle of <hi rend="italic">Pembrooke</hi>.</name></item>
-        <item><title>Come my <hi rend="italic">Lucasta</hi></title> <seg type="toc_page">25</seg> <name type="poet">- Sir <hi rend="italic">Charles Lucas</hi>.</name></item>
-        <item><title>Come heavy Souls</title> <seg type="toc_page">28</seg> <name type="poet">- Dr. <hi rend="italic">William Stroud</hi>, Oratour of the University of <hi rend="italic">Oxford</hi>.</name></item>
-        <item><title>Come, come thou glorious Object</title> <seg type="toc_page">30</seg> <name type="poet">- Sir <hi rend="italic">William Killigrew</hi>.</name></item>
-        <item><title>Come my Sweet whilst every strain</title> <seg type="toc_page">32</seg> <name type="poet">- Mr. <hi rend="italic">Cartwright</hi>.</name></item>
-        <item n="D."><title>Dearest do not now delay me</title> <seg type="toc_page">20</seg> <name type="poet">- Mr. <hi rend="italic">Henry Harington</hi>, Son to <hi rend="italic">Henry Harington</hi>.</name></item>
-        <item n="F."><title>Farewell fair Saint</title> <seg type="toc_page">10</seg> <name type="poet">- Mr, <hi rend="italic">Tho. Cary</hi>, Son to the Earle of Monmouth, and of the Bedchamber to his late Majesty.</name></item>
-        <item n="G."><title>Gaze not on Swann's</title> <seg type="toc_page">15</seg> <name type="poet">- Mr. <hi rend="italic">Henry Noel</hi>, Son to the L. Viscount <hi rend="italic">Cambden</hi>.</name></item>
-        <item><title>Give me more Love or more Disdain</title> <seg type="toc_page">21</seg> <name type="poet">- Mr. <hi rend="italic">Tho. Carew</hi>, Gentleman of the Privy Chamber, and Sewer to his late Majesty.</name></item>
-        <item n="H."><title>He that love's a Rosie Cheek</title> <seg type="toc_page">12</seg> <name type="poet">- Mr. <hi rend="italic">Carew</hi>.</name></item>
-        <item n="I."><title>I long to sing the Seidge of <hi rend="italic">Troy</hi></title> <seg type="toc_page">27</seg> <name type="poet">- Mr. <hi rend="italic">John Berkenhead</hi>.</name></item>
-        <item><title>If when the Sun at Noon</title> <seg type="toc_page">18</seg> <name type="poet">- Mr. <hi rend="italic">Carew</hi>.</name></item>
-        <item><title>It is not that I love you lesse</title> <seg type="toc_page">22</seg> <name type="poet">- Mr. <hi rend="italic">Waller</hi>.</name></item>
-        <item><title xml:lang="lat">Imbre lachrymarum largo</title> <seg type="toc_page">36</seg> <name type="poet">- Mr. <hi rend="italic">Thomas Fuller</hi>, Batch. Divinity.</name></item>
-        <item n="L."><title>Ladies who gild the glitt'ring Noon</title> <seg type="toc_page">35</seg> <name type="poet">- Mr. <hi rend="italic">Francis Lenton</hi>.</name></item>
-        <item><title>Lately on yonder swelling Bush</title> <seg type="toc_page">24</seg> <name type="poet">- Mr. <hi rend="italic">Waller</hi>.</name></item>
-        <item><title>Lovely <hi rend="italic">Chloris</hi> though thine eyes</title> <seg type="toc_page">20</seg> <name type="poet">- Mr. <hi rend="italic">Henry Reynolds</hi>.</name></item>
-        <item n="T."><title>The Day's return'd</title> <seg type="toc_page">33</seg> <name type="poet">- Mr. <hi rend="italic">Berkenhead</hi>.</name></item>
-        <item><title>Till now I never did believe</title> <seg type="toc_page">16</seg> <name type="poet">- Sir <hi rend="italic">Thomas Nevill</hi>.</name></item>
-        <item><title>Till I beheld fair <hi rend="italic">Cælia's</hi> Face</title> <seg type="toc_page">25</seg> <name type="poet">- <hi rend="italic">Francis Finch</hi>, Esquire.</name></item>
-        <item><title>'Tis true fair <hi rend="italic">Cælia</hi></title> <seg type="toc_page">29</seg> <name type="poet">- Mr. <hi rend="italic">Henry Bathurst</hi>.</name></item>
-        <item><title>Thou art so Fair and Yong</title> <seg type="toc_page">31</seg> <name type="poet">- Mr. <hi rend="italic">Aurelian Townshend</hi>.</name></item>
-        <item><title>'Tis Wine that inspir's</title> <seg type="toc_page">32</seg> <name type="poet">- Lord <hi rend="italic">Broughall</hi>.</name></item>
-        <item><title>Two hundred minutes are run down</title> <seg type="toc_page">34</seg> <name type="poet">- Mr. <hi rend="italic">Berkenhead</hi>.</name></item>
-        <item n="V."><title><hi rend="italic">Venus</hi> redress a wrong</title> <seg type="toc_page">7</seg> <name type="poet">- Mr. <hi rend="italic">Cartwright</hi>.</name></item>
-        <item n="W."><title>When thou poor Excommunicate</title> <seg type="toc_page">8</seg> <name type="poet">- Mr. <hi rend="italic">Carew</hi><corr>.</corr></name></item>
-        <item><title>When on the Altar of my hand</title> <seg type="toc_page">9</seg> <name type="poet">- Mr. <hi rend="italic">Carew</hi>.</name></item>
-        <item><title>While I listen to thy Voyce</title> <seg type="toc_page">13</seg> <name type="poet">- Mr. <hi rend="italic">Waller</hi>,</name></item>
-        <item><title xml:lang="grc">Θέλω λέγειν Ἀτρείδας</title> <seg type="toc_page">26</seg> <name type="poet">- <hi rend="italic">Anacreon's Ode,</hi> call'd the Lute.</name></item>
-        <item><title xml:lang="it">Inquel gelato core (TAVOLA)</title> <seg type="toc_page">Last Pag. in the Book</seg> <name type="poet">- By divers and sundry Authors.</name></item>
+        <item n="A."><title corresp="#song01"><hi rend="italic">Ariadne</hi></title> <seg type="toc_page"><hi rend="italic">Pag.</hi> 1</seg> <name type="poet">- Mr. <hi rend="italic">William Cartwright</hi> of <hi rend="italic">Christ-Church Oxford</hi>.</name></item>
+        <item><title corresp="#song15">Am <hi rend="italic">I</hi> dispis'd because you say</title> <seg type="toc_page">19</seg> <name type="poet">- Mr. <hi rend="italic">Robert Herick</hi>.</name></item>
+        <item><title corresp="#song11"><hi rend="italic">Amarantha</hi> sweet and fair</title> <seg type="toc_page">15</seg> <name type="poet">- Col. <hi rend="italic">Richard Lovelace</hi>.</name></item>
+        <item><title corresp="#song22">Ask me why I send you here</title> <seg type="toc_page">24</seg> <name type="poet">- Mr. <hi rend="italic">Herick</hi>.</name></item>
+        <item n="B."><title corresp="#song34">Be gone, be gone thou perjur'd man</title> <seg type="toc_page">35</seg> <name type="poet">- <hi rend="italic">Henry Lawes</hi>.</name></item>
+        <item n="C."><title corresp="#song06">Careless of Love, and free from Fears</title> <seg type="toc_page">11</seg> <name type="poet">- <hi rend="italic">Carew Raleigh</hi>, Esquire.</name></item>
+        <item><title corresp="#song09"><hi rend="italic">Chloris</hi> your self you so excell</title> <seg type="toc_page">14</seg> <name type="poet">- <hi rend="italic">Edmond Waller</hi>, Esquire.</name></item>
+        <item><title corresp="#song13"><hi rend="italic">Cælia</hi> thy bright Angel's Face</title> <seg type="toc_page">17</seg> <name type="poet">- <hi rend="italic">Thomas</hi> Earle of <hi rend="italic">Winchilsea</hi>.</name></item>
+        <item><title corresp="#song20">Canst thou love me, and yet doubt</title> <seg type="toc_page">23</seg> <name type="poet">- <hi rend="italic">William</hi> Earle of <hi rend="italic">Pembrooke</hi>.</name></item>
+        <item><title corresp="#song24">Come my <hi rend="italic">Lucasta</hi></title> <seg type="toc_page">25</seg> <name type="poet">- Sir <hi rend="italic">Charles Lucas</hi>.</name></item>
+        <item><title corresp="#song27">Come heavy Souls</title> <seg type="toc_page">28</seg> <name type="poet">- Dr. <hi rend="italic">William Stroud</hi>, Oratour of the University of <hi rend="italic">Oxford</hi>.</name></item>
+        <item><title corresp="#song29">Come, come thou glorious Object</title> <seg type="toc_page">30</seg> <name type="poet">- Sir <hi rend="italic">William Killigrew</hi>.</name></item>
+        <item><title corresp="#song31">Come my Sweet whilst every strain</title> <seg type="toc_page">32</seg> <name type="poet">- Mr. <hi rend="italic">Cartwright</hi>.</name></item>
+        <item n="D."><title corresp="#song16">Dearest do not now delay me</title> <seg type="toc_page">20</seg> <name type="poet">- Mr. <hi rend="italic">Henry Harington</hi>, Son to <hi rend="italic">Henry Harington</hi>.</name></item>
+        <item n="F."><title corresp="#song05">Farewell fair Saint</title> <seg type="toc_page">10</seg> <name type="poet">- Mr, <hi rend="italic">Tho. Cary</hi>, Son to the Earle of Monmouth, and of the Bedchamber to his late Majesty.</name></item>
+        <item n="G."><title corresp="#song10">Gaze not on Swann's</title> <seg type="toc_page">15</seg> <name type="poet">- Mr. <hi rend="italic">Henry Noel</hi>, Son to the L. Viscount <hi rend="italic">Cambden</hi>.</name></item>
+        <item><title corresp="#song18">Give me more Love or more Disdain</title> <seg type="toc_page">21</seg> <name type="poet">- Mr. <hi rend="italic">Tho. Carew</hi>, Gentleman of the Privy Chamber, and Sewer to his late Majesty.</name></item>
+        <item n="H."><title corresp='#song07'>He that love's a Rosie Cheek</title> <seg type="toc_page">12</seg> <name type="poet">- Mr. <hi rend="italic">Carew</hi>.</name></item>
+        <item n="I."><title corresp="#song26">I long to sing the Seidge of <hi rend="italic">Troy</hi></title> <seg type="toc_page">27</seg> <name type="poet">- Mr. <hi rend="italic">John Berkenhead</hi>.</name></item>
+        <item><title corresp="#song14">If when the Sun at Noon</title> <seg type="toc_page">18</seg> <name type="poet">- Mr. <hi rend="italic">Carew</hi>.</name></item>
+        <item><title corresp='#song19'>It is not that I love you lesse</title> <seg type="toc_page">22</seg> <name type="poet">- Mr. <hi rend="italic">Waller</hi>.</name></item>
+        <item><title xml:lang="lat" corresp="#song36">Imbre lachrymarum largo</title> <seg type="toc_page">36</seg> <name type="poet">- Mr. <hi rend="italic">Thomas Fuller</hi>, Batch. Divinity.</name></item>
+        <item n="L."><title corresp="#song35">Ladies who gild the glitt'ring Noon</title> <seg type="toc_page">35</seg> <name type="poet">- Mr. <hi rend="italic">Francis Lenton</hi>.</name></item>
+        <item><title corresp="#song21">Lately on yonder swelling Bush</title> <seg type="toc_page">24</seg> <name type="poet">- Mr. <hi rend="italic">Waller</hi>.</name></item>
+        <item><title corresp="#song17">Lovely <hi rend="italic">Chloris</hi> though thine eyes</title> <seg type="toc_page">20</seg> <name type="poet">- Mr. <hi rend="italic">Henry Reynolds</hi>.</name></item>
+        <item n="T."><title corresp="#song32">The Day's return'd</title> <seg type="toc_page">33</seg> <name type="poet">- Mr. <hi rend="italic">Berkenhead</hi>.</name></item>
+        <item><title corresp="#song12">Till now I never did believe</title> <seg type="toc_page">16</seg> <name type="poet">- Sir <hi rend="italic">Thomas Nevill</hi>.</name></item>
+        <item><title corresp="#song23">Till I beheld fair <hi rend="italic">Cælia's</hi> Face</title> <seg type="toc_page">25</seg> <name type="poet">- <hi rend="italic">Francis Finch</hi>, Esquire.</name></item>
+        <item><title corresp="#song28">'Tis true fair <hi rend="italic">Cælia</hi></title> <seg type="toc_page">29</seg> <name type="poet">- Mr. <hi rend="italic">Henry Bathurst</hi>.</name></item>
+        <item><title corresp='#song30'>Thou art so Fair and Yong</title> <seg type="toc_page">31</seg> <name type="poet">- Mr. <hi rend="italic">Aurelian Townshend</hi>.</name></item>
+        <item><title corresp="#song31a">'Tis Wine that inspir's</title> <seg type="toc_page">32</seg> <name type="poet">- Lord <hi rend="italic">Broughall</hi>.</name></item>
+        <item><title corresp="#song33">Two hundred minutes are run down</title> <seg type="toc_page">34</seg> <name type="poet">- Mr. <hi rend="italic">Berkenhead</hi>.</name></item>
+        <item n="V."><title corresp="#song02"><hi rend="italic">Venus</hi> redress a wrong</title> <seg type="toc_page">7</seg> <name type="poet">- Mr. <hi rend="italic">Cartwright</hi>.</name></item>
+        <item n="W."><title corresp="#song03">When thou poor Excommunicate</title> <seg type="toc_page">8</seg> <name type="poet">- Mr. <hi rend="italic">Carew</hi><corr>.</corr></name></item>
+        <item><title corresp="#song04">When on the Altar of my hand</title> <seg type="toc_page">9</seg> <name type="poet">- Mr. <hi rend="italic">Carew</hi>.</name></item>
+        <item><title corresp="#song08">While I listen to thy Voyce</title> <seg type="toc_page">13</seg> <name type="poet">- Mr. <hi rend="italic">Waller</hi>,</name></item>
+        <item><title xml:lang="grc" corresp="#song25">Θέλω λέγειν Ἀτρείδας</title> <seg type="toc_page">26</seg> <name type="poet">- <hi rend="italic">Anacreon's Ode,</hi> call'd the Lute.</name></item>
+        <item><title xml:lang="it" corresp="#song53">Inquel gelato core (TAVOLA)</title> <seg type="toc_page">Last Pag. in the Book</seg> <name type="poet">- By divers and sundry Authors.</name></item>
       </list>
       <list type="litany" rend="simple">
         <head rend="center"><hi rend="italic">Dialogues and Songs for two Voyces</hi>.</head>
-        <item><title>Distressed Pilgrim, A Dialogue betwixt <hi rend="italic">Cordanus</hi> and an <hi rend="italic">Amorest</hi></title> <seg type="toc_page"><hi rend="italic">Pag.</hi> 1</seg> <name type="poet">- Col. <hi rend="italic">Francis Lovelace</hi>.</name></item>
-        <item><title>Aged man that mowes these Fields, A Dialogue betwixt <hi rend="italic">Time</hi> and a <hi rend="italic">Pilgrim</hi></title> <seg type="toc_page">3</seg> <name type="poet">- Mr. <hi rend="italic">Aurelian Townshend</hi>.</name></item>
-        <item><title>As <hi rend="italic">Cælia</hi> rested in the shade, A Dialogue betwixt <hi rend="italic">Cleon</hi> and <hi rend="italic">Cælia</hi></title> <seg type="toc_page">5</seg> <name type="poet">- Mr. <hi rend="italic">Tho. Carew</hi>.</name></item>
-        <item><title><hi rend="italic">Bacebus I'acchus</hi> fill our brains</title> <seg type="toc_page">9</seg> <name type="poet">- Mr. <hi rend="italic">Townshend</hi>.</name></item>
-        <item><title>Go thou Emblem of my heart</title> <seg type="toc_page">10</seg> <name type="poet">- Mr. <hi rend="italic">Harington</hi>.</name></item>
-        <item><title>O the Fickle state of Lovers</title> <seg type="toc_page">12</seg> <name type="poet">- Mr. <hi rend="italic">Francis Quarles</hi>.</name></item>
-        <item><title>Musick thou Queen of Souls</title> <seg type="toc_page">14</seg> <name type="poet">- Mr. <hi rend="italic">Tho. Randolph</hi> of Trinity College <hi rend="italic">Cambridge</hi>.</name></item>
+        <item><title corresp="#song37">Distressed Pilgrim, A Dialogue betwixt <hi rend="italic">Cordanus</hi> and an <hi rend="italic">Amorest</hi></title> <seg type="toc_page"><hi rend="italic">Pag.</hi> 1</seg> <name type="poet">- Col. <hi rend="italic">Francis Lovelace</hi>.</name></item>
+        <item><title corresp="#song38">Aged man that mowes these Fields, A Dialogue betwixt <hi rend="italic">Time</hi> and a <hi rend="italic">Pilgrim</hi></title> <seg type="toc_page">3</seg> <name type="poet">- Mr. <hi rend="italic">Aurelian Townshend</hi>.</name></item>
+        <item><title corresp="#song39">As <hi rend="italic">Cælia</hi> rested in the shade, A Dialogue betwixt <hi rend="italic">Cleon</hi> and <hi rend="italic">Cælia</hi></title> <seg type="toc_page">5</seg> <name type="poet">- Mr. <hi rend="italic">Tho. Carew</hi>.</name></item>
+        <item><title corresp="#song40"><hi rend="italic">Bacebus I'acchus</hi> fill our brains</title> <seg type="toc_page">9</seg> <name type="poet">- Mr. <hi rend="italic">Townshend</hi>.</name></item>
+        <item><title corresp="#song41">Go thou Emblem of my heart</title> <seg type="toc_page">10</seg> <name type="poet">- Mr. <hi rend="italic">Harington</hi>.</name></item>
+        <item><title corresp="#song42">O the Fickle state of Lovers</title> <seg type="toc_page">12</seg> <name type="poet">- Mr. <hi rend="italic">Francis Quarles</hi>.</name></item>
+        <item><title corresp="#song43">Musick thou Queen of Souls</title> <seg type="toc_page">14</seg> <name type="poet">- Mr. <hi rend="italic">Tho. Randolph</hi> of Trinity College <hi rend="italic">Cambridge</hi>.</name></item>
       </list>
       <list type="litany" rend="simple">
         <head rend="center"><hi rend="italic">Ayres and Songs for three Voyces</hi>.</head>
-        <item><title>Come <hi rend="italic">Chloris</hi>, hie we to the Bower</title> <seg type="toc_page">16</seg> <name type="poet">- Mr. <hi rend="italic">Henry Reynolds</hi>.</name></item>
-        <item><title>Though my Torment far exceeds</title> <seg type="toc_page">17</seg> <name type="poet">- Mr. <hi rend="italic">Harington</hi>.</name></item>
-        <item><title>If my Mistress fix her Eye</title> <seg type="toc_page">18</seg> <name type="poet">- Mr. <hi rend="italic">Harington</hi>.</name></item>
-        <item><title>Keep on your Vaile</title> <seg type="toc_page">19</seg> <name type="poet">- Dr. <hi rend="italic">Stroud</hi>.</name></item>
-        <item><title>Thou Shepheard whose intentive eye</title> <seg type="toc_page">20</seg> <name type="poet">- Mr. <hi rend="italic">Townshend</hi>.</name></item>
-        <item><title>O now the certain Cause I know</title> <seg type="toc_page">21</seg> <name type="poet">- Mr. <hi rend="italic">Cartwright</hi>.</name></item>
-        <item><title>Sing Fair <hi rend="italic">Clorinda</hi></title> <seg type="toc_page">22</seg> <name type="poet">- Sr. <hi rend="italic">William Davenant</hi>.</name></item>
-        <item><title>Grieve not Dear Love</title> <seg type="toc_page">24</seg> <name type="poet">- <hi rend="italic">John</hi> Earle of <hi rend="italic">Bristoll</hi>.</name></item>
-        <item><title>Ladyes whose smooth and Dainty Skin.</title> <seg type="toc_page">26</seg> <name type="poet">- Mr. <hi rend="italic">Harington</hi>.</name></item>
+        <item><title corresp="#song44">Come <hi rend="italic">Chloris</hi>, hie we to the Bower</title> <seg type="toc_page">16</seg> <name type="poet">- Mr. <hi rend="italic">Henry Reynolds</hi>.</name></item>
+        <item><title corresp="#song45">Though my Torment far exceeds</title> <seg type="toc_page">17</seg> <name type="poet">- Mr. <hi rend="italic">Harington</hi>.</name></item>
+        <item><title corresp="#song46">If my Mistress fix her Eye</title> <seg type="toc_page">18</seg> <name type="poet">- Mr. <hi rend="italic">Harington</hi>.</name></item>
+        <item><title corresp="#song47">Keep on your Vaile</title> <seg type="toc_page">19</seg> <name type="poet">- Dr. <hi rend="italic">Stroud</hi>.</name></item>
+        <item><title corresp="#song48">Thou Shepheard whose intentive eye</title> <seg type="toc_page">20</seg> <name type="poet">- Mr. <hi rend="italic">Townshend</hi>.</name></item>
+        <item><title corresp="#song49">O now the certain Cause I know</title> <seg type="toc_page">21</seg> <name type="poet">- Mr. <hi rend="italic">Cartwright</hi>.</name></item>
+        <item><title corresp="#song50">Sing Fair <hi rend="italic">Clorinda</hi></title> <seg type="toc_page">22</seg> <name type="poet">- Sr. <hi rend="italic">William Davenant</hi>.</name></item>
+        <item><title corresp="#song51">Grieve not Dear Love</title> <seg type="toc_page">24</seg> <name type="poet">- <hi rend="italic">John</hi> Earle of <hi rend="italic">Bristoll</hi>.</name></item>
+        <item><title corresp="#song52">Ladyes whose smooth and Dainty Skin.</title> <seg type="toc_page">26</seg> <name type="poet">- Mr. <hi rend="italic">Harington</hi>.</name></item>
       </list>
 </div>
 </front>
